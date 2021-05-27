@@ -1,0 +1,2480 @@
+Gene	Swiss-Prot AC	FTId	AA change	Type of variant	dbSNP	Disease/Sample
+ABHD1	Q96SE0	VAR_031087	p.Asp137Glu	Polymorphism	rs6715286	-
+ABO	P16442	VAR_003409	p.Pro156Leu	Polymorphism	rs1053878	-
+ABO	P16442	VAR_003410	p.Arg176Gly	Polymorphism	rs7853989	-
+ABO	P16442	VAR_003411	p.Gly235Ser	Polymorphism	rs8176743	-
+ABO	P16442	VAR_003412	p.Leu266Met	Polymorphism	rs8176746	-
+ABO	P16442	VAR_003413	p.Gly268Ala	Polymorphism	rs8176747	-
+ABO	P16442	VAR_003414	p.Arg352Trp	Polymorphism	-	-
+ABO	P16442	VAR_019151	p.Arg161His	Polymorphism	rs8176738	-
+ABO	P16442	VAR_019152	p.Arg199Cys	Polymorphism	rs8176739	-
+ABO	P16442	VAR_019153	p.Phe216Ile	Polymorphism	rs8176740	-
+ABO	P16442	VAR_019154	p.Val277Met	Polymorphism	rs8176748	-
+ABO	P16442	VAR_033540	p.Pro257Leu	Polymorphism	rs8176745	-
+ABO	P16442	VAR_033541	p.Gly268Arg	Polymorphism	rs41302905	-
+ABO	P16442	VAR_036738	p.Thr163Met	Polymorphism	rs55756402	-
+ABO	P16442	VAR_036740	p.Met214Arg	Polymorphism	-	-
+ABO	P16442	VAR_036741	p.Glu223Asp	Polymorphism	-	-
+ABO	P16442	VAR_036743	p.Asp291Asn	Polymorphism	-	-
+ABO	P16442	VAR_036744	p.Lys346Met	Polymorphism	-	-
+ABO	P16442	VAR_036745	p.Arg352Gly	Polymorphism	-	-
+ABO	P16442	VAR_055227	p.Gly230Arg	Unclassified	-	-
+ABO	P16442	VAR_072628	p.Pro234Ala	Polymorphism	-	-
+ACD	Q96AP0	VAR_060224	p.Thr215Met	Polymorphism	rs72547495	-
+ACD	Q96AP0	VAR_060225	p.Val432Ala	Polymorphism	rs6979	-
+ACD	Q96AP0	VAR_075694	p.Pro405Thr	Disease	rs201441120	Dyskeratosis congenita, autosomal recessive, 7 (DKCB7) [MIM:616553]
+ACTL9	Q8TC94	VAR_043000	p.Phe37Ser	Polymorphism	rs2340550	-
+ACTL9	Q8TC94	VAR_043002	p.Val51Ala	Polymorphism	rs10410943	-
+ACTL9	Q8TC94	VAR_043003	p.His227Asn	Polymorphism	rs4804079	-
+ADAM20	O43506	VAR_047311	p.Phe19Leu	Polymorphism	rs1059166	-
+ADAMTS10	Q9H324	VAR_054441	p.Thr134Ser	Polymorphism	rs7255721	-
+ADAMTS19	Q8TE59	VAR_024599	p.Tyr1089Phe	Polymorphism	rs11749126	-
+ADAMTS19	Q8TE59	VAR_057087	p.Glu582Gly	Polymorphism	rs10062501	-
+ADGRF2	Q8IZF7	VAR_024474	p.Ile467Val	Polymorphism	rs9381594	-
+ADGRL3	Q9HAR2	VAR_064478	p.Thr770Met	Polymorphism	-	-
+ADH1B	P00325	VAR_000426	p.Arg48His	Polymorphism	rs1229984	-
+ADRB1	P08588	VAR_009880	p.Arg389Gly	Polymorphism	rs1801253	-
+ADRB1	P08588	VAR_018742	p.Arg389Leu	Polymorphism	rs17875445	-
+ADSS1	Q8N142	VAR_076998	p.Asp261Asn	Disease	rs140614802	Myopathy, distal, 5 (MPD5) [MIM:617030]
+ADSS2	P30520	VAR_051881	p.Leu179Phe	Polymorphism	rs12134870	-
+AHSA2P	Q719I0	VAR_038256	p.Met248Thr	Unclassified	-	A breast cancer sample
+AIP	O00170	VAR_061545	p.Gln307Arg	Polymorphism	rs4930199	-
+AKR1C8P	Q5T2L2	VAR_032355	p.Arg50His	Polymorphism	rs7097295	-
+ALDH1B1	P30837	VAR_002258	p.Leu107Arg	Polymorphism	rs2073478	-
+ALDH9A1	P49189	VAR_011304	p.Cys116Ser	Polymorphism	-	-
+ALPG	P10696	VAR_027553	p.Leu273Met	Polymorphism	rs17416141	-
+ALPG	P10696	VAR_027554	p.Leu316Arg	Polymorphism	rs183793479	-
+ALPG	P10696	VAR_027555	p.Gly527Glu	Polymorphism	rs1048999	-
+ANKLE1	Q8NAG6	VAR_033507	p.Leu94Gln	Polymorphism	rs8108174	-
+ANKLE1	Q8NAG6	VAR_033508	p.Leu184Trp	Polymorphism	rs2363956	-
+ANKLE1	Q8NAG6	VAR_033509	p.Thr311Pro	Polymorphism	rs891017	-
+ANKLE1	Q8NAG6	VAR_033510	p.Gln435Arg	Polymorphism	rs11086065	-
+ANKLE1	Q8NAG6	VAR_033511	p.Val447Met	Polymorphism	rs34112069	-
+ANKLE1	Q8NAG6	VAR_061015	p.Pro160Ser	Polymorphism	rs59119993	-
+ANKLE1	Q8NAG6	VAR_063681	p.Ala31Thr	Polymorphism	rs8100241	-
+ANKLE1	Q8NAG6	VAR_063682	p.Ala71Val	Polymorphism	rs1864116	-
+ANKRD26P1	Q6NSI1	VAR_040003	p.Lys265Thr	Polymorphism	rs1436436	-
+ANKRD30A	Q9BXX3	VAR_033505	p.Lys917Asn	Polymorphism	rs1209750	-
+ANKRD30A	Q9BXX3	VAR_055515	p.Arg985Cys	Polymorphism	rs1200875	-
+ANKRD35	Q8N283	VAR_061017	p.Arg592Gln	Polymorphism	rs41315701	-
+ANXA4	P09525	VAR_055500	p.Thr85Met	Polymorphism	rs2228203	-
+AOPEP	Q8N6M6	VAR_021511	p.Val179Ala	Polymorphism	rs16911679	-
+AOPEP	Q8N6M6	VAR_057053	p.Val179Ile	Polymorphism	rs16911679	-
+AOPEP	Q8N6M6	VAR_057054	p.Arg255Gln	Polymorphism	rs16911681	-
+AOPEP	Q8N6M6	VAR_057055	p.Arg386Cys	Polymorphism	rs34557833	-
+AP1B1	Q10567	VAR_062816	p.Thr777Ala	Polymorphism	rs2857465	-
+APOA4	P06727	VAR_000628	p.Asn147Ser	Polymorphism	rs5104	-
+APOB	P04114	VAR_061558	p.Tyr1422Cys	Polymorphism	rs568413	-
+APOL2	Q9BQE5	VAR_012978	p.Ile245Val	Polymorphism	rs132760	-
+APRG1	Q8IVJ8	VAR_032538	p.His107Tyr	Polymorphism	rs17266511	-
+ARHGAP28	Q9P2N2	VAR_031155	p.Thr190Ser	Polymorphism	rs6506448	-
+ARHGAP28	Q9P2N2	VAR_031156	p.Gln727Pro	Polymorphism	rs1056408	-
+ARHGAP28	Q9P2N2	VAR_055833	p.Ile168Val	Polymorphism	rs2303978	-
+ARHGAP40	Q5TG30	VAR_042893	p.Arg413Leu	Polymorphism	rs6070872	-
+ARHGAP40	Q5TG30	VAR_042894	p.His463Asn	Polymorphism	rs16987460	-
+ARSA	P15289	VAR_007243	p.Leu76Pro	Polymorphism	rs199476362	-
+ARSA	P15289	VAR_007244	p.Pro82Leu	Disease	rs6151411	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007245	p.Arg84Gln	Disease	rs74315458	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007247	p.Ser95Asn	Disease	rs199476363	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007248	p.Ser96Phe	Disease	rs74315456	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007249	p.Ser96Leu	Disease	rs199476371	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007250	p.Gly99Asp	Disease	rs74315455	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007251	p.Gly119Arg	Disease	rs199476364	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007252	p.Gly122Ser	Disease	rs74315461	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007253	p.Leu135Pro	Disease	rs121434215	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007254	p.Pro136Leu	Disease	rs74315462	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007255	p.Asp152Tyr	Disease	rs199476365	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007256	p.Gly154Asp	Disease	rs74315463	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007257	p.Pro155Arg	Disease	rs74315464	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007258	p.Pro167Arg	Disease	rs74315465	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007259	p.Asp169Asn	Disease	rs74315466	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007260	p.Cys172Tyr	Disease	rs199476381	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007261	p.Ile179Ser	Disease	rs74315457	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007262	p.Trp193Cys	Polymorphism	rs6151415	-
+ARSA	P15289	VAR_007263	p.Tyr201Cys	Disease	rs199476345	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007265	p.Ala224Val	Disease	rs74315468	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007266	p.Pro231Thr	Disease	rs74315469	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007267	p.Arg244Cys	Disease	rs74315470	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007268	p.Arg244His	Disease	rs199476366	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007270	p.Ser250Tyr	Disease	rs199476367	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007271	p.Thr274Met	Disease	rs74315472	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007272	p.Arg288Cys	Disease	rs74315473	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007273	p.Ser295Tyr	Disease	rs74315474	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007274	p.Gly309Ser	Disease	rs74315459	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007275	p.Arg311Gln	Disease	rs199476382	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007276	p.Ala314Thr	Disease	rs199476368	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007277	p.Asp335Val	Disease	rs74315475	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007278	p.Asn350Ser	Polymorphism	rs2071421	-
+ARSA	P15289	VAR_007279	p.Lys367Asn	Disease	rs199476369	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007280	p.Arg370Gln	Disease	rs74315477	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007281	p.Arg370Trp	Disease	rs74315476	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007282	p.Pro377Leu	Disease	rs74315478	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007283	p.Glu382Lys	Disease	rs74315479	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007284	p.Arg384Cys	Disease	rs199476370	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007285	p.Arg390Gln	Disease	rs199476391	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007286	p.Arg390Trp	Disease	rs74315480	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007287	p.Thr391Ser	Polymorphism	rs743616	-
+ARSA	P15289	VAR_007288	p.His397Tyr	Disease	rs199476376	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007291	p.Pro426Leu	Disease	rs28940893	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_007292	p.Ala464Val	Polymorphism	-	-
+ARSA	P15289	VAR_007293	p.Arg496His	Polymorphism	rs6151428	-
+ARSA	P15289	VAR_008132	p.Cys300Phe	Disease	rs74315484	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_008133	p.Pro425Thr	Disease	rs74315485	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_018838	p.Phe356Val	Polymorphism	rs6151422	-
+ARSA	P15289	VAR_054165	p.Asp29Asn	Disease	rs199476346	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054166	p.Asp30His	Disease	rs199476340	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054167	p.Gly32Ser	Disease	rs199476350	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054168	p.Leu68Pro	Disease	rs199476351	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054169	p.Arg84Trp	Disease	rs199476352	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054171	p.Gly99Val	Disease	rs74315455	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054172	p.Pro136Ser	Disease	rs60504011	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054174	p.Arg143Gly	Disease	rs199476373	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054175	p.Pro148Leu	Disease	rs199476375	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054176	p.Gln153His	Disease	rs199476377	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054177	p.Pro155Leu	Disease	rs74315464	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054178	p.Cys156Arg	Disease	rs199476348	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054179	p.Leu181Gln	Disease	rs199476378	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054180	p.Gln190His	Disease	rs199476372	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054181	p.Pro191Thr	Disease	rs199476374	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054183	p.Arg217His	Disease	rs148403406	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054184	p.Phe219Val	Disease	rs199476383	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054185	p.His227Tyr	Disease	rs199476354	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054186	p.Phe247Ser	Disease	rs199476384	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054187	p.Glu253Lys	Disease	rs74315483	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054188	p.Asp255His	Disease	rs80338819	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054189	p.Asp281Tyr	Disease	rs199476386	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054190	p.Asn282Ser	Disease	rs199476342	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054191	p.Thr286Pro	Disease	rs28940894	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054192	p.Arg288His	Disease	rs199476355	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054193	p.Gly293Asp	Disease	rs199476387	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054194	p.Gly293Ser	Disease	rs199476349	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054195	p.Cys294Tyr	Disease	rs199476347	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054196	p.Leu298Ser	Disease	rs199476389	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054197	p.Lys302Asn	Disease	rs199476343	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054198	p.Tyr306His	Disease	rs199476379	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054201	p.Glu312Asp	Disease	rs199476390	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054202	p.Gly325Ser	Disease	rs148092995	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054203	p.Thr327Ile	Disease	-	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054204	p.Tyr376Asn	Disease	rs199476344	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054205	p.Asp381Glu	Disease	rs6151425	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054206	p.Thr408Ile	Disease	rs28940895	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054207	p.Thr409Ile	Disease	rs74315481	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054208	p.Leu428Pro	Disease	rs199476392	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054209	p.Tyr429Ser	Disease	rs199476380	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054210	p.Ala469Gly	Disease	rs199476385	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_054211	p.Cys489Gly	Disease	rs199476388	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_067414	p.Leu52Pro	Disease	rs199476357	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_067415	p.His138Asp	Disease	rs199476358	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_067416	p.Thr304Met	Disease	rs199476359	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_067417	p.Glu307Lys	Disease	rs199476360	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ARSA	P15289	VAR_067418	p.Ser406Gly	Disease	rs199476361	Metachromatic leukodystrophy (MLD) [MIM:250100]
+ART4	Q93070	VAR_013709	p.Asn265Asp	Polymorphism	rs11276	-
+ASB16-AS1	Q495Z4	VAR_032127	p.Ser32Arg	Polymorphism	rs7217858	-
+ASB16-AS1	Q495Z4	VAR_061623	p.Cys114Arg	Polymorphism	rs7212573	-
+ASCL3	Q9NQ33	VAR_055948	p.Arg54Leu	Polymorphism	rs4909951	-
+ASH1L	Q9NR48	VAR_080559	p.Val2085Ile	Unclassified	rs749494995	Mental retardation, autosomal dominant 52 (MRD52) [MIM:617796]
+ASH1L	Q9NR48	VAR_080561	p.Arg2396His	Unclassified	rs753029013	Mental retardation, autosomal dominant 52 (MRD52) [MIM:617796]
+ASH1L	Q9NR48	VAR_080562	p.Ala2791Pro	Disease	rs1553241570	Mental retardation, autosomal dominant 52 (MRD52) [MIM:617796]
+ASMT	P46597	VAR_069120	p.Asp210Gly	Polymorphism	rs121918824	-
+ASMT	P46597	VAR_069121	p.Ile211Met	Polymorphism	rs201316181	-
+ASMT	P46597	VAR_069122	p.Thr217Met	Polymorphism	rs148036160	-
+ASMT	P46597	VAR_069123	p.Lys219Arg	Polymorphism	rs121918825	-
+ASMT	P46597	VAR_069124	p.Pro243Leu	Polymorphism	rs121918826	-
+ASMT	P46597	VAR_069125	p.Tyr248His	Polymorphism	-	-
+ASMT	P46597	VAR_069126	p.Ile269Met	Polymorphism	rs146121655	-
+ASMT	P46597	VAR_069127	p.Cys273Ser	Polymorphism	rs121918827	-
+ASMT	P46597	VAR_069129	p.Glu288Asp	Polymorphism	rs121918821	-
+ASMT	P46597	VAR_069130	p.Arg291Gln	Polymorphism	rs121918828	-
+ASMT	P46597	VAR_069131	p.Leu298Phe	Polymorphism	rs121918822	-
+ASMT	P46597	VAR_069132	p.Val305Met	Polymorphism	-	-
+ASTN2	O75129	VAR_036766	p.Arg865His	Polymorphism	rs3818503	-
+ASTN2	O75129	VAR_036767	p.Val1149Ile	Polymorphism	rs16933591	-
+ASTN2	O75129	VAR_036768	p.Val1293Leu	Unclassified	-	A breast cancer sample
+ATPAF1	Q5TC12	VAR_038906	p.Ser62Gly	Polymorphism	rs11211337	-
+ATPSCKMT	Q6P4H8	VAR_039345	p.Thr75Met	Polymorphism	rs2438652	-
+ATPSCKMT	Q6P4H8	VAR_039346	p.Ala105Val	Polymorphism	rs16884350	-
+ATPSCKMT	Q6P4H8	VAR_039347	p.Val114Ala	Polymorphism	rs17360625	-
+ATPSCKMT	Q6P4H8	VAR_039348	p.Leu229Met	Polymorphism	rs15757	-
+AURKA	O14965	VAR_030842	p.Val57Ile	Polymorphism	rs1047972	-
+AXIN2	Q9Y2T1	VAR_054860	p.Ser50Pro	Unclassified	rs2240308	Polymorphism associated with increased risk of lung cancer
+BAALC	Q8WXS3	VAR_056741	p.Ser164Thr	Polymorphism	rs34542607	-
+BAGE3	Q86Y29	VAR_059587	p.Arg95Thr	Polymorphism	rs2740327	-
+BAGE3	Q86Y29	VAR_059588	p.Gln106Arg	Polymorphism	rs9808647	-
+BBS2	Q9BXC9	VAR_013162	p.Asn70Ser	Disease	rs4784677	Bardet-Biedl syndrome 2 (BBS2) [MIM:615981]
+BCORL1	Q5H9F3	VAR_061020	p.Phe111Leu	Polymorphism	rs4830173	-
+BIRC5	O15392	VAR_021071	p.Lys129Glu	Polymorphism	rs2071214	-
+BNIP2	Q12982	VAR_018837	p.Ser24Thr	Polymorphism	rs6151509	-
+BNIP5	P0C671	VAR_056808	p.Leu582Val	Polymorphism	rs743852	-
+BRCA2	P51587	VAR_008785	p.Ala2466Val	Polymorphism	-	-
+BTN2A3P	Q96KV6	VAR_049830	p.Gly79Asp	Polymorphism	rs7745238	-
+BTN2A3P	Q96KV6	VAR_049831	p.Val148Ile	Polymorphism	rs10946829	-
+BTN2A3P	Q96KV6	VAR_049832	p.Asn300Ser	Polymorphism	rs2893848	-
+C10orf91	Q5T1B1	VAR_033694	p.Glu144Gly	Polymorphism	rs11146376	-
+C11orf72	Q8NBR9	VAR_029584	p.Pro22Thr	Polymorphism	rs12421329	-
+C11orf96	Q7Z7L8	VAR_039242	p.Thr26Ala	Polymorphism	rs1973717	-
+C11orf96	Q7Z7L8	VAR_039243	p.Ser47Pro	Polymorphism	rs12797684	-
+C11orf96	Q7Z7L8	VAR_039245	p.Arg144Cys	Polymorphism	rs12796667	-
+C11orf96	Q7Z7L8	VAR_039246	p.Phe151Ser	Polymorphism	rs12798337	-
+C11orf96	Q7Z7L8	VAR_039247	p.Pro352Ser	Polymorphism	rs2434483	-
+C12orf66	Q96MD2	VAR_039371	p.Met139Ile	Polymorphism	rs2335390	-
+C12orf77	C9JDV5	VAR_062957	p.Leu131Phe	Polymorphism	rs864161	-
+C15orf54	Q8N8G6	VAR_044189	p.Thr59Met	Polymorphism	rs11853050	-
+C15orf54	Q8N8G6	VAR_044190	p.Glu77Lys	Polymorphism	rs16968547	-
+C1orf127	Q8N9H9	VAR_031750	p.Ala530Val	Polymorphism	rs1281018	-
+C1orf127	Q8N9H9	VAR_056766	p.Arg256Gln	Polymorphism	rs1281012	-
+C1orf147	Q96MC9	VAR_027074	p.Gly213Ala	Polymorphism	rs2336940	-
+C1orf147	Q96MC9	VAR_027075	p.Pro233Ser	Polymorphism	rs11118256	-
+C1orf147	Q96MC9	VAR_027076	p.Thr259Met	Polymorphism	rs17024805	-
+C1orf158	Q8N1D5	VAR_027091	p.Phe191Leu	Polymorphism	rs1132185	-
+C1orf167	Q5SNV9	VAR_035266	p.Pro453Ser	Polymorphism	rs6668699	-
+C1orf167	Q5SNV9	VAR_035267	p.Arg544Gln	Polymorphism	rs4845880	-
+C1orf167	Q5SNV9	VAR_035268	p.Arg602Trp	Polymorphism	rs6667720	-
+C1orf167	Q5SNV9	VAR_035269	p.Trp782Arg	Polymorphism	rs6699881	-
+C1orf167	Q5SNV9	VAR_035270	p.Arg800Cys	Polymorphism	rs7538516	-
+C1orf167	Q5SNV9	VAR_035271	p.Ser848Ile	Polymorphism	rs6697244	-
+C1orf167	Q5SNV9	VAR_035272	p.Arg944His	Polymorphism	rs4846043	-
+C1orf167	Q5SNV9	VAR_035273	p.Trp955Arg	Polymorphism	rs4846044	-
+C1orf167	Q5SNV9	VAR_035275	p.Cys1295Ser	Polymorphism	rs1537514	-
+C1orf194	Q5T5A4	VAR_082033	p.Lys28Ile	Unclassified	-	-
+C1orf194	Q5T5A4	VAR_082034	p.Ile122Asn	Disease	-	-
+C1orf220	Q5T0J3	VAR_056768	p.Pro3Leu	Polymorphism	rs12568310	-
+C1R	P00736	VAR_047933	p.Thr186Arg	Polymorphism	rs4519167	-
+C20orf173	Q96LM9	VAR_024334	p.Lys141Glu	Polymorphism	rs7261862	-
+C3P1	Q6ZMU1	VAR_044412	p.Gln172Arg	Polymorphism	rs8113341	-
+C3P1	Q6ZMU1	VAR_044413	p.Asp230Asn	Polymorphism	rs10403787	-
+C3P1	Q6ZMU1	VAR_044414	p.Asp251Gly	Polymorphism	rs1993466	-
+C3P1	Q6ZMU1	VAR_044415	p.Leu262Arg	Polymorphism	rs4552116	-
+C4orf50	Q6ZRC1	VAR_042680	p.Arg86Trp	Polymorphism	rs16837960	-
+C4orf50	Q6ZRC1	VAR_042681	p.Ala150Pro	Unclassified	-	A breast cancer sample
+C4orf50	Q6ZRC1	VAR_042682	p.Ile177Val	Polymorphism	rs6839295	-
+C4orf50	Q6ZRC1	VAR_042683	p.Val199Met	Polymorphism	rs7695618	-
+C5orf34	Q96MH7	VAR_061589	p.Thr32Ser	Polymorphism	rs6872851	-
+C8B	P07358	VAR_012642	p.Arg117Gly	Polymorphism	rs1013579	-
+C8orf17	Q9NRJ1	VAR_042878	p.Thr19Met	Polymorphism	rs2233233	-
+C8orf17	Q9NRJ1	VAR_042879	p.Lys49Arg	Polymorphism	rs2233235	-
+C8orf17	Q9NRJ1	VAR_042880	p.Thr57Ile	Polymorphism	rs2233236	-
+C8orf31	Q8N9H6	VAR_033150	p.Leu39Pro	Polymorphism	rs11136300	-
+C8orf49	Q96NF6	VAR_029849	p.Arg26Gly	Polymorphism	rs804285	-
+CACHD1	Q5VU97	VAR_035052	p.Met414Thr	Polymorphism	rs6588100	-
+CALCR	P30988	VAR_003580	p.Pro447Leu	Polymorphism	rs1801197	-
+CALCRL	Q16602	VAR_054822	p.Asn8Tyr	Polymorphism	rs698577	-
+CASC2	Q6XLA1	VAR_039469	p.Pro8Ser	Unclassified	-	Some patients with endometrial cancer
+CASP12	Q6UXS9	VAR_080638	p.Ile68Thr	Polymorphism	rs693001	-
+CASP12	Q6UXS9	VAR_080640	p.Ser238Gly	Polymorphism	rs647039	-
+CBLIF	P27352	VAR_022742	p.Gln23Arg	Polymorphism	rs35211634	-
+CBLIF	P27352	VAR_022743	p.Ser46Leu	Disease	rs121434322	Hereditary intrinsic factor deficiency (IFD) [MIM:261000]
+CBLIF	P27352	VAR_022744	p.Asn255Ser	Polymorphism	rs35867471	-
+CBLIF	P27352	VAR_048753	p.Gly65Arg	Polymorphism	rs11825834	-
+CC2D2B	Q6DHV5	VAR_050697	p.Asn800Asp	Polymorphism	rs17383738	-
+CC2D2B	Q6DHV5	VAR_050698	p.Tyr973His	Polymorphism	rs9943393	-
+CCDC142	Q17RM4	VAR_037210	p.Arg534Gln	Polymorphism	rs13385919	-
+CCDC168	Q8NDH2	VAR_044210	p.Pro30Ser	Polymorphism	rs11843669	-
+CCDC168	Q8NDH2	VAR_044211	p.Met94Val	Polymorphism	rs17592459	-
+CCDC168	Q8NDH2	VAR_044212	p.Gly264Ser	Polymorphism	rs9518825	-
+CCDC168	Q8NDH2	VAR_044213	p.Ser314Pro	Polymorphism	rs9300758	-
+CCDC168	Q8NDH2	VAR_044214	p.Leu347Pro	Polymorphism	rs9300757	-
+CCDC168	Q8NDH2	VAR_044215	p.Gly382Ala	Polymorphism	rs17507841	-
+CCDC168	Q8NDH2	VAR_044216	p.Arg1015Thr	Polymorphism	rs7982465	-
+CCDC168	Q8NDH2	VAR_044218	p.Arg1209Gln	Polymorphism	rs17592438	-
+CCDC168	Q8NDH2	VAR_044219	p.Phe1287Leu	Polymorphism	rs7335290	-
+CCDC168	Q8NDH2	VAR_044221	p.Arg1446Cys	Polymorphism	rs9300756	-
+CCDC168	Q8NDH2	VAR_044224	p.Lys1915Glu	Polymorphism	rs9554897	-
+CCDC33	Q8N5R6	VAR_045602	p.Met635Val	Polymorphism	rs2277603	-
+CCDC33	Q8N5R6	VAR_045603	p.Arg640Leu	Polymorphism	rs2277604	-
+CCL15	Q16663	VAR_011640	p.Ile24Thr	Polymorphism	rs854625	-
+CCL23	P55773	VAR_011916	p.Val106Met	Polymorphism	rs1003645	-
+CCN1	O00622	VAR_018934	p.Arg334Trp	Polymorphism	rs9658587	-
+CCN2	P29279	VAR_027925	p.His83Asp	Polymorphism	rs7451102	-
+CCN3	P48745	VAR_049568	p.Arg42Gln	Polymorphism	rs2279112	-
+CCN3	P48745	VAR_049569	p.Arg233His	Polymorphism	rs11538929	-
+CCN6	O95389	VAR_016224	p.Gln56His	Polymorphism	rs1230345	-
+CCN6	O95389	VAR_016225	p.Cys78Arg	Disease	rs121908902	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_049567	p.Arg60Cys	Polymorphism	rs17073260	-
+CCN6	O95389	VAR_081485	p.Cys78Tyr	Disease	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081486	p.Gly83Glu	Polymorphism	rs147337485	-
+CCN6	O95389	VAR_081487	p.Cys114Arg	Disease	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081488	p.Cys114Trp	Disease	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081490	p.Cys145Arg	Unclassified	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081491	p.Cys223Gly	Disease	rs782813346	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081492	p.Ser228Pro	Unclassified	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081493	p.Cys268Gly	Unclassified	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081495	p.Cys337Tyr	Disease	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081652	p.Tyr99Phe	Unclassified	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081653	p.Cys100Ser	Unclassified	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081654	p.Cys114Tyr	Disease	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081655	p.Cys145Tyr	Unclassified	rs121908899	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081657	p.Gly226Val	Disease	-	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCN6	O95389	VAR_081659	p.Ser334Pro	Disease	rs121908903	Progressive pseudorheumatoid arthropathy of childhood (PPAC) [MIM:208230]
+CCNYL2	Q5T2Q4	VAR_037297	p.Val57Glu	Polymorphism	rs2490085	-
+CCNYL2	Q5T2Q4	VAR_037298	p.Arg176Gln	Polymorphism	rs2489720	-
+CCNYL2	Q5T2Q4	VAR_037299	p.Ile288Val	Polymorphism	rs2505861	-
+CCT8L1P	A6NM43	VAR_046039	p.Cys217Ser	Polymorphism	rs6969304	-
+CCT8L1P	A6NM43	VAR_046040	p.Asp308Asn	Polymorphism	rs12672139	-
+CCT8L1P	A6NM43	VAR_046041	p.Ser395Gly	Polymorphism	rs6953943	-
+CD200R1	Q8TD46	VAR_014352	p.Arg89Lys	Polymorphism	rs2171509	-
+CD200R1	Q8TD46	VAR_014353	p.Pro121Thr	Polymorphism	rs4596117	-
+CD200R1	Q8TD46	VAR_014354	p.Gln177His	Polymorphism	rs9826308	-
+CD97	P48960	VAR_017760	p.Arg367Gln	Polymorphism	rs2230748	-
+CDSN	Q15517	VAR_022618	p.Ser202Phe	Polymorphism	rs707913	-
+CDSN	Q15517	VAR_022620	p.Ser410Leu	Polymorphism	rs3132554	-
+CDSN	Q15517	VAR_022621	p.Asp527Asn	Polymorphism	rs3130981	-
+CDYL	Q9Y232	VAR_032936	p.Thr2Ala	Polymorphism	rs3812179	-
+CDYL	Q9Y232	VAR_032937	p.Ser9Pro	Polymorphism	rs3812178	-
+CDYL	Q9Y232	VAR_032938	p.Val48Ala	Polymorphism	rs13196069	-
+CDYL	Q9Y232	VAR_032939	p.Ala60Gly	Polymorphism	rs28360500	-
+CEACAM21	Q3KPI0	VAR_034651	p.Thr121Asn	Polymorphism	rs714106	-
+CEACAM21	Q3KPI0	VAR_034652	p.Met198Val	Polymorphism	rs2302188	-
+CEACAM5	P06731	VAR_024493	p.Lys398Glu	Polymorphism	rs7249230	-
+CEACAM6	P40199	VAR_034680	p.Gly239Val	Polymorphism	rs11548735	-
+CEACAM7	Q14002	VAR_024494	p.Phe120Ile	Polymorphism	rs8102488	-
+CECR2	Q9BXF3	VAR_027412	p.Pro674Leu	Polymorphism	rs1296794	-
+CEFIP	Q711Q0	VAR_031441	p.Asn208Lys	Polymorphism	rs4838383	-
+CEFIP	Q711Q0	VAR_031442	p.His666Gln	Polymorphism	rs10857469	-
+CEFIP	Q711Q0	VAR_059608	p.Phe698Ser	Polymorphism	rs7921186	-
+CEFIP	Q711Q0	VAR_059609	p.Asp741Gly	Polymorphism	rs11101093	-
+CEFIP	Q711Q0	VAR_059610	p.Asp883Asn	Polymorphism	rs12217617	-
+CEFIP	Q711Q0	VAR_059611	p.Phe958Tyr	Polymorphism	rs10857470	-
+CEFIP	Q711Q0	VAR_059612	p.Gly1084Ala	Polymorphism	rs11101094	-
+CEFIP	Q711Q0	VAR_059613	p.Val1254Ile	Polymorphism	rs11101095	-
+CEFIP	Q711Q0	VAR_059614	p.Gly1337Ser	Polymorphism	rs10857472	-
+CEFIP	Q711Q0	VAR_061604	p.Arg320Leu	Polymorphism	rs56206226	-
+CEFIP	Q711Q0	VAR_061605	p.Asp461Ala	Polymorphism	rs45554335	-
+CEFIP	Q711Q0	VAR_061606	p.Val522Gly	Polymorphism	rs61453891	-
+CEP126	Q9P2H0	VAR_027364	p.Gly238Cys	Polymorphism	rs7926728	-
+CERT	Q9Y5P4	VAR_061815	p.Lys599Arg	Polymorphism	rs55882089	-
+CERT	Q9Y5P4	VAR_069403	p.Ser138Cys	Unclassified	-	-
+CERT	Q9Y5P4	VAR_073721	p.Ser132Leu	Disease	rs1064794019	Mental retardation, autosomal dominant 34 (MRD34) [MIM:616351]
+CERT	Q9Y5P4	VAR_078652	p.Gly243Arg	Disease	-	Mental retardation, autosomal dominant 34 (MRD34) [MIM:616351]
+CES2	O00748	VAR_018396	p.Arg34Trp	Polymorphism	rs72547531	-
+CES2	O00748	VAR_018397	p.Arg206His	Polymorphism	rs8192924	-
+CFAP410	O43822	VAR_016155	p.Thr150Ile	Polymorphism	rs2277809	-
+CFAP410	O43822	VAR_050927	p.Gly153Ser	Polymorphism	rs9306099	-
+CFAP410	O43822	VAR_075924	p.Arg73Pro	Disease	rs140451304	Spondylometaphyseal dysplasia, axial (SMDAX) [MIM:602271]
+CFAP410	O43822	VAR_075925	p.Tyr107His	Disease	rs763623409	Spondylometaphyseal dysplasia, axial (SMDAX) [MIM:602271]
+CFAP410	O43822	VAR_075926	p.Pro116Leu	Disease	rs922930539	Spondylometaphyseal dysplasia, axial (SMDAX) [MIM:602271]
+CFAP410	O43822	VAR_075927	p.Leu224Pro	Disease	rs1114167892	Spondylometaphyseal dysplasia, axial (SMDAX) [MIM:602271]
+CFAP410	O43822	VAR_079180	p.Cys61Tyr	Disease	rs1057518441	Retinal dystrophy with or without macular staphyloma (RDMS) [MIM:617547]
+CFAP410	O43822	VAR_079181	p.Tyr107Cys	Disease	rs1131690801	Retinal dystrophy with or without macular staphyloma (RDMS) [MIM:617547]
+CFAP410	O43822	VAR_079182	p.Val111Met	Disease	rs555164150	Spondylometaphyseal dysplasia, axial (SMDAX) [MIM:602271]
+CFH	P08603	VAR_001979	p.Tyr402His	Polymorphism	rs1061170	-
+CGB1	A6NKQ9	VAR_055838	p.Pro185Ser	Polymorphism	rs35371968	-
+CGN	Q9P2M7	VAR_057809	p.Arg479Gln	Polymorphism	rs12038198	-
+CHMP4A	Q9BY43	VAR_023384	p.Gly153Arg	Polymorphism	rs2295322	-
+CIAO3	Q9H6Q4	VAR_053911	p.Val38Met	Polymorphism	rs8045850	-
+CIAO3	Q9H6Q4	VAR_053912	p.His444Arg	Polymorphism	rs7188554	-
+CIITA	P33076	VAR_047907	p.Arg174Gly	Polymorphism	rs8046121	-
+CLASRP	Q8N2M8	VAR_016809	p.Lys174Glu	Polymorphism	rs4803794	-
+CLCA3P	Q9Y6N3	VAR_035296	p.Tyr84Thr	Polymorphism	rs2292830	-
+CLCA3P	Q9Y6N3	VAR_035297	p.Ile104Thr	Polymorphism	rs2292829	-
+CLEC3A	O75596	VAR_021259	p.Gln197Lys	Polymorphism	rs2072663	-
+CLLU1	Q5K131	VAR_034663	p.Ser9Phe	Polymorphism	rs12580153	-
+CLN5	O75503	VAR_005137	p.Asp230Asn	Disease	rs28940280	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_005138	p.Lys319Arg	Polymorphism	rs1800209	-
+CLN5	O75503	VAR_042701	p.Tyr209Asp	Disease	rs386833981	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_059031	p.Glu219Ala	Polymorphism	rs11842935	-
+CLN5	O75503	VAR_059032	p.Trp330Cys	Disease	rs386833968	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_066895	p.Trp26Arg	Polymorphism	rs199727787	-
+CLN5	O75503	VAR_066896	p.Cys77Tyr	Disease	rs267606738	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_066897	p.Asn143Ser	Disease	rs386833975	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_066898	p.Leu149Pro	Disease	rs386833976	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_066899	p.Pro156Ser	Disease	rs386833977	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_066900	p.Trp158Arg	Disease	rs147065248	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_066901	p.Trp158Ser	Disease	rs386833978	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CLN5	O75503	VAR_066902	p.Asn193Lys	Polymorphism	rs138611001	-
+CLN5	O75503	VAR_066903	p.Tyr325Cys	Disease	rs148862100	Ceroid lipofuscinosis, neuronal, 5 (CLN5) [MIM:256731]
+CNDP1	Q96KN2	VAR_027149	p.Ile113Val	Polymorphism	rs4263028	-
+CNTLN	Q9NXG0	VAR_025610	p.Thr1376Ala	Polymorphism	rs2499057	-
+COA8	Q96IL0	VAR_023000	p.Pro27Ala	Polymorphism	rs2274268	-
+COA8	Q96IL0	VAR_033745	p.Asn88Ser	Polymorphism	rs35960830	-
+COA8	Q96IL0	VAR_082030	p.Phe118Ser	Unclassified	-	Mitochondrial complex IV deficiency (MT-C4D) [MIM:220110]
+COG4	Q9H9E3	VAR_058009	p.Thr158Ile	Polymorphism	rs3931036	-
+COG4	Q9H9E3	VAR_063767	p.Arg729Trp	Disease	-	Congenital disorder of glycosylation 2J (CDG2J) [MIM:613489]
+COG4	Q9H9E3	VAR_081564	p.Gly512Arg	Disease	rs1555575860	Saul-Wilson syndrome (SWILS) [MIM:618150]
+COX7A2	P14406	VAR_012319	p.Glu40Asp	Polymorphism	-	-
+CP	P00450	VAR_025657	p.Asp544Glu	Polymorphism	rs701753	-
+CPAMD8	Q8IZJ3	VAR_038655	p.Arg251Trp	Polymorphism	rs10426545	-
+CPAMD8	Q8IZJ3	VAR_038656	p.Met265Thr	Polymorphism	rs4808551	-
+CPAMD8	Q8IZJ3	VAR_038657	p.Arg294Gln	Polymorphism	rs3745340	-
+CPAMD8	Q8IZJ3	VAR_038658	p.Asp539Glu	Polymorphism	rs3745335	-
+CPAMD8	Q8IZJ3	VAR_038659	p.His546Arg	Polymorphism	rs1824152	-
+CPAMD8	Q8IZJ3	VAR_038660	p.Pro736His	Polymorphism	rs9305083	-
+CPAMD8	Q8IZJ3	VAR_038661	p.Val1156Ile	Polymorphism	rs2250918	-
+CPAMD8	Q8IZJ3	VAR_038662	p.Thr1268Ile	Polymorphism	rs706761	-
+CPAMD8	Q8IZJ3	VAR_038663	p.Gln1843Arg	Polymorphism	rs1054533	-
+CR1	P17927	VAR_013823	p.Ser1610Thr	Polymorphism	rs4844609	-
+CRAD	Q6ZU35	VAR_044205	p.Leu269Ile	Polymorphism	rs6823339	-
+CRAD	Q6ZU35	VAR_044206	p.Arg655Pro	Polymorphism	rs7672073	-
+CRAD	Q6ZU35	VAR_044207	p.Arg710Gln	Polymorphism	rs3796546	-
+CRAD	Q6ZU35	VAR_044208	p.Ser776Leu	Polymorphism	rs3796547	-
+CRAD	Q6ZU35	VAR_079174	p.Glu249Gln	Polymorphism	rs1379374919	-
+CREM	Q03060	VAR_055561	p.Gln254Arg	Polymorphism	rs1804604	-
+CRISP3	P54108	VAR_011719	p.Ala134Ser	Polymorphism	rs1864312	-
+CROCC	Q5TZA2	VAR_061626	p.Arg7Gly	Polymorphism	rs6586566	-
+CRPPA	A4D126	VAR_068101	p.Ala122Pro	Disease	rs387907162	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_068102	p.Arg126His	Disease	rs752817129	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_068103	p.Ala216Asp	Disease	rs387907160	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_069741	p.Asp156Asn	Disease	rs397514547	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_069742	p.Met213Arg	Disease	rs397515408	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_069743	p.Tyr226His	Disease	rs1282788711	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_069744	p.Thr238Ile	Disease	rs397515409	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_071955	p.Gly54Ala	Disease	rs587777797	Muscular dystrophy-dystroglycanopathy limb-girdle C7 (MDDGC7) [MIM:616052]
+CRPPA	A4D126	VAR_078948	p.Pro149Leu	Disease	rs369219851	Muscular dystrophy-dystroglycanopathy limb-girdle C7 (MDDGC7) [MIM:616052]
+CRPPA	A4D126	VAR_078949	p.Arg205His	Disease	rs566179705	Muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies A7 (MDDGA7) [MIM:614643]
+CRPPA	A4D126	VAR_078951	p.Tyr226Cys	Disease	rs1289931198	Muscular dystrophy-dystroglycanopathy limb-girdle C7 (MDDGC7) [MIM:616052]
+CRPPA	A4D126	VAR_078970	p.Ala53Thr	Disease	-	Muscular dystrophy-dystroglycanopathy limb-girdle C7 (MDDGC7) [MIM:616052]
+CSPP1	Q1MSJ5	VAR_047014	p.Trp1135Arg	Polymorphism	rs1808140	-
+CTSL3P	Q5NE16	VAR_057040	p.Ser123Gly	Polymorphism	rs11141967	-
+CUSTOS	Q96C57	VAR_030491	p.Gly44Arg	Polymorphism	rs11537857	-
+CXCL16	Q9H2A7	VAR_015424	p.Ile123Thr	Polymorphism	-	-
+CXCL16	Q9H2A7	VAR_015425	p.Ala181Val	Polymorphism	rs2277680	-
+CXorf1	O96002	VAR_033766	p.Ser36Ala	Polymorphism	rs3752359	-
+CYP21A2	P08686	VAR_001281	p.Pro30Leu	Disease	rs9378251	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001282	p.Lys98Arg	Polymorphism	rs1268071078	-
+CYP21A2	P08686	VAR_001283	p.Lys102Arg	Polymorphism	rs6474	-
+CYP21A2	P08686	VAR_001284	p.Pro105Leu	Disease	rs550051210	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001285	p.Cys169Tyr	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001287	p.Asp183Glu	Polymorphism	rs397515531	-
+CYP21A2	P08686	VAR_001288	p.Ile236Asn	Disease	rs111647200	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001289	p.Val237Glu	Disease	rs12530380	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001290	p.Met239Lys	Disease	rs6476	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001291	p.Ser268Thr	Polymorphism	rs6472	-
+CYP21A2	P08686	VAR_001292	p.Val281Leu	Disease	rs6471	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001293	p.Gly291Ser	Disease	rs201552310	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001294	p.Arg339His	Disease	rs72552754	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001295	p.Arg341Trp	Disease	rs72552755	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001296	p.Arg356Pro	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001297	p.Arg356Gln	Disease	rs574370139	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001298	p.Arg356Trp	Disease	rs7769409	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001299	p.Glu380Asp	Disease	rs72552756	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001301	p.Arg483Pro	Disease	rs200005406	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_001302	p.Asn493Ser	Polymorphism	rs6473	-
+CYP21A2	P08686	VAR_007923	p.Gly64Glu	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_018364	p.His62Leu	Disease	rs9378252	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_018365	p.Gly291Arg	Disease	rs201552310	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_018367	p.Arg341Pro	Disease	rs747079101	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_018368	p.Arg483Gln	Disease	rs200005406	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026059	p.Ala15Thr	Unclassified	rs63749090	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026060	p.Pro30Gln	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026061	p.Gly90Val	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026062	p.Arg124His	Disease	rs72552750	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026063	p.Gly178Ala	Disease	rs72552751	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026064	p.Val211Leu	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026065	p.Leu261Pro	Disease	rs750337015	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026066	p.Val281Gly	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026067	p.Met283Leu	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026068	p.Gly291Cys	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026069	p.Leu300Phe	Disease	rs765001985	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026070	p.Val304Met	Polymorphism	rs151344505	-
+CYP21A2	P08686	VAR_026071	p.Leu317Met	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026072	p.Arg354Cys	Disease	rs772900496	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026073	p.Arg354His	Disease	rs760216630	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026074	p.Leu363Trp	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026075	p.His365Tyr	Disease	rs1330554738	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026076	p.Gly375Ser	Polymorphism	rs151344506	-
+CYP21A2	P08686	VAR_026077	p.Arg408Cys	Disease	rs72552757	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026078	p.Gly424Ser	Disease	rs72552758	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026079	p.Arg426His	Disease	rs151344504	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026080	p.Arg435Cys	Disease	rs767333157	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026081	p.Arg479Leu	Disease	rs184649564	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026082	p.Pro482Ser	Disease	rs776989258	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_026083	p.Arg483Trp	Disease	rs759736443	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_065668	p.Gly56Arg	Disease	rs1413433421	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_065669	p.Ile77Thr	Disease	rs1333278223	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_065670	p.Leu107Arg	Disease	rs957886272	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_065672	p.Leu142Pro	Disease	rs755020999	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_065674	p.Ile230Thr	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_065675	p.Arg233Lys	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_065678	p.Arg369Trp	Disease	rs781074931	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_075372	p.Cys169Arg	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_075373	p.Gly178Arg	Disease	rs772317717	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_075375	p.Leu198Phe	Disease	rs143240527	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_075376	p.His282Asn	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_075377	p.Trp302Arg	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_075378	p.Arg426Cys	Disease	rs1370167869	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_077583	p.Arg16Cys	Polymorphism	rs757608533	-
+CYP21A2	P08686	VAR_077584	p.Ser113Phe	Disease	rs1296268275	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP21A2	P08686	VAR_077585	p.Ser202Gly	Polymorphism	rs372964292	-
+CYP21A2	P08686	VAR_077586	p.Pro267Leu	Polymorphism	rs61732108	-
+CYP21A2	P08686	VAR_077588	p.Thr450Met	Polymorphism	rs1319651744	-
+CYP21A2	P08686	VAR_077589	p.Thr450Pro	Disease	-	Adrenal hyperplasia 3 (AH3) [MIM:201910]
+CYP2C19	P33261	VAR_001255	p.Val331Ile	Polymorphism	rs3758581	-
+CYP2D7	A0A087X1C5	VAR_072636	p.His383Arg	Polymorphism	rs56127449	-
+CYP2D7	A0A087X1C5	VAR_072637	p.Lys428Glu	Polymorphism	rs2070907	-
+CYP51A1	Q16850	VAR_023470	p.Val13Ala	Polymorphism	rs2229188	-
+CYYR1	Q96J86	VAR_044042	p.Arg95His	Polymorphism	rs35253087	-
+CYYR1	Q96J86	VAR_044043	p.Pro111Ser	Polymorphism	rs1215339708	-
+DBT	P11182	VAR_015100	p.Gly384Ser	Disease	rs12021720	Maple syrup urine disease 2 (MSUD2) [MIM:248600]
+DCAF13	Q9NV06	VAR_037035	p.Ile42Val	Polymorphism	rs3134253	-
+DCAF13	Q9NV06	VAR_037036	p.Asn70Ser	Polymorphism	rs13272825	-
+DCHS2	Q6V1P9	VAR_044363	p.His174Arg	Polymorphism	rs10017772	-
+DCHS2	Q6V1P9	VAR_044364	p.Ser344Leu	Polymorphism	rs6858712	-
+DCHS2	Q6V1P9	VAR_044365	p.Val827Ile	Polymorphism	rs7666283	-
+DCHS2	Q6V1P9	VAR_044366	p.Asn897Ser	Polymorphism	rs1352714	-
+DCHS2	Q6V1P9	VAR_044367	p.Ser1205Leu	Polymorphism	rs11935573	-
+DCHS2	Q6V1P9	VAR_044368	p.Thr1480Arg	Polymorphism	rs17031394	-
+DCHS2	Q6V1P9	VAR_044369	p.Thr2112Met	Polymorphism	rs17031279	-
+DCHS2	Q6V1P9	VAR_044370	p.Ser2303Asn	Polymorphism	rs6824133	-
+DDO	Q99489	VAR_014939	p.Gln189Glu	Polymorphism	rs17622	-
+DDO	Q99489	VAR_014940	p.His230Tyr	Polymorphism	rs17621	-
+DDX52	Q9Y2R4	VAR_060235	p.Met403Val	Polymorphism	rs7216445	-
+DHRS4L2	Q6PKH6	VAR_037395	p.Leu17Met	Polymorphism	rs2273947	-
+DIPK1B	Q5VUD6	VAR_032295	p.Ser158Gly	Polymorphism	rs945384	-
+DIPK2B	Q9H7Y0	VAR_047103	p.Arg128Lys	Polymorphism	rs1132201	-
+DIPK2B	Q9H7Y0	VAR_047104	p.Arg146Gln	Polymorphism	rs9969	-
+DLGAP2	Q9P1A6	VAR_023073	p.Pro419Gln	Polymorphism	rs2301963	-
+DLGAP2	Q9P1A6	VAR_036750	p.Thr620Met	Polymorphism	rs7463888	-
+DMAC2L	Q99766	VAR_060296	p.Pro18Leu	Polymorphism	rs2275592	-
+DMD	P11532	VAR_005171	p.Gln2937Arg	Polymorphism	rs1800280	-
+DNAH12	Q6ZR08	VAR_037391	p.Gly2893Ser	Polymorphism	rs4060726	-
+DNAH12	Q6ZR08	VAR_060143	p.Asp1549Asn	Polymorphism	rs6773904	-
+DNAH12	Q6ZR08	VAR_060144	p.Tyr1704His	Polymorphism	rs4462937	-
+DNAH12	Q6ZR08	VAR_060145	p.Arg1748Cys	Polymorphism	rs17050836	-
+DNAH12	Q6ZR08	VAR_060146	p.Lys1754Asn	Polymorphism	rs17793014	-
+DNAH12	Q6ZR08	VAR_060147	p.Thr1763Ile	Polymorphism	rs4681982	-
+DNAH14	Q0VDD8	VAR_057764	p.Lys2671Glu	Polymorphism	rs6667999	-
+DNAJB12	Q9NXW2	VAR_017864	p.Glu304Lys	Polymorphism	rs3750784	-
+DNALI1	O14645	VAR_014473	p.Ala65Val	Polymorphism	rs11749	-
+DNALI1	O14645	VAR_035701	p.Ile120Met	Unclassified	rs1266159589	A colorectal cancer sample
+DNM1P46	Q6ZS02	VAR_032224	p.Leu147Val	Polymorphism	rs4965539	-
+DOP1A	Q5JWR5	VAR_034690	p.Arg596Gln	Polymorphism	rs4706980	-
+DOP1A	Q5JWR5	VAR_034691	p.Gln1781Leu	Polymorphism	rs9444039	-
+DOP1A	Q5JWR5	VAR_036607	p.Asp1155His	Unclassified	-	A breast cancer sample
+DOP1B	Q9Y3R5	VAR_027939	p.Cys1118Gly	Polymorphism	rs4817788	-
+DOP1B	Q9Y3R5	VAR_027940	p.Pro1149His	Polymorphism	rs3746866	-
+DOP1B	Q9Y3R5	VAR_027941	p.Arg1217Ser	Polymorphism	rs3746867	-
+DOP1B	Q9Y3R5	VAR_027942	p.Gly2139Glu	Polymorphism	rs3827183	-
+DOP1B	Q9Y3R5	VAR_034688	p.Ser1021Trp	Polymorphism	rs7278340	-
+DPY19L2P2	Q6ZN68	VAR_043009	p.Met66Val	Polymorphism	rs7796589	-
+DPY19L2P2	Q6ZN68	VAR_043010	p.Asn333Ile	Polymorphism	rs17136078	-
+DRD3	P35462	VAR_003463	p.Ser9Gly	Polymorphism	rs6280	-
+DSCAML1	Q8TD84	VAR_035512	p.Val659Ile	Unclassified	rs533175875	A colorectal cancer sample
+DSCAML1	Q8TD84	VAR_035513	p.Val1702Ile	Unclassified	rs147907435	A colorectal cancer sample
+DSCR9	P59020	VAR_024340	p.Arg76Leu	Polymorphism	rs13864	-
+DSCR9	P59020	VAR_033849	p.Gly23Val	Polymorphism	rs1888464	-
+DSEL	Q8IZU8	VAR_030833	p.Pro673Ser	Polymorphism	rs2279269	-
+DSEL	Q8IZU8	VAR_030834	p.Tyr730Cys	Polymorphism	rs12953840	-
+DSEL	Q8IZU8	VAR_036528	p.Lys1090Glu	Unclassified	-	A colorectal cancer sample
+DUX5	Q96PT3	VAR_059347	p.Ala60Val	Polymorphism	rs10865697	-
+DUX5	Q96PT3	VAR_059348	p.Pro118Leu	Polymorphism	rs9755233	-
+DUX5	Q96PT3	VAR_059349	p.Gln119Pro	Polymorphism	rs12374009	-
+DUX5	Q96PT3	VAR_059350	p.Ser180Ala	Polymorphism	rs12632317	-
+DUX5	Q96PT3	VAR_059351	p.Ser180Thr	Polymorphism	rs12632317	-
+ECRG4	Q9H1Z8	VAR_050962	p.Ala52Thr	Polymorphism	rs10187689	-
+EEF1AKNMT	Q8N6R0	VAR_034040	p.Met105Val	Polymorphism	rs2232816	-
+EEF1AKNMT	Q8N6R0	VAR_034041	p.Met359Ile	Polymorphism	rs2232819	-
+EEF1AKNMT	Q8N6R0	VAR_064730	p.Tyr16Cys	Polymorphism	rs774565178	-
+EEF1AKNMT	Q8N6R0	VAR_080810	p.Arg544Gln	Polymorphism	rs145666727	-
+EGFEM1P	Q0D2K5	VAR_044016	p.Gly59Asp	Polymorphism	rs603638	-
+EGFEM1P	Q0D2K5	VAR_044017	p.Pro157Leu	Polymorphism	rs678690	-
+ELMO3	Q96BJ8	VAR_055402	p.Lys13Gln	Polymorphism	rs12923138	-
+ELMO3	Q96BJ8	VAR_055403	p.Asn95Asp	Polymorphism	rs8058861	-
+ELMO3	Q96BJ8	VAR_055404	p.Arg316Cys	Polymorphism	rs33948247	-
+ENTR1	Q96C92	VAR_039687	p.Leu157Val	Polymorphism	rs7047681	-
+ENTR1	Q96C92	VAR_039688	p.Glu176Gly	Polymorphism	rs17851182	-
+ENTR1	Q96C92	VAR_039689	p.Arg304Gln	Polymorphism	rs3812577	-
+ENTR1	Q96C92	VAR_039690	p.Val379Met	Polymorphism	rs1131992	-
+ENTR1	Q96C92	VAR_039691	p.Val428Ile	Polymorphism	rs17855450	-
+EP400	Q96L91	VAR_046957	p.Thr1308Ile	Polymorphism	rs13377636	-
+EPHA6	Q9UF33	VAR_042149	p.Phe704Ser	Polymorphism	-	-
+EPHA6	Q9UF33	VAR_055991	p.Ala711Val	Polymorphism	rs4857276	-
+EPHB6	O15197	VAR_019141	p.Ser324Ala	Polymorphism	rs8177146	-
+EPHB6	O15197	VAR_019142	p.Arg499Gln	Polymorphism	rs8177175	-
+EPHB6	O15197	VAR_036091	p.Asp360Asn	Unclassified	-	A colorectal cancer sample
+EPHB6	O15197	VAR_036092	p.Ala603Pro	Unclassified	-	A colorectal cancer sample
+EPHB6	O15197	VAR_036093	p.Arg719Gln	Unclassified	-	A colorectal cancer sample
+EPHB6	O15197	VAR_042191	p.Ala221Val	Polymorphism	-	-
+EPHB6	O15197	VAR_042193	p.Arg309Gln	Polymorphism	rs55728646	-
+EPHB6	O15197	VAR_042194	p.Ser332Leu	Polymorphism	rs35189999	-
+EPHB6	O15197	VAR_042195	p.Ala662Val	Polymorphism	rs35984674	-
+EPHB6	O15197	VAR_042196	p.Pro743Ser	Unclassified	-	An ovarian mucinous carcinoma sample
+ERVK-18	O42043	VAR_018642	p.Cys97Tyr	Polymorphism	-	-
+ERVK-18	O42043	VAR_018644	p.Val272Ile	Polymorphism	-	-
+ERVK-18	O42043	VAR_018645	p.Val348Ile	Polymorphism	-	-
+ERVK-18	O42043	VAR_018646	p.Val534Ile	Polymorphism	-	-
+ESRP2	Q9H6T0	VAR_057245	p.Pro627Ser	Polymorphism	rs36054935	-
+ESYT2	A0FGR8	VAR_030725	p.Cys210Ser	Polymorphism	rs13233513	-
+EURL	Q9NYK6	VAR_011631	p.Gln117Arg	Polymorphism	rs1047976	-
+EURL	Q9NYK6	VAR_011632	p.Asp136Glu	Polymorphism	rs1047978	-
+EURL	Q9NYK6	VAR_054506	p.Asn115Lys	Polymorphism	rs2824495	-
+EURL	Q9NYK6	VAR_054507	p.Gln195His	Polymorphism	rs8128004	-
+EURL	Q9NYK6	VAR_054508	p.Tyr217His	Polymorphism	rs2824494	-
+EXOC3-AS1	Q8N2X6	VAR_046197	p.Pro50Ser	Polymorphism	rs10035653	-
+EXOC3-AS1	Q8N2X6	VAR_046198	p.Arg118Gly	Polymorphism	rs10035612	-
+EXPH5	Q8NEV8	VAR_030552	p.Asn1967Asp	Polymorphism	rs1943382	-
+EZHIP	Q86X51	VAR_038938	p.Arg470Lys	Polymorphism	rs1875755	-
+F13A1	P00488	VAR_007473	p.Gln652Glu	Polymorphism	rs5988	-
+F2RL1	P55085	VAR_049435	p.Asn30Ser	Polymorphism	rs616235	-
+FABP2	P12104	VAR_002379	p.Ala55Thr	Polymorphism	rs1799883	-
+FADS1	O60427	VAR_035340	p.Pro272Ser	Polymorphism	rs17856235	-
+FAM120C	Q9NX05	VAR_047538	p.Ile82Thr	Polymorphism	rs2495783	-
+FAM149A	A5PLN7	VAR_039050	p.Lys332Glu	Polymorphism	rs4862650	-
+FAM149A	A5PLN7	VAR_039052	p.His505Arg	Polymorphism	rs2276924	-
+FAM149A	A5PLN7	VAR_039053	p.Pro532Leu	Polymorphism	rs2276922	-
+FAM149A	A5PLN7	VAR_039054	p.Arg722Trp	Polymorphism	rs9991339	-
+FAM149A	A5PLN7	VAR_039055	p.Leu748Val	Polymorphism	rs6818265	-
+FAM161B	Q96MY7	VAR_027963	p.Gly11Ala	Polymorphism	rs11848954	-
+FAM161B	Q96MY7	VAR_027964	p.Leu622Pro	Polymorphism	rs17094077	-
+FAM161B	Q96MY7	VAR_069168	p.Lys487Arg	Polymorphism	rs28927675	-
+FAM166C	A6NJV1	VAR_042998	p.Gln66His	Polymorphism	rs13002673	-
+FAM166C	A6NJV1	VAR_054056	p.Gln177Leu	Polymorphism	rs2272466	-
+FAM205BP	Q63HN1	VAR_036833	p.Asn72Lys	Polymorphism	rs521552	-
+FAM205BP	Q63HN1	VAR_036834	p.Asp203Glu	Polymorphism	rs524512	-
+FAM220BP	B1ANY3	VAR_050820	p.Trp162Arg	Polymorphism	rs1832322	-
+FAM220BP	B1ANY3	VAR_050821	p.Lys199Asn	Polymorphism	rs1832323	-
+FAM220BP	B1ANY3	VAR_050822	p.Lys203Asn	Polymorphism	rs12336220	-
+FAM74A7	A6NL05	VAR_045629	p.Asp12Tyr	Polymorphism	rs11793234	-
+FAM74A7	A6NL05	VAR_045630	p.Arg72Lys	Polymorphism	rs2261191	-
+FAM74A7	A6NL05	VAR_045631	p.Arg86Thr	Polymorphism	rs6423979	-
+FAM81B	Q96LP2	VAR_057971	p.Pro275Ser	Polymorphism	rs6878669	-
+FAU	P62861	VAR_019643	p.Val19Met	Polymorphism	-	-
+FBF1	Q8TES7	VAR_034659	p.Gly65Val	Polymorphism	rs1135889	-
+FBF1	Q8TES7	VAR_034660	p.Arg151Gly	Polymorphism	rs2305913	-
+FBF1	Q8TES7	VAR_034662	p.Cys574Ser	Polymorphism	rs7213548	-
+FBXL21P	Q9UKT6	VAR_049034	p.Phe76Leu	Polymorphism	rs7705168	-
+FBXL21P	Q9UKT6	VAR_049035	p.Pro209Leu	Polymorphism	rs40986	-
+FCGBP	Q9Y6R7	VAR_028903	p.Val1340Leu	Polymorphism	rs11083543	-
+FCGBP	Q9Y6R7	VAR_028904	p.Gly1616Val	Polymorphism	rs7248839	-
+FCGBP	Q9Y6R7	VAR_028905	p.Met1617Val	Polymorphism	rs7249743	-
+FCGBP	Q9Y6R7	VAR_028906	p.Asn2089Asp	Polymorphism	rs885723	-
+FCGBP	Q9Y6R7	VAR_028907	p.Glu2646Asp	Polymorphism	rs140171218	-
+FCGBP	Q9Y6R7	VAR_028908	p.Glu2647Lys	Polymorphism	rs1176978283	-
+FCGBP	Q9Y6R7	VAR_028909	p.Ala2793Val	Polymorphism	rs2542316	-
+FCGBP	Q9Y6R7	VAR_028911	p.Gly3264Ser	Polymorphism	rs1290971390	-
+FCGBP	Q9Y6R7	VAR_028912	p.His3920Gln	Polymorphism	rs2542318	-
+FCGBP	Q9Y6R7	VAR_028913	p.Val4015Ala	Polymorphism	rs3746009	-
+FCGBP	Q9Y6R7	VAR_028914	p.Gly4095Asp	Polymorphism	rs1975181	-
+FCGBP	Q9Y6R7	VAR_028915	p.Gly4465Ser	Polymorphism	rs6508919	-
+FCGBP	Q9Y6R7	VAR_028916	p.Asp4906His	Polymorphism	rs3746013	-
+FCGBP	Q9Y6R7	VAR_054495	p.Pro1436Leu	Polymorphism	rs36106401	-
+FCGBP	Q9Y6R7	VAR_054496	p.His1445Asp	Polymorphism	rs2909229	-
+FCGBP	Q9Y6R7	VAR_054497	p.Thr1524Asn	Polymorphism	rs34938990	-
+FCGBP	Q9Y6R7	VAR_054498	p.Ala5017Val	Polymorphism	rs741143	-
+FCGR3B	O75015	VAR_003963	p.Ser65Asn	Polymorphism	rs448740	-
+FCSK	Q8N0W3	VAR_021327	p.Val146Met	Polymorphism	rs17881323	-
+FCSK	Q8N0W3	VAR_021328	p.Ala521Thr	Polymorphism	rs17881069	-
+FCSK	Q8N0W3	VAR_021329	p.Arg571His	Polymorphism	rs17886171	-
+FCSK	Q8N0W3	VAR_021330	p.Pro701Leu	Polymorphism	rs17883716	-
+FCSK	Q8N0W3	VAR_021331	p.Ala858Thr	Polymorphism	rs17884050	-
+FCSK	Q8N0W3	VAR_021332	p.Val861Met	Polymorphism	rs17878599	-
+FCSK	Q8N0W3	VAR_021333	p.Arg901Trp	Polymorphism	rs17881635	-
+FCSK	Q8N0W3	VAR_021334	p.Arg939Gln	Polymorphism	rs17886060	-
+FCSK	Q8N0W3	VAR_021335	p.Arg939Trp	Polymorphism	rs17883248	-
+FCSK	Q8N0W3	VAR_081646	p.Ser223Pro	Unclassified	rs769009456	Congenital disorder of glycosylation with defective fucosylation 2 (CDGF2) [MIM:618324]
+FCSK	Q8N0W3	VAR_081647	p.Arg683Cys	Unclassified	rs755169246	Congenital disorder of glycosylation with defective fucosylation 2 (CDGF2) [MIM:618324]
+FCSK	Q8N0W3	VAR_081648	p.Lys994Gln	Unclassified	rs199515460	Congenital disorder of glycosylation with defective fucosylation 2 (CDGF2) [MIM:618324]
+FDX2	Q6P4F2	VAR_082099	p.Met4Leu	Unclassified	rs587777600	Mitochondrial myopathy, episodic, with optic atrophy and reversible leukoencephalopathy (MEOAL) [MIM:251900]
+FDX2	Q6P4F2	VAR_082100	p.Pro144Leu	Disease	rs888630930	Mitochondrial myopathy, episodic, with optic atrophy and reversible leukoencephalopathy (MEOAL) [MIM:251900]
+FDXR	P22570	VAR_004624	p.Arg123Gln	Polymorphism	rs690514	-
+FER1L4	A9Z1Z3	VAR_045893	p.Lys1179Glu	Polymorphism	rs1557202	-
+FER1L4	A9Z1Z3	VAR_045894	p.Asn1183Ser	Polymorphism	rs11698021	-
+FER1L4	A9Z1Z3	VAR_045895	p.Val1318Ile	Polymorphism	rs2277862	-
+FKBP9P1	Q75LS8	VAR_036962	p.Val125Gly	Polymorphism	rs11524166	-
+FLACC1	Q96Q35	VAR_045625	p.Val43Leu	Polymorphism	rs13014235	-
+FMO6P	O60774	VAR_015371	p.Val127Ile	Polymorphism	rs61731844	-
+FMO6P	O60774	VAR_015372	p.Val257Ile	Polymorphism	rs2272797	-
+FREM2	Q5SZK8	VAR_061175	p.Ser745Pro	Polymorphism	rs2496423	-
+FRMD6-AS1	P0C7T7	VAR_044499	p.Gly115Arg	Polymorphism	rs11845396	-
+FSHR	P23945	VAR_013905	p.Asn680Ser	Polymorphism	rs6166	-
+FTH1P19	P0C7X4	VAR_045633	p.Arg17His	Polymorphism	rs7058438	-
+FTH1P19	P0C7X4	VAR_045634	p.Ala106Pro	Polymorphism	rs7055365	-
+FUT3	P21217	VAR_003427	p.Thr105Met	Polymorphism	rs778986	-
+FUT3	P21217	VAR_007959	p.Trp68Arg	Polymorphism	rs812936	-
+GABRQ	Q9UN88	VAR_030762	p.Phe478Ile	Polymorphism	rs3810651	-
+GARS1	P41250	VAR_018718	p.Glu125Gly	Disease	rs137852645	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_018719	p.Leu183Pro	Disease	rs137852644	Neuronopathy, distal hereditary motor, 5A (HMN5A) [MIM:600794]
+GARS1	P41250	VAR_018720	p.Gly294Arg	Disease	rs137852643	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_018721	p.Gly580Arg	Disease	rs137852646	Neuronopathy, distal hereditary motor, 5A (HMN5A) [MIM:600794]
+GARS1	P41250	VAR_054865	p.Pro42Ala	Polymorphism	rs1049402	-
+GARS1	P41250	VAR_054866	p.Thr268Ile	Unclassified	rs2230310	-
+GARS1	P41250	VAR_054867	p.Arg388Gln	Polymorphism	rs17159287	-
+GARS1	P41250	VAR_073187	p.Ala111Val	Disease	rs370531212	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_073188	p.Asp200Asn	Disease	-	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_073188	p.Asp200Asn	Disease	-	Neuronopathy, distal hereditary motor, 5A (HMN5A) [MIM:600794]
+GARS1	P41250	VAR_073189	p.Ser265Phe	Disease	rs1554337974	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_073189	p.Ser265Phe	Disease	rs1554337974	Neuronopathy, distal hereditary motor, 5A (HMN5A) [MIM:600794]
+GARS1	P41250	VAR_073190	p.Pro298Leu	Disease	rs137852648	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_073191	p.Ile334Phe	Unclassified	rs1554338260	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_073192	p.His472Arg	Disease	rs1060502838	Neuronopathy, distal hereditary motor, 5A (HMN5A) [MIM:600794]
+GARS1	P41250	VAR_073193	p.Asp554Asn	Disease	rs137852647	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_073194	p.Ser635Leu	Polymorphism	rs201358272	-
+GARS1	P41250	VAR_073195	p.Gly652Ala	Disease	-	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_074016	p.Asp200Tyr	Disease	-	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_074017	p.Met292Arg	Disease	-	Charcot-Marie-Tooth disease 2D (CMT2D) [MIM:601472]
+GARS1	P41250	VAR_079827	p.Arg310Gln	Disease	rs1135401748	-
+GARS1	P41250	VAR_079828	p.Arg412Cys	Unclassified	rs770924455	-
+GARS1	P41250	VAR_079829	p.Gly598Ala	Unclassified	rs766280100	Neuronopathy, distal hereditary motor, 5A (HMN5A) [MIM:600794]
+GAS8-AS1	O95177	VAR_056843	p.Val72Ile	Polymorphism	rs3785183	-
+GASK1A	Q9UFP1	VAR_063129	p.His227Tyr	Polymorphism	rs2936817	-
+GASK1A	Q9UFP1	VAR_063130	p.Gln460Arg	Polymorphism	rs536119	-
+GASK1B	Q6UWH4	VAR_032514	p.Gly432Ser	Polymorphism	rs17857283	-
+GBA3	Q9H227	VAR_023587	p.Asp106Asn	Polymorphism	-	-
+GBA3	Q9H227	VAR_023588	p.Arg213Pro	Polymorphism	rs17612341	-
+GBA3	Q9H227	VAR_023589	p.Cys354Arg	Polymorphism	rs16873108	-
+GBA3	Q9H227	VAR_049298	p.Met172Ile	Polymorphism	rs36090352	-
+GCKR	Q14397	VAR_008906	p.Pro446Leu	Polymorphism	rs1260326	-
+GCN1	Q92616	VAR_062228	p.Tyr2155Asp	Polymorphism	rs3864938	-
+GCOM2	Q9BZD3	VAR_054145	p.Arg176His	Unclassified	-	An acute myeloid leukemia sample
+GDF5	P43026	VAR_026120	p.Ser276Ala	Polymorphism	rs224331	-
+GLB1	P16278	VAR_008680	p.Arg521Cys	Unclassified	rs4302331	GM1-gangliosidosis 1 (GM1G1) [MIM:230500]
+GLOD4	Q9HC38	VAR_031128	p.Met282Ile	Polymorphism	rs17851349	-
+GNA15	P30679	VAR_028000	p.Tyr147Cys	Polymorphism	rs310680	-
+GOLGA2P5	Q9HBQ8	VAR_038142	p.Ala110Val	Polymorphism	rs12370675	-
+GOLGA8A	A7E2F4	VAR_064650	p.Lys480Asn	Polymorphism	rs347880	-
+GOLGA8A	A7E2F4	VAR_064651	p.Ser530Asn	Polymorphism	rs238639	-
+GOLGA8A	A7E2F4	VAR_064652	p.Arg541Gln	Polymorphism	rs347879	-
+GPIHBP1	Q8IV16	VAR_044503	p.Cys14Phe	Polymorphism	rs11538389	-
+GSDMB	Q8TAX9	VAR_042635	p.Gly299Arg	Polymorphism	rs2305479	-
+GSDMB	Q8TAX9	VAR_042636	p.Pro306Ser	Polymorphism	rs2305480	-
+GSDMB	Q8TAX9	VAR_042637	p.Arg325Cys	Polymorphism	rs16965388	-
+GSTT1	P30711	VAR_014501	p.Ala21Thr	Polymorphism	rs2266635	-
+GSTT1	P30711	VAR_014502	p.Asp141Asn	Polymorphism	rs2266633	-
+GSTT1	P30711	VAR_014503	p.Val169Ile	Polymorphism	rs2266637	-
+GSTT1	P30711	VAR_014504	p.Glu173Lys	Polymorphism	rs2234953	-
+GSTZ1	O43708	VAR_009705	p.Lys32Glu	Polymorphism	rs7975	-
+GSTZ1	O43708	VAR_009706	p.Arg42Gly	Polymorphism	rs7972	-
+GTSE1	Q9NYZ3	VAR_021973	p.Ser470Leu	Polymorphism	rs2281192	-
+GTSE1	Q9NYZ3	VAR_024154	p.Trp506Arg	Polymorphism	rs140054	-
+GTSE1	Q9NYZ3	VAR_032816	p.Thr181Ala	Polymorphism	rs6008600	-
+GTSE1	Q9NYZ3	VAR_032817	p.Ala200Val	Polymorphism	rs34404175	-
+GTSE1	Q9NYZ3	VAR_032818	p.Ala274Thr	Polymorphism	rs35503220	-
+GTSE1	Q9NYZ3	VAR_032820	p.Asp463Glu	Polymorphism	rs6008684	-
+GTSE1	Q9NYZ3	VAR_032821	p.Ala635Thr	Polymorphism	rs16995138	-
+GTSE1	Q9NYZ3	VAR_056905	p.Ser303Asn	Polymorphism	rs6008622	-
+GUCY1B2	O75343	VAR_022131	p.Asn316His	Polymorphism	rs1328361	-
+GUCY1B2	O75343	VAR_024469	p.Tyr55Cys	Polymorphism	rs9568497	-
+GUCY1B2	O75343	VAR_024470	p.Met128Ile	Polymorphism	rs11841997	-
+GYPA	P02724	VAR_003190	p.Ser20Leu	Polymorphism	rs7682260	-
+GYPA	P02724	VAR_003191	p.Gly24Glu	Polymorphism	rs7687256	-
+GYPA	P02724	VAR_058913	p.Gly24Asp	Polymorphism	rs7658293	-
+H1-1	Q02539	VAR_049301	p.Thr99Ile	Polymorphism	rs417751	-
+H1-1	Q02539	VAR_049302	p.Ser115Phe	Polymorphism	rs34541321	-
+H1-1	Q02539	VAR_049303	p.Lys140Arg	Polymorphism	rs16891235	-
+H1-2	P16403	VAR_003618	p.Ala18Val	Polymorphism	rs2230653	-
+H1-2	P16403	VAR_049304	p.Ser113Ala	Polymorphism	rs34810376	-
+H1-2	P16403	VAR_049305	p.Gly124Ala	Polymorphism	rs12111009	-
+H1-3	P16402	VAR_049306	p.Glu75Lys	Polymorphism	rs2050949	-
+H1-4	P10412	VAR_036203	p.Ala128Val	Unclassified	rs768731472	A colorectal cancer sample
+H1-4	P10412	VAR_049307	p.Lys152Arg	Polymorphism	rs2298090	-
+H1-5	P16401	VAR_036204	p.Gly86Asp	Unclassified	-	A colorectal cancer sample
+H1-5	P16401	VAR_049308	p.Lys144Arg	Polymorphism	rs11970638	-
+H1-5	P16401	VAR_049309	p.Ala211Thr	Polymorphism	rs34144478	-
+H2BC13	Q99880	VAR_049313	p.Leu4Pro	Polymorphism	rs200484	-
+H2BC14	Q99879	VAR_036205	p.His110Tyr	Unclassified	-	A colorectal cancer sample
+H2BC4	P62807	VAR_055887	p.Gly27Ser	Polymorphism	rs7766641	-
+H2BFWT	Q7Z2G1	VAR_054318	p.Arg123His	Polymorphism	rs553509	-
+H3-3A	P84243	VAR_079021	p.Lys28Met	Disease	rs1057519903	Glioma (GLM) [MIM:137800]
+H3-3A	P84243	VAR_079022	p.Gly35Arg	Disease	rs1553260624	Glioma (GLM) [MIM:137800]
+H3-3A	P84243	VAR_079023	p.Gly35Val	Disease	-	Glioma (GLM) [MIM:137800]
+H3-3A	P84243	VAR_079024	p.Gly35Trp	Disease	-	-
+H3-3A	P84243	VAR_079025	p.Lys37Met	Disease	-	-
+H3C1	P68431	VAR_079018	p.Lys28Met	Disease	rs1057519904	Glioma (GLM) [MIM:137800]
+H3C1	P68431	VAR_079019	p.Lys37Ile	Disease	-	-
+H3C1	P68431	VAR_079020	p.Lys37Met	Disease	-	-
+H4C1	P62805	VAR_036206	p.Glu64Gln	Unclassified	rs747622981	A breast cancer sample
+HAP1	P54257	VAR_056907	p.Thr493Met	Polymorphism	rs4523977	-
+HAP1	P54257	VAR_056908	p.Ala557Val	Polymorphism	rs34853043	-
+HAP1	P54257	VAR_056909	p.Gly656Arg	Polymorphism	rs34044330	-
+HAP1	P54257	VAR_062817	p.Phe560Leu	Polymorphism	rs8075017	-
+HBG1	P69891	VAR_003161	p.Ile76Thr	Polymorphism	rs1061234	-
+HCP5	Q6MZN7	VAR_042638	p.Trp32Arg	Polymorphism	rs17206855	-
+HCP5	Q6MZN7	VAR_042639	p.Trp82Cys	Polymorphism	rs2255221	-
+HCP5	Q6MZN7	VAR_042640	p.Gly93Glu	Polymorphism	rs2255223	-
+HCP5	Q6MZN7	VAR_042641	p.Val112Gly	Polymorphism	rs2395029	-
+HCP5	Q6MZN7	VAR_042642	p.His123Arg	Polymorphism	rs3130907	-
+HDLBP	Q00341	VAR_047976	p.Ser61Ala	Polymorphism	rs11891776	-
+HERC2P3	Q9BVR0	VAR_046344	p.Leu759Pro	Polymorphism	rs17134681	-
+HERC2P3	Q9BVR0	VAR_046345	p.Arg1119Ile	Polymorphism	rs4931826	-
+HEXB	P07686	VAR_003247	p.Ser62Leu	Disease	rs820878	GM2-gangliosidosis 2 (GM2G2) [MIM:268800]
+HEXD	Q8WVB3	VAR_038395	p.Ile145Val	Polymorphism	rs4789773	-
+HEXD	Q8WVB3	VAR_060726	p.His232Tyr	Polymorphism	rs17853433	-
+HGSNAT	Q68CP4	VAR_030083	p.Pro311Leu	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_030084	p.Arg372Cys	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_030085	p.Gly452Ser	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_030087	p.Met510Lys	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_030088	p.Ser569Leu	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_030089	p.Asp590Val	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_030090	p.Pro599Leu	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063983	p.Cys104Phe	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063984	p.Leu165Pro	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063985	p.Pro265Gln	Polymorphism	-	-
+HGSNAT	Q68CP4	VAR_063986	p.Ile280Arg	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063988	p.Asn301Lys	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063989	p.Arg372His	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063990	p.Trp431Cys	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063991	p.Val509Leu	Polymorphism	-	-
+HGSNAT	Q68CP4	VAR_063992	p.Gly514Glu	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063993	p.Ala517Glu	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063994	p.Ser546Phe	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063995	p.Lys551Gln	Polymorphism	rs73569592	-
+HGSNAT	Q68CP4	VAR_063996	p.Ser567Cys	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063997	p.Ala643Thr	Unclassified	rs112029032	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_063997	p.Ala643Thr	Unclassified	rs112029032	Retinitis pigmentosa 73 (RP73) [MIM:616544]
+HGSNAT	Q68CP4	VAR_075812	p.Ala82Val	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_075813	p.Leu141Pro	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HGSNAT	Q68CP4	VAR_075814	p.Arg152Trp	Disease	-	Retinitis pigmentosa 73 (RP73) [MIM:616544]
+HGSNAT	Q68CP4	VAR_075815	p.Gly161Ala	Disease	-	Retinitis pigmentosa 73 (RP73) [MIM:616544]
+HGSNAT	Q68CP4	VAR_075816	p.Gly452Val	Disease	-	Mucopolysaccharidosis 3C (MPS3C) [MIM:252930]
+HIVEP1	P15822	VAR_057387	p.Thr873Ala	Polymorphism	rs6900196	-
+HLA-DMA	P28067	VAR_016746	p.His162Gln	Polymorphism	-	-
+HLA-DMA	P28067	VAR_016747	p.Asp163His	Polymorphism	-	-
+HLA-DMB	P28068	VAR_016755	p.Ile197Thr	Polymorphism	rs1042337	-
+HLA-DQA1	P01909	VAR_033399	p.Met8Leu	Polymorphism	rs1047989	-
+HLA-DQA1	P01909	VAR_033401	p.Ser41Phe	Polymorphism	rs1071630	-
+HLA-DQA1	P01909	VAR_033404	p.Cys70Tyr	Polymorphism	rs3207983	-
+HLA-DQA1	P01909	VAR_033405	p.Val73Leu	Polymorphism	rs12722061	-
+HLA-DQA1	P01909	VAR_033406	p.Val73Asp	Polymorphism	rs760671632	-
+HLA-DQA1	P01909	VAR_033408	p.Thr86Arg	Polymorphism	rs1142333	-
+HLA-DQA1	P01909	VAR_033409	p.Ile88Met	Polymorphism	rs1142334	-
+HLA-DQA1	P01909	VAR_033411	p.Val229Met	Polymorphism	rs9260	-
+HLA-DQA1	P01909	VAR_033412	p.Phe237Leu	Polymorphism	rs1048430	-
+HLA-DQA1	P01909	VAR_033413	p.Arg240Gln	Polymorphism	rs1048439	-
+HLA-DQA1	P01909	VAR_050384	p.Ser102Tyr	Polymorphism	rs1129808	-
+HLA-DQA1	P01909	VAR_050385	p.Ile129Thr	Polymorphism	rs707952	-
+HLA-DQA1	P01909	VAR_050386	p.His151Gln	Polymorphism	rs707950	-
+HLA-DQA1	P01909	VAR_050387	p.Ala209Thr	Polymorphism	rs9272785	-
+HLA-DQA1	P01909	VAR_050388	p.Ala221Thr	Polymorphism	rs35087390	-
+HLA-DQA1	P01909	VAR_060494	p.Tyr34Cys	Polymorphism	rs1129740	-
+HLA-DQA1	P01909	VAR_060496	p.Gly63Glu	Polymorphism	rs1142323	-
+HLA-DQA1	P01909	VAR_060498	p.Val68Ala	Polymorphism	rs1142324	-
+HLA-DQA1	P01909	VAR_060499	p.Cys70Lys	Polymorphism	-	-
+HLA-DQA1	P01909	VAR_060500	p.Cys70Gln	Polymorphism	-	-
+HLA-DQA1	P01909	VAR_060501	p.Cys70Arg	Polymorphism	rs1142326	-
+HLA-DQA1	P01909	VAR_060502	p.Leu71Trp	Polymorphism	rs1142328	-
+HLA-DQA1	P01909	VAR_060503	p.Val73Glu	Polymorphism	rs3208105	-
+HLA-DQA1	P01909	VAR_060504	p.Leu74Phe	Polymorphism	rs9272698	-
+HLA-DQA1	P01909	VAR_060505	p.Arg75His	Polymorphism	rs28383449	-
+HLA-DQA1	P01909	VAR_060506	p.Arg75Ser	Polymorphism	rs9272699	-
+HLA-DQA1	P01909	VAR_060507	p.Gln76Lys	Polymorphism	rs1048052	-
+HLA-DQA1	P01909	VAR_060508	p.Gln76Arg	Polymorphism	rs12722069	-
+HLA-DQA1	P01909	VAR_060512	p.Pro81Arg	Polymorphism	rs41541412	-
+HLA-DQA1	P01909	VAR_060513	p.Phe83Gly	Polymorphism	-	-
+HLA-DQA1	P01909	VAR_060514	p.Leu91Ala	Polymorphism	-	-
+HLA-DQA1	P01909	VAR_060515	p.Leu91Thr	Polymorphism	-	-
+HLA-DQA1	P01909	VAR_060516	p.Ser97Ile	Polymorphism	rs9279910	-
+HLA-DQA1	P01909	VAR_060517	p.Leu98Met	Polymorphism	rs1064944	-
+HLA-DQA1	P01909	VAR_060518	p.Leu98Val	Polymorphism	rs1064944	-
+HLA-DQA1	P01909	VAR_060519	p.Arg101Cys	Polymorphism	rs41542116	-
+HLA-DQA1	P01909	VAR_060520	p.Leu124Val	Polymorphism	rs41555012	-
+HLA-DQA1	P01909	VAR_060521	p.Ser152Ala	Polymorphism	rs41547417	-
+HLA-DQA1	P01909	VAR_060522	p.Thr160Ile	Polymorphism	rs41545514	-
+HLA-DQA1	P01909	VAR_060523	p.Ser161Arg	Polymorphism	rs41552014	-
+HLA-DQA1	P01909	VAR_060524	p.Ser161Ile	Polymorphism	rs41544114	-
+HLA-DQA1	P01909	VAR_060525	p.Tyr175His	Polymorphism	rs41550317	-
+HLA-DQA1	P01909	VAR_060526	p.Leu178Phe	Polymorphism	rs707949	-
+HLA-DQA1	P01909	VAR_060527	p.Ala182Asp	Polymorphism	rs7990	-
+HLA-DQA1	P01909	VAR_060528	p.Ala182Ser	Polymorphism	rs41561312	-
+HLA-DQA1	P01909	VAR_060529	p.Glu183Asp	Polymorphism	rs707963	-
+HLA-DQA1	P01909	VAR_060530	p.Ser185Ile	Polymorphism	rs707962	-
+HLA-DQA1	P01909	VAR_060531	p.Lys197Glu	Polymorphism	rs2308891	-
+HLA-DQA1	P01909	VAR_060532	p.Lys197Gln	Polymorphism	rs2308891	-
+HLA-DQA1	P01909	VAR_060533	p.Gly230Cys	Polymorphism	rs41545416	-
+HLA-DQB1	P01920	VAR_061472	p.Ala45Gly	Polymorphism	rs1130375	-
+HLA-DQB1	P01920	VAR_062679	p.Gly12Asp	Polymorphism	rs1049057	-
+HLA-DQB1	P01920	VAR_062680	p.Ala15Val	Polymorphism	rs3189152	-
+HLA-DQB1	P01920	VAR_062683	p.Thr27Ala	Polymorphism	rs1049060	-
+HLA-DQB1	P01920	VAR_062684	p.Thr27Ser	Polymorphism	rs1049060	-
+HLA-DQB1	P01920	VAR_062685	p.Pro28Leu	Polymorphism	rs1049062	-
+HLA-DQB1	P01920	VAR_062686	p.Pro28Ser	Polymorphism	rs1049061	-
+HLA-DQB1	P01920	VAR_062687	p.Val29Leu	Polymorphism	rs1130366	-
+HLA-DQB1	P01920	VAR_062689	p.Tyr41Phe	Polymorphism	rs9274407	-
+HLA-DQB1	P01920	VAR_062690	p.Tyr41Leu	Polymorphism	-	-
+HLA-DQB1	P01920	VAR_062693	p.Tyr58Gly	Polymorphism	-	-
+HLA-DQB1	P01920	VAR_062694	p.Tyr58Leu	Polymorphism	rs766817072	-
+HLA-DQB1	P01920	VAR_062703	p.Glu77Gly	Polymorphism	rs1049083	-
+HLA-DQB1	P01920	VAR_062708	p.Leu85Gln	Polymorphism	rs1140313	-
+HLA-DQB1	P01920	VAR_062709	p.Pro87Leu	Polymorphism	rs1130380	-
+HLA-DQB1	P01920	VAR_062710	p.Pro87Gln	Polymorphism	rs1130380	-
+HLA-DQB1	P01920	VAR_062711	p.Pro87Arg	Polymorphism	rs1130380	-
+HLA-DQB1	P01920	VAR_062722	p.Arg102Glu	Polymorphism	-	-
+HLA-DQB1	P01920	VAR_062723	p.Arg102Gly	Polymorphism	rs1130386	-
+HLA-DQB1	P01920	VAR_062731	p.Gln116Glu	Polymorphism	rs1140316	-
+HLA-DQB1	P01920	VAR_062732	p.Leu117Val	Polymorphism	rs1140317	-
+HLA-DQB1	P01920	VAR_062733	p.Glu118Ala	Polymorphism	rs9274380	-
+HLA-DQB1	P01920	VAR_062734	p.Glu118Gly	Polymorphism	rs9274380	-
+HLA-DQB1	P01920	VAR_062735	p.Leu119Phe	Polymorphism	rs9274379	-
+HLA-DQB1	P01920	VAR_062736	p.Leu119Tyr	Polymorphism	-	-
+HLA-DQB1	P01920	VAR_062737	p.Thr121Gly	Polymorphism	-	-
+HLA-DQB1	P01920	VAR_062738	p.Thr122Ile	Polymorphism	rs1140320	-
+HLA-DQB1	P01920	VAR_062739	p.Ala157Gly	Polymorphism	rs1063322	-
+HLA-DQB1	P01920	VAR_062740	p.Ala157Ser	Polymorphism	-	-
+HLA-DQB1	P01920	VAR_062747	p.Thr172Ala	Polymorphism	rs1063323	-
+HLA-DQB1	P01920	VAR_062748	p.His199Arg	Polymorphism	rs701564	-
+HLA-DQB1	P01920	VAR_062751	p.Asn214Ser	Polymorphism	rs1130398	-
+HLA-DQB1	P01920	VAR_062755	p.Ile235Val	Polymorphism	rs1049163	-
+HLA-DQB1	P01920	VAR_062756	p.His252Arg	Polymorphism	rs1140342	-
+HLA-DQB1	P01920	VAR_062757	p.His253Gln	Polymorphism	rs1140343	-
+HLA-DQB2	P05538	VAR_069445	p.Arg161Gln	Polymorphism	rs1049110	-
+HLA-DQB2	P05538	VAR_069446	p.Ser232Gly	Polymorphism	-	-
+HLA-DQB2	P05538	VAR_069447	p.Ile234Val	Polymorphism	-	-
+HLA-DRA	P01903	VAR_004399	p.Val242Leu	Polymorphism	rs7192	-
+HLA-DRB3	P79483	VAR_016686	p.Arg40Cys	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_033396	p.Gly102Ala	Polymorphism	rs17878857	-
+HLA-DRB3	P79483	VAR_033397	p.Val114Ala	Polymorphism	rs1136778	-
+HLA-DRB3	P79483	VAR_060739	p.Leu37Ser	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060740	p.Glu38Gln	Polymorphism	rs1071747	-
+HLA-DRB3	P79483	VAR_060741	p.Leu39Tyr	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060742	p.Arg40Leu	Polymorphism	rs1071748	-
+HLA-DRB3	P79483	VAR_060743	p.Arg40Ser	Polymorphism	rs1136752	-
+HLA-DRB3	P79483	VAR_060744	p.Lys41Thr	Polymorphism	rs200581589	-
+HLA-DRB3	P79483	VAR_060745	p.Tyr55Leu	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060746	p.Tyr55Phe	Polymorphism	rs147440497	-
+HLA-DRB3	P79483	VAR_060747	p.Asp57Glu	Polymorphism	rs202185589	-
+HLA-DRB3	P79483	VAR_060748	p.Asp57Asn	Polymorphism	rs142793258	-
+HLA-DRB3	P79483	VAR_060749	p.Arg58Ile	Polymorphism	rs1407020168	-
+HLA-DRB3	P79483	VAR_060750	p.Tyr59His	Polymorphism	rs138849995	-
+HLA-DRB3	P79483	VAR_060751	p.Phe66Ser	Polymorphism	rs200042906	-
+HLA-DRB3	P79483	VAR_060752	p.Phe66Leu	Polymorphism	rs707956	-
+HLA-DRB3	P79483	VAR_060753	p.Phe66Asn	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060754	p.Phe66Tyr	Polymorphism	rs200042906	-
+HLA-DRB3	P79483	VAR_060755	p.Leu67Ala	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060756	p.Leu67Val	Polymorphism	rs1059580	-
+HLA-DRB3	P79483	VAR_060757	p.Arg68Ser	Polymorphism	rs774894415	-
+HLA-DRB3	P79483	VAR_060758	p.Thr80Arg	Polymorphism	rs79606458	-
+HLA-DRB3	P79483	VAR_060759	p.Arg84Leu	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060760	p.Val86Ala	Polymorphism	rs144532965	-
+HLA-DRB3	P79483	VAR_060761	p.Val86Ser	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060762	p.Val86Asp	Polymorphism	rs144532965	-
+HLA-DRB3	P79483	VAR_060763	p.Ala87Glu	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060764	p.Ser89His	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060765	p.Ser89Tyr	Polymorphism	rs41541218	-
+HLA-DRB3	P79483	VAR_060766	p.Leu96Phe	Polymorphism	rs696318	-
+HLA-DRB3	P79483	VAR_060767	p.Leu96Ile	Polymorphism	rs696318	-
+HLA-DRB3	P79483	VAR_060768	p.Arg103Gln	Polymorphism	rs1059598	-
+HLA-DRB3	P79483	VAR_060769	p.Asn106Thr	Polymorphism	rs115817940	-
+HLA-DRB3	P79483	VAR_060770	p.Gly113Arg	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060771	p.Gly115Ala	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060772	p.Gly115Val	Polymorphism	rs41556512	-
+HLA-DRB3	P79483	VAR_060773	p.Ala169Thr	Polymorphism	rs75709987	-
+HLA-DRB3	P79483	VAR_060774	p.Gln178His	Polymorphism	rs139485758	-
+HLA-DRB3	P79483	VAR_060775	p.Val193Phe	Polymorphism	-	-
+HLA-DRB3	P79483	VAR_060776	p.Ala212Pro	Polymorphism	rs142204283	-
+HLA-DRB3	P79483	VAR_060777	p.Arg218Ser	Polymorphism	rs147669022	-
+HLA-DRB4	P13762	VAR_060778	p.Asp105Gly	Polymorphism	-	-
+HLA-DRB4	P13762	VAR_060779	p.Thr106Asn	Polymorphism	-	-
+HLA-DRB4	P13762	VAR_060780	p.Tyr110His	Polymorphism	-	-
+HLA-DRB4	P13762	VAR_060781	p.Gly113Arg	Polymorphism	-	-
+HLA-DRB4	P13762	VAR_060782	p.His141Tyr	Polymorphism	-	-
+HLA-DRB4	P13762	VAR_060783	p.Gly164Ser	Polymorphism	-	-
+HMGN2P46	Q86SG4	VAR_022865	p.Cys91Arg	Polymorphism	rs8042811	-
+HNF1A	P20823	VAR_010569	p.Gly574Ser	Polymorphism	rs1169305	-
+HOXA1	P49639	VAR_010305	p.His73Arg	Polymorphism	rs10951154	-
+HPD	P32754	VAR_015444	p.Ala33Thr	Polymorphism	rs1154510	-
+HSF5	Q4G112	VAR_043115	p.Asn329Thr	Polymorphism	rs1017089	-
+HSP90AA2P	Q14568	VAR_039732	p.Thr235Ala	Polymorphism	rs1826330	-
+HSP90AA2P	Q14568	VAR_039733	p.Cys312Tyr	Polymorphism	rs2726836	-
+HTR2C	P28335	VAR_003450	p.Cys23Ser	Polymorphism	rs6318	-
+HTR3A	P46098	VAR_037398	p.Ala33Thr	Polymorphism	rs117793058	-
+HTR3A	P46098	VAR_037399	p.Ser253Asn	Polymorphism	rs4938063	-
+HTR3A	P46098	VAR_037400	p.Arg344His	Polymorphism	rs35815285	-
+HTR3A	P46098	VAR_037402	p.Arg409Gln	Polymorphism	rs183698487	-
+IFI16	Q16666	VAR_057582	p.Thr779Ser	Polymorphism	rs6940	-
+IFNA2	P01563	VAR_004012	p.Lys46Arg	Polymorphism	rs1061959	-
+IGF2-AS	Q6U949	VAR_024844	p.Ser106Ile	Polymorphism	rs17883406	-
+IGF2-AS	Q6U949	VAR_024845	p.Pro112Thr	Polymorphism	rs17883142	-
+IGF2-AS	Q6U949	VAR_024846	p.Phe125Val	Polymorphism	rs1003483	-
+IGF2-AS	Q6U949	VAR_024847	p.Thr150Ala	Polymorphism	rs1003484	-
+IGFN1	Q86VF2	VAR_046035	p.Thr1056Met	Polymorphism	rs6690992	-
+IGFN1	Q86VF2	VAR_046036	p.His1095Tyr	Polymorphism	rs3738270	-
+IGHA1	P01876	VAR_014602	p.Glu176Asp	Polymorphism	rs1407	-
+IGHA2	P01877	VAR_003879	p.Ser93Pro	Polymorphism	-	-
+IGHA2	P01877	VAR_003880	p.Arg102Pro	Polymorphism	-	-
+IGHA2	P01877	VAR_003881	p.Tyr279Phe	Polymorphism	-	-
+IGHA2	P01877	VAR_003882	p.Glu296Asp	Polymorphism	-	-
+IGHA2	P01877	VAR_003883	p.Ile326Val	Polymorphism	-	-
+IGHA2	P01877	VAR_003884	p.Ala335Val	Polymorphism	-	-
+IGHE	P01854	VAR_003885	p.Trp359Leu	Polymorphism	-	-
+IGHE	P01854	VAR_044229	p.Trp43Cys	Polymorphism	-	-
+IGHG1	P01857	VAR_003886	p.Lys97Arg	Polymorphism	-	-
+IGHG1	P01857	VAR_003887	p.Asp239Glu	Polymorphism	-	-
+IGHG1	P01857	VAR_003888	p.Leu241Met	Polymorphism	-	-
+IGHG2	P01859	VAR_003889	p.Ser60Ala	Polymorphism	-	-
+IGHG2	P01859	VAR_077892	p.Ser257Ala	Polymorphism	-	-
+IGHG3	P01860	VAR_003891	p.Pro221Leu	Unclassified	-	-
+IGHG3	P01860	VAR_003892	p.Tyr226Phe	Unclassified	-	-
+IGHG3	P01860	VAR_003893	p.Thr269Ala	Unclassified	-	-
+IGHG3	P01860	VAR_003894	p.Ser314Asn	Unclassified	-	-
+IGHG3	P01860	VAR_003896	p.Phe366Tyr	Unclassified	-	-
+IGHG3	P01860	VAR_068697	p.Glu213Gln	Unclassified	-	-
+IGHG3	P01860	VAR_068698	p.Glu224Gln	Unclassified	-	-
+IGHG3	P01860	VAR_068699	p.Asp242Asn	Unclassified	-	-
+IGHG3	P01860	VAR_068700	p.Asn245Asp	Unclassified	-	-
+IGHM	P01871	VAR_003903	p.Gly191Ser	Polymorphism	-	-
+IGHM	P01871	VAR_003904	p.Val215Gly	Polymorphism	rs12365	-
+IGHM	P01871	VAR_077893	p.Phe40Leu	Polymorphism	-	-
+IGHM	P01871	VAR_077895	p.Glu418Asp	Polymorphism	-	-
+IGHV1-2	P23083	VAR_076173	p.Trp69Arg	Polymorphism	-	-
+IGHV1-2	P23083	VAR_076174	p.Trp86Arg	Polymorphism	-	-
+IGHV1-2	P23083	VAR_076175	p.Met89Ser	Polymorphism	-	-
+IGHV1-2	P23083	VAR_076176	p.Ala111Val	Polymorphism	-	-
+IGHV1-46	P01743	VAR_076712	p.Thr49Asn	Polymorphism	-	-
+IGHV3-20	A0A0C4DH32	VAR_077934	p.Cys41Phe	Polymorphism	-	-
+IGHV3-23	P01764	VAR_073326	p.Val24Leu	Polymorphism	-	-
+IGHV3-23	P01764	VAR_073327	p.Ala80Gly	Polymorphism	-	-
+IGKC	P01834	VAR_003897	p.Val84Leu	Polymorphism	-	-
+IGKC	P01834	VAR_066403	p.Trp41Arg	Disease	-	Immunoglobulin kappa light chain deficiency (IGKCD) [MIM:614102]
+IGKV1-5	P01602	VAR_073349	p.Lys72Asp	Polymorphism	-	-
+IGKV1D-16	P01601	VAR_073376	p.Ser48Arg	Polymorphism	-	-
+IGLC3	P0DOY3	VAR_077897	p.Lys83Arg	Polymorphism	-	-
+IGLC7	A0M8Q6	VAR_077896	p.Asn34Tyr	Polymorphism	-	-
+IL13	P35225	VAR_010037	p.Arg144Gln	Polymorphism	rs20541	-
+INAVA	Q3KP66	VAR_030835	p.Arg538Cys	Polymorphism	rs296520	-
+INAVA	Q3KP66	VAR_080249	p.Tyr333Phe	Disease	rs41313912	Inflammatory bowel disease 29 (IBD29) [MIM:618077]
+ING1	Q9UK53	VAR_047097	p.Leu125Arg	Polymorphism	rs7338333	-
+INPP5B	P32019	VAR_028002	p.Met745Thr	Polymorphism	rs11488569	-
+INSYN2A	Q6ZSG2	VAR_042679	p.Ala147Val	Polymorphism	rs11594560	-
+IPO5	O00410	VAR_012029	p.Leu286Ile	Polymorphism	rs1053814	-
+IPO5	O00410	VAR_012030	p.Glu525Lys	Polymorphism	rs632729	-
+IPO5	O00410	VAR_012031	p.Glu549Lys	Polymorphism	rs484770	-
+IPO5	O00410	VAR_012032	p.Tyr905Cys	Polymorphism	rs1804740	-
+IPO5	O00410	VAR_012033	p.Thr969Ile	Polymorphism	rs1804741	-
+ITGA2	P17301	VAR_003977	p.Lys534Glu	Polymorphism	rs1801106	-
+ITGB2	P05107	VAR_030035	p.Gln354His	Polymorphism	rs235330	-
+ITIH5	Q86UX2	VAR_055974	p.Phe925Ser	Polymorphism	rs10795551	-
+ITPRID1	Q6ZRS4	VAR_033660	p.Ala32Asp	Polymorphism	rs7811042	-
+ITPRID1	Q6ZRS4	VAR_033661	p.Ala490Val	Polymorphism	rs4141001	-
+ITPRID1	Q6ZRS4	VAR_033662	p.Cys809Tyr	Polymorphism	rs10247620	-
+ITPRID1	Q6ZRS4	VAR_033663	p.His887Tyr	Polymorphism	rs7799540	-
+ITPRID1	Q6ZRS4	VAR_035496	p.Leu105Val	Unclassified	-	A colorectal cancer sample
+ITPRID1	Q6ZRS4	VAR_063505	p.His377Arg	Polymorphism	rs10252720	-
+ITPRID2	P28290	VAR_031186	p.Arg833Trp	Polymorphism	rs13419020	-
+ITPRID2	P28290	VAR_031187	p.Pro836Leu	Polymorphism	rs17647806	-
+ITPRID2	P28290	VAR_056998	p.Ala817Val	Polymorphism	rs16867510	-
+ITPRID2	P28290	VAR_059724	p.Tyr1258Asn	Polymorphism	rs2303554	-
+KARS1	Q15046	VAR_016105	p.Thr595Ser	Polymorphism	rs6834	-
+KARS1	Q15046	VAR_052640	p.Gly179Ala	Polymorphism	rs11557665	-
+KARS1	Q15046	VAR_064911	p.Leu105His	Disease	rs267607194	Charcot-Marie-Tooth disease, recessive, intermediate type, B (CMTRIB) [MIM:613641]
+KARS1	Q15046	VAR_064912	p.Ile274Met	Disease	rs146955132	Charcot-Marie-Tooth disease, recessive, intermediate type, B (CMTRIB) [MIM:613641]
+KARS1	Q15046	VAR_070233	p.Tyr145His	Disease	rs397514745	Deafness, autosomal recessive, 89 (DFNB89) [MIM:613916]
+KARS1	Q15046	VAR_070234	p.Asp349Asn	Disease	rs397514746	Deafness, autosomal recessive, 89 (DFNB89) [MIM:613916]
+KARS1	Q15046	VAR_079741	p.Leu350His	Unclassified	-	-
+KARS1	Q15046	VAR_079742	p.Pro390Arg	Unclassified	-	-
+KARS1	Q15046	VAR_079743	p.Arg438Trp	Unclassified	rs761527468	-
+KARS1	Q15046	VAR_079744	p.Arg477His	Disease	rs778748895	-
+KARS1	Q15046	VAR_079745	p.Pro505Ser	Disease	-	-
+KARS1	Q15046	VAR_079746	p.Glu525Lys	Unclassified	rs770522582	-
+KCNJ11	Q14654	VAR_008660	p.Glu23Lys	Polymorphism	rs5219	-
+KCNJ11	Q14654	VAR_008662	p.Ile337Val	Polymorphism	rs5215	-
+KCNK15	Q9H427	VAR_014211	p.Gly95Glu	Polymorphism	rs1111032	-
+KCNK15	Q9H427	VAR_014212	p.Pro260Thr	Polymorphism	rs6073538	-
+KCNK15	Q9H427	VAR_014214	p.Pro323Leu	Polymorphism	rs13042905	-
+KCNT1	Q5JUK3	VAR_069311	p.Arg379Gln	Disease	rs397515407	Epilepsy, nocturnal frontal lobe, 5 (ENFL5) [MIM:615005]
+KCNT1	Q5JUK3	VAR_069312	p.Arg409Gln	Disease	rs397515402	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_069313	p.Arg455His	Disease	rs397515404	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_069314	p.Ile741Met	Disease	rs370521183	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_069316	p.Met877Ile	Disease	rs797044544	Epilepsy, nocturnal frontal lobe, 5 (ENFL5) [MIM:615005]
+KCNT1	Q5JUK3	VAR_069317	p.Arg909Cys	Disease	rs397515405	Epilepsy, nocturnal frontal lobe, 5 (ENFL5) [MIM:615005]
+KCNT1	Q5JUK3	VAR_069318	p.Ala915Thr	Disease	rs397515403	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_078214	p.Met497Val	Disease	rs886041691	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_078215	p.Lys928Glu	Disease	rs1057519544	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_078641	p.Thr562Ile	Unclassified	rs1185192267	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_078642	p.Arg1088Gln	Unclassified	rs758311066	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_078683	p.Gly269Ser	Disease	rs587777264	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCNT1	Q5JUK3	VAR_078684	p.Met877Lys	Unclassified	-	Epileptic encephalopathy, early infantile, 14 (EIEE14) [MIM:614959]
+KCP	Q6ZWJ8	VAR_059625	p.Lys459Glu	Polymorphism	rs7782976	-
+KCP	Q6ZWJ8	VAR_059627	p.Pro1193Arg	Polymorphism	rs7786641	-
+KIAA0087	Q14695	VAR_044539	p.Ser85Asn	Polymorphism	rs740182	-
+KIAA0754	O94854	VAR_033338	p.Ile824Val	Polymorphism	rs1746842	-
+KIAA0754	O94854	VAR_033339	p.Thr969Ala	Polymorphism	rs783822	-
+KIAA0754	O94854	VAR_033340	p.Glu1058Lys	Polymorphism	rs587523	-
+KIF1B	O60333	VAR_063532	p.Glu692Val	Polymorphism	rs121908161	-
+KIF1B	O60333	VAR_063533	p.Thr873Ile	Polymorphism	rs121908162	-
+KIF1B	O60333	VAR_063534	p.Tyr1133Cys	Polymorphism	rs2297881	-
+KIF1B	O60333	VAR_063535	p.Pro1263Ser	Polymorphism	rs121908163	-
+KIF1B	O60333	VAR_063537	p.Val1600Met	Polymorphism	rs77172218	-
+KIF1B	O60333	VAR_063538	p.Glu1674Lys	Polymorphism	rs143669846	-
+KIF25-AS1	Q9Y6Z4	VAR_033051	p.His23Asp	Polymorphism	rs9355149	-
+KIF25-AS1	Q9Y6Z4	VAR_033052	p.Cys24Arg	Polymorphism	rs2516801	-
+KIF25-AS1	Q9Y6Z4	VAR_033053	p.Gln57Glu	Polymorphism	rs9364382	-
+KIF3C	O14782	VAR_055120	p.Gln370Arg	Polymorphism	rs1465878	-
+KIFBP	Q96EK5	VAR_023311	p.Gly66Ser	Polymorphism	rs2255607	-
+KIR2DL1	P43626	VAR_003950	p.Pro37Arg	Polymorphism	rs35509911	-
+KIR2DL1	P43626	VAR_003951	p.Pro135Leu	Polymorphism	rs11673144	-
+KIR2DL2	P43627	VAR_021929	p.Arg37Pro	Polymorphism	rs613240	-
+KIR2DL2	P43627	VAR_059417	p.Ala9Val	Polymorphism	rs3810343	-
+KIR2DL2	P43627	VAR_059418	p.Phe66Tyr	Polymorphism	rs673568	-
+KIR2DL4	Q99706	VAR_010311	p.Asp271Asn	Polymorphism	-	-
+KIR2DL4	Q99706	VAR_010312	p.Asn371His	Polymorphism	rs1185997484	-
+KIR2DL5B	Q8NHK3	VAR_080174	p.Val6Ile	Polymorphism	-	-
+KIR2DL5B	Q8NHK3	VAR_080175	p.Thr141Ala	Polymorphism	-	-
+KIR2DL5B	Q8NHK3	VAR_080176	p.Glu276Gly	Polymorphism	-	-
+KIR2DS1	Q14954	VAR_010318	p.Lys91Arg	Polymorphism	rs687485	-
+KIR2DS1	Q14954	VAR_059419	p.Leu111Val	Polymorphism	rs687885	-
+KIR2DS2	P43631	VAR_020090	p.Lys237Glu	Polymorphism	rs2262065	-
+KIR2DS2	P43631	VAR_059420	p.Ala9Val	Polymorphism	rs189739973	-
+KIR2DS2	P43631	VAR_059421	p.Tyr66Phe	Polymorphism	rs1049626616	-
+KIR2DS2	P43631	VAR_059422	p.Lys254Asn	Polymorphism	rs1063326	-
+KIR2DS4	P43632	VAR_059423	p.Asn178His	Polymorphism	rs4806591	-
+KIR2DS4	P43632	VAR_059424	p.Ala205Ser	Polymorphism	rs1049290	-
+KIR2DS4	P43632	VAR_059425	p.Lys254Asn	Polymorphism	rs1063326	-
+KIR2DS5	Q14953	VAR_080126	p.Ser2Leu	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080127	p.His22Arg	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080128	p.Ser132Pro	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080129	p.Ser144Asn	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080130	p.Ser148Phe	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080131	p.Pro175Thr	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080132	p.Arg179Gly	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080133	p.Phe185Ser	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080134	p.Thr195Ala	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080135	p.Arg197Thr	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080136	p.Arg203His	Polymorphism	-	-
+KIR2DS5	Q14953	VAR_080137	p.Glu237Lys	Polymorphism	-	-
+KIR3DL3	Q8N743	VAR_060617	p.His321Asn	Polymorphism	rs602444	-
+KIR3DL3	Q8N743	VAR_060618	p.His321Tyr	Polymorphism	rs602444	-
+KIR3DS1	Q14943	VAR_010377	p.Arg166His	Polymorphism	rs375468097	-
+KIR3DS1	Q14943	VAR_056093	p.Leu2Ser	Polymorphism	rs605219	-
+KIR3DS1	Q14943	VAR_056094	p.Val68Ile	Polymorphism	rs643347	-
+KIR3DS1	Q14943	VAR_056095	p.Pro203Ser	Polymorphism	rs2273731	-
+KIR3DS1	Q14943	VAR_056096	p.Leu220Pro	Polymorphism	rs680891	-
+KIR3DS1	Q14943	VAR_056097	p.Gly259Arg	Polymorphism	rs1049215	-
+KIR3DS1	Q14943	VAR_078992	p.Leu13Phe	Polymorphism	rs1142881	-
+KIRREL2	Q6UWL6	VAR_067450	p.Lys591Glu	Polymorphism	rs382789	-
+KLK4	Q9Y5K2	VAR_028365	p.His197Gln	Polymorphism	rs2569527	-
+KLKB1	P03952	VAR_013598	p.Asn143Ser	Disease	rs3733402	Prekallikrein deficiency (PKK deficiency) [MIM:612423]
+KLRC2	P26717	VAR_013404	p.Ser2Asn	Polymorphism	rs28403159	-
+KLRC2	P26717	VAR_013405	p.Ser102Phe	Polymorphism	-	-
+KLRK1	P26718	VAR_013295	p.Ala72Thr	Polymorphism	rs2255336	-
+KRI1	Q8N9T8	VAR_034751	p.Gly138Arg	Polymorphism	rs12984043	-
+KRI1	Q8N9T8	VAR_034752	p.Glu179Ala	Polymorphism	rs11545166	-
+KRI1	Q8N9T8	VAR_034754	p.Ser309Leu	Polymorphism	rs34743532	-
+KRI1	Q8N9T8	VAR_034755	p.Arg336Trp	Polymorphism	rs33999611	-
+KRI1	Q8N9T8	VAR_034756	p.Glu349Gln	Polymorphism	rs3826709	-
+KRI1	Q8N9T8	VAR_034757	p.Leu445Pro	Polymorphism	rs1982074	-
+KRI1	Q8N9T8	VAR_034758	p.Ser703Pro	Polymorphism	rs3087689	-
+KRT4	P19013	VAR_016038	p.Glu449Lys	Disease	-	White sponge nevus 1 (WSN1) [MIM:193900]
+KRTAP10-4	P60372	VAR_062112	p.Gly285Cys	Polymorphism	rs396912	-
+KRTAP10-5	P60370	VAR_017697	p.Val235Leu	Polymorphism	rs464424	-
+KRTAP10-5	P60370	VAR_047505	p.Phe183Cys	Polymorphism	rs380585	-
+KRTAP10-5	P60370	VAR_047507	p.Arg268Pro	Polymorphism	rs464391	-
+KRTAP10-6	P60371	VAR_062533	p.Pro300Ser	Polymorphism	rs465279	-
+KRTAP4-1	Q9BYQ7	VAR_047045	p.Ser115Arg	Polymorphism	rs35382039	-
+KRTAP4-1	Q9BYQ7	VAR_047046	p.Ala134Thr	Polymorphism	rs398825	-
+KRTAP4-7	Q9BYR0	VAR_064464	p.Ser168Cys	Polymorphism	-	-
+KRTAP9-9	Q9BYP9	VAR_060047	p.Pro36Ser	Polymorphism	rs9903833	-
+KRTCAP2	Q8N6L1	VAR_025531	p.Gly4Val	Polymorphism	rs17854920	-
+LAMA4	Q16363	VAR_061348	p.Ala283Glu	Polymorphism	rs9400522	-
+LAS2	Q8IYD9	VAR_050903	p.Arg147Pro	Polymorphism	rs1657907	-
+LAS2	Q8IYD9	VAR_050904	p.Cys196Phe	Polymorphism	rs16958096	-
+LEG1	Q6P5S2	VAR_033675	p.Cys308Gly	Polymorphism	rs9491833	-
+LEKR1	Q6ZMV7	VAR_061673	p.Ile356Val	Polymorphism	rs61469347	-
+LENG1	Q96BZ8	VAR_051090	p.Glu97Lys	Polymorphism	rs35089861	-
+LENG9	Q96B70	VAR_029602	p.His153Arg	Polymorphism	rs10406453	-
+LENG9	Q96B70	VAR_029603	p.Arg499Pro	Polymorphism	rs10423424	-
+LGALS16	A8MUM7	VAR_065877	p.Leu97His	Polymorphism	rs1860134	-
+LIAT1	Q6ZQX7	VAR_044008	p.Glu56Lys	Polymorphism	rs4581766	-
+LIAT1	Q6ZQX7	VAR_044009	p.Asp220Glu	Polymorphism	rs35229416	-
+LILRA3	Q8N6C8	VAR_016990	p.Pro3Ser	Polymorphism	rs11574606	-
+LILRA3	Q8N6C8	VAR_016991	p.Leu107Arg	Polymorphism	rs6509862	-
+LILRA3	Q8N6C8	VAR_016992	p.Tyr301His	Polymorphism	rs4473306	-
+LILRA4	P59901	VAR_056054	p.Pro27Leu	Polymorphism	rs2241384	-
+LILRA6	Q6PI73	VAR_033170	p.Leu69Trp	Polymorphism	rs620207	-
+LILRB1	Q8NHL6	VAR_016993	p.Leu68Pro	Polymorphism	rs1061679	-
+LILRB1	Q8NHL6	VAR_016994	p.Ile142Thr	Polymorphism	rs1061680	-
+LILRB1	Q8NHL6	VAR_016995	p.Ser155Ile	Polymorphism	rs1061681	-
+LILRB1	Q8NHL6	VAR_049888	p.Ala93Thr	Polymorphism	rs12460501	-
+LILRB2	Q8N423	VAR_016997	p.His20Arg	Polymorphism	rs383369	-
+LILRB2	Q8N423	VAR_016998	p.Glu161Asp	Polymorphism	rs373032	-
+LILRB2	Q8N423	VAR_047432	p.Val235Met	Polymorphism	rs386056	-
+LILRB3	O75022	VAR_017001	p.Val21Met	Polymorphism	rs1132588	-
+LILRB3	O75022	VAR_017003	p.Leu69Trp	Polymorphism	rs80077296	-
+LILRB3	O75022	VAR_017004	p.Glu90Gln	Polymorphism	rs1052963	-
+LILRB3	O75022	VAR_017005	p.Ser122Asn	Polymorphism	rs200783306	-
+LILRB3	O75022	VAR_017007	p.Tyr400Arg	Unclassified	-	-
+LILRB3	O75022	VAR_017008	p.Tyr400His	Polymorphism	rs1052992	-
+LILRB3	O75022	VAR_017009	p.Tyr400Phe	Polymorphism	rs8105096	-
+LILRB4	Q8NHJ6	VAR_017014	p.Asp223Gly	Polymorphism	rs731170	-
+LILRB4	Q8NHJ6	VAR_025505	p.Gln414Arg	Polymorphism	rs1048801	-
+LINC00114	Q6XXX2	VAR_026884	p.Ser21Thr	Polymorphism	rs2836662	-
+LINC00114	Q6XXX2	VAR_026885	p.Asn39Lys	Polymorphism	rs11908799	-
+LINC00114	Q6XXX2	VAR_026886	p.Ala52Ser	Polymorphism	rs11908743	-
+LINC00114	Q6XXX2	VAR_026887	p.Met104Arg	Polymorphism	rs16996776	-
+LINC00271	P0C7V0	VAR_056807	p.Ala112Glu	Polymorphism	rs13197384	-
+LINC00303	Q3SY05	VAR_047356	p.Val98Ala	Polymorphism	rs4951039	-
+LINC00322	Q6ZN03	VAR_050931	p.Leu116Phe	Polymorphism	rs564352	-
+LINC00322	Q6ZN03	VAR_050932	p.Ala149Thr	Polymorphism	rs2838262	-
+LINC00336	Q6ZUF6	VAR_046183	p.Ser13Arg	Polymorphism	rs7759154	-
+LINC00336	Q6ZUF6	VAR_046184	p.Leu73Pro	Polymorphism	rs210162	-
+LINC00336	Q6ZUF6	VAR_046185	p.Pro84Ser	Polymorphism	rs9469517	-
+LINC00346	Q8IVM7	VAR_029613	p.Arg154Gln	Polymorphism	rs9588286	-
+LINC00482	Q8N8I6	VAR_032158	p.Val50Leu	Polymorphism	rs2056439	-
+LINC00482	Q8N8I6	VAR_032159	p.Arg119Cys	Polymorphism	rs2048058	-
+LINC00518	Q8N0U6	VAR_034646	p.Tyr106Cys	Polymorphism	rs303061	-
+LINC00523	Q86TU6	VAR_029588	p.Glu21Asp	Polymorphism	rs8011237	-
+LINC00526	Q96FQ7	VAR_050902	p.Pro16Ala	Polymorphism	rs7242964	-
+LINC00574	Q9H8X3	VAR_024304	p.Trp91Arg	Polymorphism	rs1078211	-
+LINC00574	Q9H8X3	VAR_024305	p.Lys119Arg	Polymorphism	rs1078208	-
+LINC00574	Q9H8X3	VAR_033682	p.Ser27Cys	Polymorphism	rs6926145	-
+LINC00846	Q9NV44	VAR_018108	p.Glu2Gly	Polymorphism	rs928777	-
+LINC01554	Q52M75	VAR_035138	p.Arg85Cys	Polymorphism	rs17366761	-
+LINC01555	Q8NAE3	VAR_029856	p.Phe96Val	Polymorphism	rs4551616	-
+LINC01556	Q5JQF7	VAR_036902	p.Gly41Glu	Polymorphism	rs2071790	-
+LINC01559	Q495D7	VAR_030221	p.Pro38Leu	Polymorphism	rs11055389	-
+LINC01559	Q495D7	VAR_030222	p.Ala76Glu	Polymorphism	rs17821405	-
+LINC01559	Q495D7	VAR_030223	p.Ile84Val	Polymorphism	rs7308685	-
+LINC01587	Q99440	VAR_024301	p.Asn15Lys	Polymorphism	rs886532	-
+LINC01600	Q96MT4	VAR_050813	p.Ile2Phe	Polymorphism	rs17135340	-
+LINC01600	Q96MT4	VAR_050814	p.Pro43Ser	Polymorphism	rs9503233	-
+LINC02694	Q8NAA6	VAR_044023	p.Leu3Val	Polymorphism	rs7165988	-
+LINC02694	Q8NAA6	VAR_044024	p.Ala39Val	Polymorphism	rs11857596	-
+LMO7	Q8WWI1	VAR_056163	p.Pro1547Gln	Polymorphism	rs7988661	-
+LMTK3	Q96Q04	VAR_057116	p.Val900Leu	Polymorphism	rs1643478	-
+LPA	P08519	VAR_006633	p.Trp4193Arg	Unclassified	-	-
+LPA	P08519	VAR_047293	p.Arg3498Gln	Polymorphism	rs41259144	-
+LPA	P08519	VAR_047294	p.Leu3866Val	Polymorphism	rs7765803	-
+LPA	P08519	VAR_047295	p.Leu3880Val	Polymorphism	rs7765781	-
+LPA	P08519	VAR_047296	p.Thr3907Pro	Polymorphism	rs41272110	-
+LPA	P08519	VAR_047297	p.Arg3929Gln	Polymorphism	rs41272112	-
+LPA	P08519	VAR_047298	p.Met4106Thr	Polymorphism	rs41264308	-
+LPA	P08519	VAR_047299	p.Met4187Thr	Polymorphism	rs1801693	-
+LPA	P08519	VAR_047300	p.Gly4330Ala	Polymorphism	rs41265936	-
+LPA	P08519	VAR_047301	p.Ile4399Met	Polymorphism	rs3798220	-
+LPA	P08519	VAR_047302	p.Arg4524Cys	Polymorphism	rs3124784	-
+LPAL2	Q16609	VAR_051100	p.Thr91Met	Polymorphism	rs7749199	-
+LRMP	Q12912	VAR_054545	p.Thr94Ala	Polymorphism	rs6487451	-
+LRMP	Q12912	VAR_054546	p.Leu197Val	Polymorphism	rs7969931	-
+LRMP	Q12912	VAR_054547	p.Leu241Trp	Polymorphism	rs1063159	-
+LRMP	Q12912	VAR_054548	p.Cys253Ser	Polymorphism	rs1908946	-
+LTN1	O94822	VAR_020957	p.Leu403Ser	Polymorphism	rs2254796	-
+LTN1	O94822	VAR_057218	p.Ala500Val	Polymorphism	rs16983580	-
+LTN1	O94822	VAR_057219	p.Gly565Cys	Polymorphism	rs34191159	-
+LTN1	O94822	VAR_057220	p.Val761Ile	Polymorphism	rs34635840	-
+LTO1	Q8WV07	VAR_062231	p.Gly3Ser	Polymorphism	rs56107468	-
+LURAP1L	Q8IV03	VAR_028155	p.Ser62Gly	Polymorphism	rs3750501	-
+LYAR	Q9NX58	VAR_023081	p.His265Arg	Polymorphism	rs7376390	-
+LYZL1	Q6UWQ5	VAR_026817	p.Gln62Pro	Polymorphism	rs3818551	-
+LYZL2	Q7Z4W2	VAR_026818	p.Asp144Gly	Polymorphism	rs1054570	-
+MAB21L4	Q08AI8	VAR_032419	p.Leu309Pro	Polymorphism	rs6707568	-
+MAB21L4	Q08AI8	VAR_050714	p.Ala170Thr	Polymorphism	rs4359646	-
+MACF1	Q9UPN3	VAR_048627	p.Ala6308Thr	Polymorphism	rs587404	-
+MACF1	Q9UPN3	VAR_048630	p.Ile6855Val	Polymorphism	rs12068423	-
+MACF1	Q9UPN3	VAR_065256	p.Gly7093Glu	Unclassified	-	A breast cancer sample
+MACF1	Q9UPN3	VAR_081967	p.Cys7135Phe	Disease	-	Lissencephaly 9 with complex brainstem malformation (LIS9) [MIM:618325]
+MACF1	Q9UPN3	VAR_081969	p.Cys7188Phe	Disease	-	Lissencephaly 9 with complex brainstem malformation (LIS9) [MIM:618325]
+MACF1	Q9UPN3	VAR_081970	p.Cys7188Gly	Disease	-	Lissencephaly 9 with complex brainstem malformation (LIS9) [MIM:618325]
+MAMDC4	Q6UXC1	VAR_032128	p.Trp987Gly	Polymorphism	rs2275156	-
+MAMDC4	Q6UXC1	VAR_035779	p.Arg1174Trp	Unclassified	rs138623341	A breast cancer sample
+MAP11	Q8WVR3	VAR_050817	p.Arg295His	Polymorphism	rs2293477	-
+MCM3	P25205	VAR_014810	p.Ser105Gly	Polymorphism	rs2307332	-
+MCM3	P25205	VAR_014811	p.Asp280Val	Polymorphism	rs2307329	-
+MCM3	P25205	VAR_014812	p.Phe287Leu	Polymorphism	rs2307328	-
+MCM3	P25205	VAR_020427	p.Glu777Lys	Polymorphism	rs2230240	-
+MCM3	P25205	VAR_020516	p.Ile590Leu	Polymorphism	rs17240063	-
+MCM3	P25205	VAR_020517	p.Arg774Trp	Polymorphism	rs2230239	-
+MEAK7	Q6P9B6	VAR_037675	p.Arg10Leu	Polymorphism	rs8046813	-
+MEAK7	Q6P9B6	VAR_037676	p.His97Gln	Polymorphism	rs8055536	-
+MEAK7	Q6P9B6	VAR_037677	p.Asp172Glu	Polymorphism	rs436278	-
+MEAK7	Q6P9B6	VAR_037678	p.Ile220Val	Polymorphism	rs431818	-
+MEAK7	Q6P9B6	VAR_037679	p.Glu233Asp	Polymorphism	rs34244563	-
+MEAK7	Q6P9B6	VAR_037680	p.Cys267Arg	Polymorphism	rs422145	-
+MEAK7	Q6P9B6	VAR_037681	p.Ser443Leu	Polymorphism	rs34628943	-
+MFSD1	Q9H3U5	VAR_030138	p.Pro24Ser	Polymorphism	rs28364680	-
+MFSD1	Q9H3U5	VAR_030139	p.Lys168Glu	Polymorphism	rs17854200	-
+MFSD1	Q9H3U5	VAR_030140	p.Ile220Val	Polymorphism	rs3765083	-
+MFSD1	Q9H3U5	VAR_059466	p.Ile271Thr	Polymorphism	rs11551240	-
+MIB2	Q96AX9	VAR_046668	p.Phe15Leu	Polymorphism	rs7418389	-
+MIB2	Q96AX9	VAR_046669	p.Met45Thr	Polymorphism	rs12755088	-
+MICA	Q29983	VAR_043627	p.Thr47Ala	Polymorphism	rs1051785	-
+MICA	Q29983	VAR_043629	p.Cys59Tyr	Polymorphism	rs1051786	-
+MICA	Q29983	VAR_043635	p.Lys148Glu	Polymorphism	rs1051791	-
+MICA	Q29983	VAR_043636	p.Met152Val	Polymorphism	rs1051792	-
+MICA	Q29983	VAR_043640	p.Lys196Glu	Polymorphism	rs1051794	-
+MICA	Q29983	VAR_043644	p.Gly229Ser	Polymorphism	rs1131898	-
+MICA	Q29983	VAR_043646	p.Trp233Arg	Polymorphism	rs1051798	-
+MICA	Q29983	VAR_043647	p.Thr236Ile	Polymorphism	rs1140700	-
+MICA	Q29983	VAR_043648	p.Ser238Thr	Polymorphism	rs1051799	-
+MICA	Q29983	VAR_043650	p.Gln274Arg	Polymorphism	rs1063635	-
+MICA	Q29983	VAR_043662	p.Val328Ile	Polymorphism	rs72558178	-
+MICA	Q29983	VAR_043663	p.Arg329Cys	Polymorphism	rs41554412	-
+MICA	Q29983	VAR_043664	p.Thr356Met	Polymorphism	rs41546114	-
+MICA	Q29983	VAR_043665	p.Asp373Ala	Polymorphism	rs9266825	-
+MICA	Q29983	VAR_043666	p.Thr377Ala	Polymorphism	rs41545814	-
+MICA	Q29983	VAR_043667	p.Ala383Thr	Polymorphism	rs1882	-
+MICB	Q29980	VAR_044068	p.Glu39Gly	Polymorphism	rs45578846	-
+MICB	Q29980	VAR_044070	p.Asp75Asn	Polymorphism	rs3131639	-
+MICB	Q29980	VAR_044080	p.Val300Ala	Polymorphism	rs45470602	-
+MICB	Q29980	VAR_044081	p.Ala383Thr	Polymorphism	rs1065076	-
+MINAR1	Q9UPX6	VAR_022042	p.Ile832Val	Polymorphism	rs2297773	-
+MINAR1	Q9UPX6	VAR_034044	p.Val320Phe	Polymorphism	rs11634652	-
+MIR1-1HG	AQ96NR2	VAR_036898	p.Ile121Val	Polymorphism	rs3934574	-
+MIR7-3HG	Q8N6C7	VAR_030681	p.Arg73Ser	Polymorphism	rs11878617	-
+MIR7-3HG	Q8N6C7	VAR_030682	p.His91Gln	Polymorphism	rs3760955	-
+MMUT	P22033	VAR_004409	p.Arg93His	Disease	rs121918251	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004410	p.Trp105Arg	Disease	rs121918249	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004411	p.Ala191Glu	Disease	rs760782399	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004412	p.Arg228Gln	Disease	rs770810987	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004413	p.Tyr231Asn	Disease	rs864309736	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004414	p.Gly312Val	Disease	rs864309734	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004416	p.Val368Asp	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004417	p.Arg369His	Disease	rs564069299	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004418	p.Ala377Glu	Disease	rs121918250	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004419	p.Arg532His	Polymorphism	rs1141321	-
+MMUT	P22033	VAR_004420	p.Gly623Arg	Disease	rs121918254	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004421	p.Gly626Cys	Disease	rs982110849	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004422	p.Gly630Glu	Disease	rs143023066	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004423	p.Val633Gly	Disease	rs200055428	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004424	p.Gly648Asp	Disease	rs766721811	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004425	p.Val669Glu	Disease	rs1360470463	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004426	p.Ile671Val	Polymorphism	rs8589	-
+MMUT	P22033	VAR_004427	p.His678Arg	Disease	rs147094927	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004429	p.Leu685Arg	Disease	rs864309739	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004430	p.Arg694Trp	Disease	rs777758903	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004431	p.Gly703Arg	Disease	rs121918255	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_004432	p.Gly717Val	Disease	rs121918252	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022393	p.Gly94Val	Disease	rs535411418	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022394	p.Arg108His	Disease	rs483352778	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022395	p.Ala137Val	Disease	rs941483851	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022396	p.Ser148Leu	Disease	rs1300547552	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022397	p.Asp156Asn	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022398	p.Gly158Val	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022399	p.Phe174Ser	Disease	rs864309733	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022400	p.Gly203Arg	Disease	rs778702777	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022401	p.Gly215Ser	Disease	rs121918258	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022402	p.Gln218His	Disease	rs1446389693	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022403	p.Asn219Tyr	Disease	rs121918256	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022404	p.Ser262Asn	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022405	p.Gln293Pro	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022406	p.Leu328Phe	Disease	rs796052002	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022407	p.Ala499Thr	Polymorphism	rs2229385	-
+MMUT	P22033	VAR_022408	p.Ala535Pro	Disease	rs760183775	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022409	p.Tyr587Cys	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022410	p.Pro615Thr	Disease	rs1302409621	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022411	p.Lys621Asn	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022412	p.Gln624Arg	Disease	rs768521956	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022413	p.His627Arg	Disease	rs372486357	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022414	p.Gly637Glu	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022415	p.Phe638Ile	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022416	p.Asp640Tyr	Disease	rs865815395	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022417	p.Gly642Arg	Disease	rs747897332	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_022418	p.Met700Lys	Disease	rs140600746	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_023472	p.Ile69Val	Disease	rs115923556	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_023473	p.Gln109Arg	Disease	rs1461110052	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_023474	p.Ala324Thr	Disease	rs780387525	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_023475	p.Leu328Pro	Disease	rs965316043	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_023476	p.Arg616Cys	Disease	rs765284825	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_023477	p.Leu617Arg	Disease	rs1554158775	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026592	p.Pro86Leu	Disease	rs769348060	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026593	p.Gly87Glu	Disease	rs1554160986	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026594	p.Gly94Arg	Disease	rs727504022	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026595	p.Pro95Arg	Disease	rs190834116	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026596	p.Arg108Cys	Disease	rs121918257	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026597	p.Arg108Gly	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026598	p.Gly145Ser	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026599	p.Met186Val	Disease	rs148331800	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026600	p.Asn189Lys	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026601	p.Ala197Glu	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026602	p.Gly215Cys	Disease	rs121918258	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026603	p.Thr230Ile	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026604	p.His265Tyr	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026605	p.Leu281Ser	Disease	rs796052007	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026606	p.Gly291Glu	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026607	p.Leu305Ser	Disease	rs1554160246	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026608	p.Ser306Phe	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026609	p.Tyr316Cys	Disease	rs781474200	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026610	p.Leu347Arg	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026611	p.His350Tyr	Disease	rs1407914109	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026612	p.Arg369Cys	Disease	rs772552898	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026613	p.Thr370Pro	Disease	rs368790885	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026614	p.Gln383His	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026615	p.Gln383Pro	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026616	p.His386Asn	Disease	rs1554159937	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026617	p.Asn388His	Disease	rs766010704	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026620	p.Gly426Arg	Disease	rs769922244	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026621	p.Gly427Asp	Disease	rs753288303	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026622	p.Leu518Pro	Disease	rs864309738	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026623	p.Cys560Tyr	Disease	rs1238333040	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026624	p.Thr566Arg	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026625	p.Phe573Ser	Disease	rs775593146	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026626	p.Pro615Arg	Disease	rs1554158777	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_026627	p.Gly637Arg	Disease	rs781501004	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_030495	p.Thr598Ala	Polymorphism	rs9473556	-
+MMUT	P22033	VAR_075379	p.Tyr100Cys	Disease	rs864309735	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075380	p.Tyr110Cys	Disease	rs796052005	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075381	p.Ala137Gly	Disease	rs941483851	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075382	p.His143Tyr	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075383	p.Ser288Pro	Disease	rs1179778233	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075384	p.Ser344Phe	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075385	p.Tyr364Ser	Disease	rs563776413	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075386	p.Asn366Ser	Disease	rs864309737	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075387	p.Thr387Ile	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075388	p.Gly454Glu	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075389	p.Gln514Glu	Unclassified	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075390	p.Pro615Leu	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075391	p.Asp625Val	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075392	p.Leu674Phe	Disease	rs1164271240	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075393	p.Leu692Pro	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_075394	p.Arg694Leu	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077210	p.Asn126Lys	Disease	rs879253827	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077211	p.Gly133Arg	Disease	rs879253828	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077212	p.Asp139Asn	Unclassified	rs879253829	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077213	p.Asp156Val	Disease	rs757000253	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077214	p.Gly161Arg	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077215	p.Thr187Ser	Disease	rs879253830	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077216	p.Asn189Ile	Disease	rs200908035	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077218	p.Thr230Arg	Disease	rs879253833	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077219	p.Glu276Asp	Unclassified	rs12175488	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077220	p.Gly284Glu	Disease	rs879253835	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077221	p.Gly284Arg	Disease	rs761477436	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077222	p.Gly325Asp	Disease	rs879253837	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077223	p.Arg326Lys	Unclassified	rs758577372	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077224	p.Leu358Pro	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077225	p.His386Arg	Disease	rs866933356	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077226	p.Asn388Lys	Disease	rs879253840	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077227	p.Pro424Leu	Disease	rs879253842	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077228	p.Gly426Glu	Disease	rs533755473	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077229	p.Ala552Val	Unclassified	rs879253845	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077230	p.Leu618Pro	Disease	rs879253846	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077231	p.Asp625Gly	Disease	rs879253847	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_077232	p.Leu736Phe	Disease	rs753461919	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078342	p.Leu140Pro	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078343	p.Ala141Thr	Disease	rs1554160730	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078344	p.Gly161Val	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078345	p.Trp309Gly	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078346	p.Ile505Thr	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078347	p.Gln514Lys	Disease	-	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078348	p.Ile597Arg	Disease	rs1554158951	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MMUT	P22033	VAR_078349	p.Gly723Asp	Disease	rs755077681	Methylmalonic aciduria type mut (MMAM) [MIM:251000]
+MRGPRG	AS1Q2M3A8	VAR_027707	p.Glu6Ala	Polymorphism	rs11026002	-
+MRGPRG	AS1Q2M3A8	VAR_027708	p.Ser135Phe	Polymorphism	rs11026004	-
+MRGPRG	AS1Q2M3A8	VAR_027709	p.Gly142Val	Polymorphism	rs12280457	-
+MROH2A	A6NES4	VAR_046077	p.Trp978Arg	Polymorphism	rs726016	-
+MROH2A	A6NES4	VAR_046080	p.Phe1107Ser	Polymorphism	rs1500480	-
+MROH2A	A6NES4	VAR_046081	p.Arg1141Cys	Polymorphism	rs28900688	-
+MROH2A	A6NES4	VAR_046085	p.Ala1410Thr	Polymorphism	rs28900693	-
+MROH2A	A6NES4	VAR_046086	p.Thr1454Ala	Polymorphism	rs28900694	-
+MROH2A	A6NES4	VAR_046087	p.Met1537Val	Polymorphism	rs11563074	-
+MROH2A	A6NES4	VAR_046089	p.Ala1562Thr	Polymorphism	rs879665	-
+MROH2A	A6NES4	VAR_046090	p.Val1569Ile	Polymorphism	rs879664	-
+MROH2A	A6NES4	VAR_046091	p.Pro1643Leu	Polymorphism	rs2270856	-
+MRTFA	Q969V6	VAR_021409	p.Ser648Gly	Polymorphism	rs878756	-
+MRTFB	Q9ULH7	VAR_064732	p.Asp390Gly	Unclassified	-	-
+MSLNL	Q96KJ4	VAR_039257	p.Asp463Val	Polymorphism	rs12599363	-
+MSLNL	Q96KJ4	VAR_039258	p.Ser597Gly	Polymorphism	rs9746539	-
+MST1	P26927	VAR_006631	p.Cys13Tyr	Polymorphism	-	-
+MST1	P26927	VAR_006632	p.Cys212Phe	Polymorphism	-	-
+MST1	P26927	VAR_070224	p.Arg689Cys	Polymorphism	rs3197999	-
+MT-ATP6	P00846	VAR_000792	p.Thr59Ala	Polymorphism	rs2000975	-
+MT-ATP6	P00846	VAR_000793	p.Leu156Arg	Disease	rs199476133	Leigh syndrome (LS) [MIM:256000]
+MT-ATP6	P00846	VAR_000793	p.Leu156Arg	Disease	rs199476133	Neuropathy, ataxia, and retinitis pigmentosa (NARP) [MIM:551500]
+MT-ATP6	P00846	VAR_000794	p.Leu156Pro	Disease	rs199476133	Ataxia and polyneuropathy, adult-onset (APAO) [MIM:500010]
+MT-ATP6	P00846	VAR_000794	p.Leu156Pro	Disease	rs199476133	Leigh syndrome (LS) [MIM:256000]
+MT-ATP6	P00846	VAR_000794	p.Leu156Pro	Disease	rs199476133	Mitochondrial complex V deficiency, mitochondrial 1 (MC5DM1) [MIM:500015]
+MT-ATP6	P00846	VAR_000795	p.Ile192Thr	Disease	rs199476134	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ATP6	P00846	VAR_000796	p.Val213Ile	Polymorphism	rs2298010	-
+MT-ATP6	P00846	VAR_000797	p.Leu217Pro	Disease	rs199476135	Leigh syndrome (LS) [MIM:256000]
+MT-ATP6	P00846	VAR_000797	p.Leu217Pro	Disease	rs199476135	Mitochondrial infantile bilateral striatal necrosis (MIBSN) [MIM:500003]
+MT-ATP6	P00846	VAR_008556	p.Thr33Ser	Polymorphism	-	-
+MT-ATP6	P00846	VAR_008557	p.His61Tyr	Polymorphism	-	-
+MT-ATP6	P00846	VAR_008558	p.His90Tyr	Polymorphism	rs2298007	-
+MT-ATP6	P00846	VAR_008559	p.Thr112Ala	Polymorphism	rs2001031	-
+MT-ATP6	P00846	VAR_008560	p.Ala155Thr	Polymorphism	-	-
+MT-ATP6	P00846	VAR_008561	p.Ala177Thr	Polymorphism	rs9645429	-
+MT-ATP6	P00846	VAR_008562	p.Ser219Gly	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021178	p.Ala7Thr	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021179	p.Ala11Thr	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021180	p.Ile14Val	Polymorphism	rs3020563	-
+MT-ATP6	P00846	VAR_021181	p.Gly16Ser	Polymorphism	rs28502681	-
+MT-ATP6	P00846	VAR_021182	p.Leu37Pro	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021183	p.Thr53Ile	Polymorphism	rs201336180	-
+MT-ATP6	P00846	VAR_021184	p.Met60Thr	Polymorphism	rs878959404	-
+MT-ATP6	P00846	VAR_021185	p.Ala80Thr	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021186	p.Phe117Leu	Polymorphism	rs201123510	-
+MT-ATP6	P00846	VAR_021187	p.Ile121Val	Polymorphism	rs386829057	-
+MT-ATP6	P00846	VAR_021188	p.Thr133Ala	Polymorphism	rs200329150	-
+MT-ATP6	P00846	VAR_021189	p.Thr178Ala	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021190	p.Ser182Leu	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021191	p.Ile192Val	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021192	p.Phe193Leu	Polymorphism	-	-
+MT-ATP6	P00846	VAR_021193	p.Ile204Thr	Polymorphism	-	-
+MT-ATP6	P00846	VAR_073699	p.Ser148Asn	Disease	rs794726857	Myopathy, lactic acidosis, and sideroblastic anemia 3 (MLASA3) [MIM:500011]
+MT-ATP6	P00846	VAR_073700	p.Leu220Pro	Disease	rs199476138	Leigh syndrome (LS) [MIM:256000]
+MT-ATP8	P03928	VAR_008563	p.Leu17Pro	Polymorphism	-	-
+MT-ATP8	P03928	VAR_008564	p.Phe21Ser	Polymorphism	-	-
+MT-ATP8	P03928	VAR_008565	p.Met28Thr	Polymorphism	rs879056797	-
+MT-ATP8	P03928	VAR_069527	p.Trp55Arg	Disease	rs387906422	Cardiomyopathy, infantile hypertrophic (CMHI) [MIM:500006]
+MT-ATP8	P03928	VAR_069527	p.Trp55Arg	Disease	rs387906422	Mitochondrial complex V deficiency, mitochondrial 2 (MC5DM2) [MIM:516070]
+MT-CO1	P00395	VAR_008385	p.Met273Thr	Polymorphism	rs199476127	-
+MT-CO1	P00395	VAR_008386	p.Ile280Thr	Polymorphism	rs199476126	-
+MT-CO1	P00395	VAR_008566	p.Thr10Ala	Polymorphism	-	-
+MT-CO1	P00395	VAR_008567	p.Phe94Cys	Polymorphism	-	-
+MT-CO1	P00395	VAR_008568	p.Val155Leu	Polymorphism	-	-
+MT-CO1	P00395	VAR_008569	p.Gly224Ala	Polymorphism	-	-
+MT-CO1	P00395	VAR_008570	p.Phe305Leu	Polymorphism	rs368552121	-
+MT-CO1	P00395	VAR_011342	p.Phe235Ser	Polymorphism	rs2853818	-
+MT-CO1	P00395	VAR_011343	p.Thr415Ala	Polymorphism	rs372136420	-
+MT-CO1	P00395	VAR_033055	p.Ser142Phe	Disease	rs267606883	Mitochondrial complex IV deficiency (MT-C4D) [MIM:220110]
+MT-CO1	P00395	VAR_033056	p.Leu196Ile	Disease	rs28461189	Mitochondrial complex IV deficiency (MT-C4D) [MIM:220110]
+MT-CO1	P00395	VAR_064154	p.Gly125Asp	Disease	rs281865417	Colorectal cancer (CRC) [MIM:114500]
+MT-CO1	P00395	VAR_064155	p.Ser458Pro	Disease	rs267606884	Colorectal cancer (CRC) [MIM:114500]
+MT-CO2	P00403	VAR_008390	p.Val142Met	Unclassified	rs199474826	Colorectal cancer
+MT-CO2	P00403	VAR_008571	p.Leu123Pro	Polymorphism	-	-
+MT-CO2	P00403	VAR_008572	p.Thr187Met	Polymorphism	-	-
+MT-CO2	P00403	VAR_008863	p.Asp11Ala	Polymorphism	-	-
+MT-CO2	P00403	VAR_011344	p.Ile30Val	Polymorphism	-	-
+MT-CO2	P00403	VAR_011345	p.Ala148Thr	Polymorphism	rs1116904	-
+MT-CO2	P00403	VAR_035085	p.Met29Lys	Disease	rs199474827	Mitochondrial complex IV deficiency (MT-C4D) [MIM:220110]
+MT-CO3	P00414	VAR_002167	p.Gly78Ser	Disease	rs267606611	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-CO3	P00414	VAR_002168	p.Ala200Thr	Disease	rs200613617	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-CO3	P00414	VAR_002169	p.Phe251Leu	Unclassified	-	-
+MT-CO3	P00414	VAR_008573	p.His3Arg	Polymorphism	-	-
+MT-CO3	P00414	VAR_008574	p.Phe35Ser	Polymorphism	-	-
+MT-CO3	P00414	VAR_008575	p.Val91Ile	Polymorphism	rs2853825	-
+MT-CO3	P00414	VAR_008576	p.Gln177Arg	Polymorphism	-	-
+MT-CO3	P00414	VAR_008577	p.Val254Ile	Polymorphism	rs200809063	-
+MT-CYB	P00156	VAR_002197	p.Asp171Asn	Disease	rs41518645	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-CYB	P00156	VAR_002198	p.Gly339Glu	Unclassified	-	-
+MT-CYB	P00156	VAR_002199	p.Val356Met	Disease	rs200336777	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-CYB	P00156	VAR_008388	p.Arg80His	Unclassified	rs207459995	Colorectal cancer
+MT-CYB	P00156	VAR_008389	p.Phe276Leu	Unclassified	rs207459996	Colorectal cancer
+MT-CYB	P00156	VAR_008585	p.Thr7Ile	Polymorphism	rs193302980	-
+MT-CYB	P00156	VAR_008586	p.Ala87Pro	Polymorphism	-	-
+MT-CYB	P00156	VAR_011339	p.Ala191Thr	Polymorphism	rs2853507	-
+MT-CYB	P00156	VAR_011340	p.Thr194Ala	Polymorphism	rs2853508	-
+MT-CYB	P00156	VAR_011341	p.Ala229Thr	Polymorphism	rs193302993	-
+MT-CYB	P00156	VAR_013643	p.Asn8Ser	Polymorphism	rs28357679	-
+MT-CYB	P00156	VAR_013644	p.Phe18Leu	Polymorphism	rs28357681	-
+MT-CYB	P00156	VAR_013645	p.Gly34Ser	Polymorphism	rs207459998	-
+MT-CYB	P00156	VAR_013646	p.Ala39Val	Polymorphism	-	-
+MT-CYB	P00156	VAR_013647	p.Ile78Thr	Polymorphism	rs200786872	-
+MT-CYB	P00156	VAR_013648	p.Ala122Thr	Polymorphism	rs28357685	-
+MT-CYB	P00156	VAR_013649	p.Thr123Ala	Polymorphism	-	-
+MT-CYB	P00156	VAR_013650	p.Ser151Pro	Polymorphism	rs207460001	-
+MT-CYB	P00156	VAR_013651	p.Ile153Thr	Polymorphism	rs28357687	-
+MT-CYB	P00156	VAR_013652	p.Ile164Val	Polymorphism	rs201250154	-
+MT-CYB	P00156	VAR_013653	p.Gly166Glu	Unclassified	-	-
+MT-CYB	P00156	VAR_013655	p.Leu236Ile	Polymorphism	rs193302994	-
+MT-CYB	P00156	VAR_013656	p.Gly251Asp	Disease	rs207460003	Cardiomyopathy, infantile histiocytoid (CMIH) [MIM:500000]
+MT-CYB	P00156	VAR_013658	p.Asn255His	Unclassified	-	-
+MT-CYB	P00156	VAR_013659	p.Tyr278Cys	Polymorphism	rs207460002	-
+MT-CYB	P00156	VAR_013660	p.Gly290Asp	Polymorphism	rs207459997	-
+MT-CYB	P00156	VAR_013661	p.Ile306Thr	Polymorphism	rs369851331	-
+MT-CYB	P00156	VAR_013662	p.Met316Thr	Polymorphism	rs200975632	-
+MT-CYB	P00156	VAR_013663	p.Ala329Thr	Polymorphism	-	-
+MT-CYB	P00156	VAR_013664	p.Ala330Thr	Polymorphism	rs386829259	-
+MT-CYB	P00156	VAR_013665	p.Ile334Val	Polymorphism	rs386829260	-
+MT-CYB	P00156	VAR_013666	p.Val353Met	Polymorphism	-	-
+MT-CYB	P00156	VAR_013667	p.Thr360Ala	Polymorphism	rs28357376	-
+MT-CYB	P00156	VAR_013668	p.Thr368Ile	Polymorphism	rs202225494	-
+MT-CYB	P00156	VAR_015571	p.Ala39Thr	Polymorphism	rs2853505	-
+MT-CYB	P00156	VAR_015572	p.Ile78Val	Polymorphism	rs199997767	-
+MT-CYB	P00156	VAR_015573	p.Asn260Asp	Polymorphism	-	-
+MT-CYB	P00156	VAR_033058	p.Ser35Pro	Polymorphism	rs207460004	-
+MT-CYB	P00156	VAR_033059	p.Gly251Ser	Polymorphism	rs199951903	-
+MT-ND1	P03886	VAR_004747	p.Ala4Thr	Polymorphism	rs2853516	-
+MT-ND1	P03886	VAR_004748	p.Tyr30His	Unclassified	rs41460449	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND1	P03886	VAR_004749	p.Met31Thr	Disease	rs201212638	Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) [MIM:540000]
+MT-ND1	P03886	VAR_004750	p.Met31Val	Disease	rs199476120	Alzheimer disease mitochondrial (AD-MT) [MIM:502500]
+MT-ND1	P03886	VAR_004751	p.Ala52Thr	Disease	rs199476118	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND1	P03886	VAR_004752	p.Tyr277Cys	Polymorphism	rs199476121	-
+MT-ND1	P03886	VAR_004753	p.Leu285Pro	Unclassified	rs199476119	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND1	P03886	VAR_004754	p.Tyr304His	Unclassified	rs1599988	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND1	P03886	VAR_008587	p.Ser205Pro	Polymorphism	-	-
+MT-ND1	P03886	VAR_008588	p.Tyr255Cys	Polymorphism	-	-
+MT-ND1	P03886	VAR_008589	p.Leu288Pro	Polymorphism	-	-
+MT-ND1	P03886	VAR_011346	p.Thr87Ala	Polymorphism	rs2854133	-
+MT-ND1	P03886	VAR_011347	p.Thr168Ala	Polymorphism	rs2854135	-
+MT-ND1	P03886	VAR_065195	p.Tyr30Cys	Unclassified	-	-
+MT-ND1	P03886	VAR_073352	p.Glu214Lys	Unclassified	rs199476123	-
+MT-ND2	P03891	VAR_004755	p.Asn150Asp	Disease	rs28357980	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND2	P03891	VAR_004756	p.Gly259Ser	Disease	rs199476115	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND2	P03891	VAR_004757	p.Ala331Thr	Polymorphism	rs3021088	-
+MT-ND2	P03891	VAR_004758	p.Ala331Ser	Disease	-	Alzheimer disease mitochondrial (AD-MT) [MIM:502500]
+MT-ND2	P03891	VAR_008590	p.Pro42Leu	Polymorphism	-	-
+MT-ND2	P03891	VAR_008591	p.Ile57Thr	Polymorphism	rs41510547	-
+MT-ND2	P03891	VAR_008592	p.Gln63Arg	Polymorphism	-	-
+MT-ND2	P03891	VAR_008593	p.Thr119Ala	Polymorphism	-	-
+MT-ND2	P03891	VAR_008594	p.Ser148Pro	Polymorphism	-	-
+MT-ND2	P03891	VAR_008595	p.Asn150Ser	Polymorphism	rs879058895	-
+MT-ND2	P03891	VAR_008596	p.Ile159Thr	Polymorphism	-	-
+MT-ND2	P03891	VAR_008597	p.Thr185Ala	Polymorphism	-	-
+MT-ND2	P03891	VAR_011348	p.Val43Ile	Polymorphism	rs1117207	-
+MT-ND2	P03891	VAR_011349	p.Ile69Val	Polymorphism	-	-
+MT-ND2	P03891	VAR_011350	p.Asn88Ser	Polymorphism	rs201854167	-
+MT-ND2	P03891	VAR_011351	p.Leu237Met	Polymorphism	rs28357984	-
+MT-ND2	P03891	VAR_011352	p.Ala265Thr	Polymorphism	rs370378529	-
+MT-ND2	P03891	VAR_011353	p.Ala265Val	Polymorphism	rs41320049	-
+MT-ND2	P03891	VAR_011354	p.Ile278Thr	Polymorphism	rs878853115	-
+MT-ND2	P03891	VAR_011355	p.Phe325Leu	Polymorphism	rs3020601	-
+MT-ND2	P03891	VAR_011356	p.Thr333Ala	Polymorphism	-	-
+MT-ND3	P03897	VAR_008391	p.Asn10Asp	Polymorphism	rs28358274	-
+MT-ND3	P03897	VAR_008392	p.Thr114Ala	Polymorphism	rs2853826	-
+MT-ND3	P03897	VAR_008598	p.Met53Val	Polymorphism	-	-
+MT-ND3	P03897	VAR_035091	p.Ser45Pro	Disease	rs267606890	Mitochondrial complex I deficiency, mitochondrial type 1 (MC1DM1) [MIM:500014]
+MT-ND3	P03897	VAR_035092	p.Ala47Thr	Disease	rs267606891	Leigh syndrome (LS) [MIM:256000]
+MT-ND3	P03897	VAR_035092	p.Ala47Thr	Disease	rs267606891	Mitochondrial complex I deficiency, mitochondrial type 1 (MC1DM1) [MIM:500014]
+MT-ND3	P03897	VAR_064564	p.Ser34Pro	Disease	rs199476117	Mitochondrial complex I deficiency, mitochondrial type 1 (MC1DM1) [MIM:500014]
+MT-ND4	P03905	VAR_004759	p.Thr109Ala	Disease	rs199476113	Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) [MIM:540000]
+MT-ND4	P03905	VAR_004760	p.Arg340His	Disease	rs199476112	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND4	P03905	VAR_008393	p.Val313Ile	Disease	rs200873900	Leber hereditary optic neuropathy with dystonia (LDYT) [MIM:500001]
+MT-ND4	P03905	VAR_008599	p.Ala79Pro	Polymorphism	-	-
+MT-ND4	P03905	VAR_008600	p.Thr109Pro	Polymorphism	-	-
+MT-ND4	P03905	VAR_008601	p.Ile132Thr	Polymorphism	-	-
+MT-ND4	P03905	VAR_008602	p.Met294Thr	Polymorphism	-	-
+MT-ND4	P03905	VAR_064565	p.Thr420Ala	Unclassified	rs879136236	-
+MT-ND4L	P03901	VAR_008397	p.Val65Ala	Disease	rs193302933	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND4L	P03901	VAR_008496	p.Cys32Arg	Unclassified	rs267606892	Colorectal cancer
+MT-ND4L	P03901	VAR_008605	p.Met36Ile	Polymorphism	-	-
+MT-ND4L	P03901	VAR_008606	p.Asn57Ser	Polymorphism	-	-
+MT-ND4L	P03901	VAR_008607	p.Ile61Thr	Polymorphism	-	-
+MT-ND5	P03915	VAR_004761	p.Ala458Thr	Disease	rs28359178	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND5	P03915	VAR_004762	p.Gly465Glu	Disease	rs387906425	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND5	P03915	VAR_008603	p.Ala475Thr	Polymorphism	rs386420024	-
+MT-ND5	P03915	VAR_008864	p.Pro17Ser	Polymorphism	-	-
+MT-ND5	P03915	VAR_008865	p.Phe95Ser	Polymorphism	-	-
+MT-ND5	P03915	VAR_008866	p.Ser99Pro	Polymorphism	-	-
+MT-ND5	P03915	VAR_008867	p.Gly146Asp	Polymorphism	-	-
+MT-ND5	P03915	VAR_008868	p.Ala160Val	Polymorphism	-	-
+MT-ND5	P03915	VAR_008869	p.Asn165Ser	Polymorphism	-	-
+MT-ND5	P03915	VAR_008870	p.Phe304Ser	Polymorphism	-	-
+MT-ND5	P03915	VAR_008871	p.Thr331Ala	Polymorphism	-	-
+MT-ND5	P03915	VAR_008872	p.Asp503Gly	Polymorphism	-	-
+MT-ND5	P03915	VAR_011357	p.Thr211Pro	Polymorphism	-	-
+MT-ND5	P03915	VAR_011358	p.Ile257Val	Polymorphism	rs2853501	-
+MT-ND5	P03915	VAR_011359	p.Met314Val	Polymorphism	rs2853502	-
+MT-ND5	P03915	VAR_035424	p.Phe124Leu	Disease	rs267606893	Leigh syndrome (LS) [MIM:256000]
+MT-ND5	P03915	VAR_035425	p.Glu145Gly	Disease	rs267606894	Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) [MIM:540000]
+MT-ND5	P03915	VAR_035426	p.Ala171Val	Disease	rs267606899	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND5	P03915	VAR_035427	p.Ala236Thr	Disease	rs267606898	Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) [MIM:540000]
+MT-ND5	P03915	VAR_035428	p.Met237Leu	Disease	rs267606895	Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) [MIM:540000]
+MT-ND5	P03915	VAR_035429	p.Ser250Cys	Disease	rs267606896	Leigh syndrome (LS) [MIM:256000]
+MT-ND5	P03915	VAR_035430	p.Asp393Asn	Disease	rs267606897	Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) [MIM:540000]
+MT-ND5	P03915	VAR_064566	p.Val253Ala	Unclassified	-	-
+MT-ND5	P03915	VAR_064567	p.Asn447Ser	Unclassified	-	-
+MT-ND6	P03923	VAR_004763	p.Met64Val	Disease	rs199476104	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND6	P03923	VAR_004764	p.Ala72Val	Disease	rs199476105	Leber hereditary optic neuropathy with dystonia (LDYT) [MIM:500001]
+MT-ND6	P03923	VAR_008394	p.Ile26Met	Disease	rs387906424	Leber hereditary optic neuropathy with dystonia (LDYT) [MIM:500001]
+MT-ND6	P03923	VAR_008395	p.Gly36Ser	Disease	rs397515506	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND6	P03923	VAR_008396	p.Tyr59Cys	Disease	rs869025186	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND6	P03923	VAR_008512	p.Met64Ile	Disease	rs199476108	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND6	P03923	VAR_008604	p.Tyr165Cys	Polymorphism	rs200933339	-
+MT-ND6	P03923	VAR_014393	p.Val31Ala	Polymorphism	rs41354845	-
+MT-ND6	P03923	VAR_014394	p.Ile33Val	Polymorphism	rs386829219	-
+MT-ND6	P03923	VAR_014395	p.Ile58Val	Polymorphism	rs201327354	-
+MT-ND6	P03923	VAR_014396	p.Leu60Ser	Disease	rs199476106	Leber hereditary optic neuropathy (LHON) [MIM:535000]
+MT-ND6	P03923	VAR_014397	p.Ala74Val	Disease	rs199476107	Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) [MIM:540000]
+MT-ND6	P03923	VAR_064568	p.Met63Val	Disease	rs199476109	Leigh syndrome (LS) [MIM:256000]
+MT-RNR1	A0A0C5B5G6	VAR_075685	p.Lys14Gln	Unclassified	-	-
+MTCL1	Q9Y4B5	VAR_031073	p.Gln861Arg	Polymorphism	rs1965665	-
+MTCL1	Q9Y4B5	VAR_031076	p.Lys1211Gln	Polymorphism	rs11874468	-
+MTHFD1	P11586	VAR_016232	p.Arg134Lys	Polymorphism	rs1950902	-
+MTUS2	Q5JR59	VAR_055941	p.Pro955His	Polymorphism	rs12874207	-
+MTUS2	Q5JR59	VAR_058831	p.Leu1071Gln	Polymorphism	rs17073511	-
+MUC1	P15941	VAR_019390	p.Val1117Met	Polymorphism	rs1611770	-
+MUC1	P15941	VAR_019391	p.Ser1142Asn	Polymorphism	rs11465207	-
+MUC12	Q9UKN1	VAR_042906	p.Thr4775Arg	Polymorphism	rs11766125	-
+MUC19	Q7Z5P9	VAR_056635	p.Ala1493Val	Polymorphism	rs10784621	-
+MUC2	Q02817	VAR_056582	p.Leu58Pro	Polymorphism	rs2856111	-
+MUC2	Q02817	VAR_059532	p.Pro1689Leu	Polymorphism	rs11245949	-
+MUC2	Q02817	VAR_059536	p.Gln2653Leu	Polymorphism	rs7126405	-
+MUC2	Q02817	VAR_059537	p.Gln2653Pro	Polymorphism	rs7126405	-
+MUC2	Q02817	VAR_061487	p.Pro1768His	Polymorphism	rs34493663	-
+MUC3B	Q9H195	VAR_029507	p.Ala1034Val	Polymorphism	-	-
+MUC3B	Q9H195	VAR_029508	p.His1213Tyr	Polymorphism	-	-
+MUC4	Q99102	VAR_030212	p.Thr161Ala	Polymorphism	rs2293232	-
+MUC4	Q99102	VAR_056585	p.Ala721Thr	Polymorphism	rs3749331	-
+MUC4	Q99102	VAR_056586	p.Ala1205Thr	Polymorphism	rs2293232	-
+MUC4	Q99102	VAR_056587	p.Ala1578Ser	Polymorphism	rs2246901	-
+MUCL3	Q3MIW9	VAR_038857	p.Gly337Arg	Polymorphism	rs11970154	-
+MUCL3	Q3MIW9	VAR_038858	p.Glu419Lys	Polymorphism	rs3132580	-
+MUCL3	Q3MIW9	VAR_038859	p.Arg517Gln	Polymorphism	rs2240804	-
+MYC	P01106	VAR_016327	p.Asn11Ser	Polymorphism	rs4645959	-
+MYC	P01106	VAR_016328	p.Gly160Cys	Polymorphism	rs4645960	-
+MYC	P01106	VAR_016329	p.Val170Ile	Polymorphism	rs4645961	-
+MYC	P01106	VAR_016330	p.Ala322Val	Polymorphism	rs4645968	-
+MYC	P01106	VAR_063384	p.Glu39Asp	Unclassified	rs121918684	A Burkitt lymphoma symple
+MYC	P01106	VAR_063387	p.Asn86Thr	Unclassified	rs121918683	A Burkitt lymphoma sample
+MYCBPAP	Q8TBZ2	VAR_035003	p.Ala387Thr	Polymorphism	rs1380657	-
+MYCBPAP	Q8TBZ2	VAR_035004	p.Arg688Trp	Polymorphism	rs9890721	-
+MYCBPAP	Q8TBZ2	VAR_035005	p.Ser910Arg	Polymorphism	rs1133818	-
+MYD88	Q99836	VAR_047953	p.Leu93Pro	Disease	rs137853065	MYD88 deficiency (MYD88D) [MIM:612260]
+MYD88	Q99836	VAR_047954	p.Arg196Cys	Disease	rs137853064	MYD88 deficiency (MYD88D) [MIM:612260]
+MYD88	Q99836	VAR_072893	p.Ser34Tyr	Polymorphism	rs1319438	-
+MYD88	Q99836	VAR_072895	p.Arg98Cys	Unclassified	rs199396	-
+MYD88	Q99836	VAR_073252	p.Val39Met	Unclassified	rs770387646	-
+MYD88	Q99836	VAR_073253	p.Ser136Gly	Unclassified	-	-
+MYD88	Q99836	VAR_073254	p.Ser136Ile	Unclassified	-	-
+MYD88	Q99836	VAR_073255	p.Val204Phe	Unclassified	rs776995408	-
+MYD88	Q99836	VAR_073256	p.Trp205Arg	Unclassified	-	-
+MYD88	Q99836	VAR_073257	p.Ser206Cys	Unclassified	-	-
+MYD88	Q99836	VAR_073258	p.Ile207Thr	Unclassified	-	-
+MYD88	Q99836	VAR_073259	p.Ser209Arg	Unclassified	-	-
+MYD88	Q99836	VAR_073260	p.Met219Thr	Unclassified	-	-
+MYD88	Q99836	VAR_073262	p.Leu252Pro	Unclassified	rs387907272	-
+MYD88	Q99836	VAR_073263	p.Thr281Pro	Unclassified	-	-
+MYEF2	Q9P2K5	VAR_061829	p.Gln426Arg	Polymorphism	rs2470103	-
+MYO1H	Q8N1T3	VAR_043132	p.His705Tyr	Polymorphism	rs34725387	-
+MYO1H	Q8N1T3	VAR_050213	p.Leu1011Pro	Polymorphism	rs3825393	-
+MYOM2	P54296	VAR_054501	p.Asn869Ser	Polymorphism	rs968381	-
+MYOT	Q9UBF9	VAR_029533	p.Lys74Gln	Polymorphism	rs6890689	-
+NAA80	Q93015	VAR_014224	p.Arg145Ser	Unclassified	-	Non-small cell lung cancer cell lines
+NAA80	Q93015	VAR_014225	p.Thr207Ser	Unclassified	rs200439690	Non-small cell lung cancer cell lines
+NAGK	Q9UJ70	VAR_029763	p.Trp38Arg	Polymorphism	rs17856147	-
+NAGK	Q9UJ70	VAR_029764	p.Ala60Val	Polymorphism	rs17849984	-
+NAT2	P11245	VAR_004611	p.Lys268Arg	Polymorphism	rs1208	-
+NBEAP1	P0C6P0	VAR_039648	p.Val33Ala	Polymorphism	rs6422240	-
+NBEAP1	P0C6P0	VAR_039649	p.Thr54Ile	Polymorphism	rs6422239	-
+NBEAP1	P0C6P0	VAR_039650	p.Cys81Arg	Polymorphism	rs7497658	-
+NBPF14	Q5TI25	VAR_032381	p.Ser243Gly	Polymorphism	rs3871941	-
+NCEH1	Q6PIU2	VAR_047099	p.Val19Phe	Polymorphism	rs35316420	-
+NCEH1	Q6PIU2	VAR_047100	p.Lys71Gln	Polymorphism	rs2302815	-
+NCEH1	Q6PIU2	VAR_047101	p.Leu343Met	Polymorphism	rs17857335	-
+NCR1	O76036	VAR_018633	p.Lys82Gln	Polymorphism	rs2278428	-
+NDUFA6	P56556	VAR_014483	p.Ala9Val	Polymorphism	rs1801311	-
+NDUFA6	P56556	VAR_081470	p.Arg64Pro	Disease	-	Mitochondrial complex I deficiency, nuclear type 33 (MC1DN33) [MIM:618253]
+NELFA	Q9H3P2	VAR_059459	p.Ser335Ala	Polymorphism	rs2234569	-
+NEU3	Q9UQ49	VAR_055839	p.Arg15Gln	Polymorphism	rs7115499	-
+NFE4	Q86UQ8	VAR_046623	p.Gln116Arg	Polymorphism	rs2228687	-
+NFKBIL1	Q9UBC1	VAR_017798	p.Cys224Arg	Polymorphism	rs3130062	-
+NIBAN1	Q9BZQ8	VAR_053533	p.Ser633Leu	Polymorphism	rs12750174	-
+NIBAN1	Q9BZQ8	VAR_053534	p.Asp692Asn	Polymorphism	rs35704242	-
+NIBAN1	Q9BZQ8	VAR_053535	p.Val720Met	Polymorphism	rs17313374	-
+NIBAN1	Q9BZQ8	VAR_053536	p.Gly830Ser	Polymorphism	rs35601690	-
+NIBAN3	Q86XR2	VAR_039583	p.Ile229Thr	Polymorphism	rs8107859	-
+NIBAN3	Q86XR2	VAR_039584	p.Leu543Phe	Polymorphism	rs10401716	-
+NIBAN3	Q86XR2	VAR_039585	p.Gly603Ser	Polymorphism	rs11666267	-
+NIBAN3	Q86XR2	VAR_062126	p.Thr493Met	Polymorphism	rs45532635	-
+NKPD1	Q17RQ9	VAR_033146	p.Val118Leu	Polymorphism	rs3810144	-
+NOTCH2NLA	Q7Z3S9	VAR_043601	p.Ser67Pro	Polymorphism	rs10910779	-
+NOTCH2NLA	Q7Z3S9	VAR_043602	p.Thr158Ile	Polymorphism	rs8002	-
+NOTCH2NLA	Q7Z3S9	VAR_043603	p.Thr196Ser	Polymorphism	rs4649852	-
+NOTCH2NLA	Q7Z3S9	VAR_043604	p.Glu226Gln	Polymorphism	rs1053710	-
+NPVF	Q9HCQ7	VAR_014073	p.Ile32Met	Polymorphism	rs886354	-
+NPY4R	P50391	VAR_030338	p.Arg240Cys	Polymorphism	rs3824733	-
+NR1D2	Q14995	VAR_047380	p.Leu386Met	Polymorphism	rs4858097	-
+NSUN5P2	Q63ZY6	VAR_029476	p.Trp47Ser	Polymorphism	rs400282	-
+NSUN5P2	Q63ZY6	VAR_029477	p.Ala90Val	Polymorphism	rs395127	-
+NSUN5P2	Q63ZY6	VAR_029478	p.Cys272Arg	Polymorphism	rs17145838	-
+NSUN5P2	Q63ZY6	VAR_029479	p.Lys303Arg	Polymorphism	-	-
+NT5C3A	Q9H0P0	VAR_023511	p.Asp137Val	Disease	rs104894025	P5N deficiency (P5ND) [MIM:266120]
+NT5C3A	Q9H0P0	VAR_023512	p.Leu181Pro	Disease	-	P5N deficiency (P5ND) [MIM:266120]
+NT5C3A	Q9H0P0	VAR_023513	p.Asn229Ser	Disease	rs104894028	P5N deficiency (P5ND) [MIM:266120]
+NT5C3A	Q9H0P0	VAR_023514	p.Gly280Arg	Disease	rs104894029	P5N deficiency (P5ND) [MIM:266120]
+NT5C3A	Q9H0P0	VAR_073160	p.Arg95Gly	Disease	rs766577643	P5N deficiency (P5ND) [MIM:266120]
+NT5C3A	Q9H0P0	VAR_073161	p.Cys113Arg	Disease	-	P5N deficiency (P5ND) [MIM:266120]
+NT5C3A	Q9H0P0	VAR_073162	p.Gly207Arg	Disease	-	P5N deficiency (P5ND) [MIM:266120]
+NT5C3A	Q9H0P0	VAR_073163	p.Ile297Thr	Disease	-	P5N deficiency (P5ND) [MIM:266120]
+NUAK2	Q9H093	VAR_040964	p.Thr309Ser	Polymorphism	rs55745939	-
+NUAK2	Q9H093	VAR_040965	p.Arg341Leu	Polymorphism	rs35208615	-
+NUAK2	Q9H093	VAR_040966	p.Lys503Arg	Unclassified	rs1271546767	An ovarian Endometrioid carcinoma sample
+NUAK2	Q9H093	VAR_040967	p.Ala516Val	Polymorphism	rs35070935	-
+NUAK2	Q9H093	VAR_040968	p.Gly541Glu	Unclassified	-	A breast pleomorphic lobular carcinoma sample
+NUDT1	P36639	VAR_013757	p.Val124Met	Polymorphism	rs4866	-
+NUDT1	P36639	VAR_068715	p.Gly77Trp	Polymorphism	rs11547459	-
+NUP42	O15504	VAR_050572	p.Asp391Asn	Polymorphism	rs13243961	-
+NUP42	O15504	VAR_050573	p.Lys392Asn	Polymorphism	rs34902971	-
+NUP98	P52948	VAR_035859	p.Gly1669Val	Unclassified	-	A breast cancer sample
+OFCC1	Q8IZS5	VAR_043621	p.Ser21Leu	Polymorphism	rs9477310	-
+OFCC1	Q8IZS5	VAR_043623	p.Thr145Ile	Polymorphism	rs9477211	-
+OGA	O60502	VAR_027761	p.Gly46Glu	Polymorphism	rs3740421	-
+OGA	O60502	VAR_027762	p.Glu602Lys	Polymorphism	rs17853930	-
+OPN1LW	P04000	VAR_004842	p.Ser180Ala	Polymorphism	rs949431	-
+OPN1LW	P04000	VAR_012012	p.Leu153Met	Polymorphism	rs713	-
+OR10G2	Q8NGC3	VAR_053271	p.Arg85Leu	Polymorphism	rs41314525	-
+OR10G2	Q8NGC3	VAR_053272	p.Arg187Pro	Polymorphism	rs35963889	-
+OR10G2	Q8NGC3	VAR_053273	p.Arg209Gly	Polymorphism	rs12894405	-
+OR1L1	Q8NH94	VAR_047141	p.Ser145Gly	Polymorphism	rs70157	-
+OR1L1	Q8NH94	VAR_047142	p.Thr149Ala	Polymorphism	rs16912055	-
+OR1L1	Q8NH94	VAR_047143	p.Leu308Val	Polymorphism	rs237620	-
+OR1L1	Q8NH94	VAR_047144	p.Gly349Arg	Polymorphism	rs16912062	-
+OR1L6	Q8NGR2	VAR_055056	p.Gln59Lys	Polymorphism	rs10760252	-
+OR1L6	Q8NGR2	VAR_055057	p.Cys186Tyr	Polymorphism	rs4838012	-
+OR1L6	Q8NGR2	VAR_055058	p.Ile251Thr	Polymorphism	rs10985760	-
+OR1L6	Q8NGR2	VAR_055059	p.Met259Ile	Polymorphism	rs10818741	-
+OR2J2	O76002	VAR_010945	p.His74Tyr	Polymorphism	rs3116855	-
+OR2J2	O76002	VAR_010946	p.Ala111Thr	Polymorphism	rs3129157	-
+OR2J2	O76002	VAR_010947	p.Ala146Val	Polymorphism	rs3116856	-
+OR2J2	O76002	VAR_010948	p.Ala218Thr	Polymorphism	rs3130743	-
+OR2J3	O76001	VAR_010951	p.Val228Ile	Polymorphism	rs3130764	-
+OR2J3	O76001	VAR_010952	p.Ile261Met	Polymorphism	rs3130765	-
+OR3A4P	P47883	VAR_060594	p.Ile42Val	Polymorphism	rs9905684	-
+OR3A4P	P47883	VAR_060595	p.Ser86Arg	Polymorphism	rs9905086	-
+OR3A4P	P47883	VAR_060596	p.Glu103Gln	Polymorphism	rs9903671	-
+OR3A4P	P47883	VAR_060597	p.Ile120Val	Polymorphism	rs9906179	-
+OR3A4P	P47883	VAR_060598	p.Pro168Thr	Polymorphism	rs9911226	-
+OR3A4P	P47883	VAR_060599	p.Asn175Ser	Polymorphism	rs9912090	-
+OR3A4P	P47883	VAR_060600	p.Tyr181His	Polymorphism	rs2855677	-
+OR3A4P	P47883	VAR_060601	p.Ser193Ala	Polymorphism	rs231678	-
+OR3A4P	P47883	VAR_060602	p.Arg237Lys	Polymorphism	rs231677	-
+OR3A4P	P47883	VAR_060603	p.Val300Ile	Polymorphism	rs8076130	-
+OR4E2	Q8NGC2	VAR_034198	p.Val118Met	Polymorphism	rs2874103	-
+OR4E2	Q8NGC2	VAR_034199	p.Gln234Arg	Polymorphism	rs970382	-
+OR51E1	Q8TCB6	VAR_057577	p.Ser9Asn	Polymorphism	rs17224476	-
+OR51F1	A6NGY5	VAR_037506	p.Thr20Ala	Polymorphism	rs17324812	-
+OR51F1	A6NGY5	VAR_037507	p.Phe73Ser	Polymorphism	rs11033801	-
+OR51F1	A6NGY5	VAR_037508	p.Arg74Met	Polymorphism	rs11033800	-
+OR51F1	A6NGY5	VAR_037509	p.His232Arg	Polymorphism	rs11033793	-
+OR51F1	A6NGY5	VAR_037510	p.Asp301Tyr	Polymorphism	rs1030726	-
+OR51F1	A6NGY5	VAR_057578	p.Arg202Gln	Polymorphism	rs16938368	-
+OR51F1	A6NGY5	VAR_057579	p.Ala258Val	Polymorphism	rs17324609	-
+OR51F1	A6NGY5	VAR_060037	p.Ser233Phe	Polymorphism	rs1030723	-
+OR52A4P	A6NMU1	VAR_037540	p.Asp87Gly	Polymorphism	rs7947334	-
+OR52A4P	A6NMU1	VAR_037541	p.Tyr180Ser	Polymorphism	rs10837375	-
+OR52A4P	A6NMU1	VAR_037542	p.Cys277Arg	Polymorphism	rs4426129	-
+OR52A4P	A6NMU1	VAR_062081	p.Thr303Ala	Polymorphism	rs10837374	-
+OR52E5	Q8NH55	VAR_034338	p.Ile165Thr	Polymorphism	rs17234326	-
+OR52E5	Q8NH55	VAR_034339	p.Asp209Gly	Polymorphism	rs16926732	-
+OR52E5	Q8NH55	VAR_034340	p.Pro234Leu	Polymorphism	rs7106300	-
+OR52L1	Q8NGH7	VAR_055079	p.Cys140Arg	Polymorphism	rs4436525	-
+OR52L1	Q8NGH7	VAR_055080	p.Cys161Arg	Polymorphism	rs4436524	-
+OR52L1	Q8NGH7	VAR_055081	p.Lys183Thr	Polymorphism	rs4354673	-
+OR52L1	Q8NGH7	VAR_055082	p.Trp297Arg	Polymorphism	rs4237768	-
+OR6K3	Q8NGY3	VAR_055066	p.Gly20Arg	Polymorphism	rs857705	-
+OR6K3	Q8NGY3	VAR_055067	p.Pro244Ser	Polymorphism	rs857703	-
+OR6K3	Q8NGY3	VAR_055068	p.Pro264Leu	Polymorphism	rs28568406	-
+OR6K3	Q8NGY3	VAR_055069	p.Arg308Lys	Polymorphism	rs16840675	-
+OR6K3	Q8NGY3	VAR_062052	p.Gln159His	Polymorphism	rs857704	-
+OR6K3	Q8NGY3	VAR_062053	p.Asp279Asn	Polymorphism	rs857702	-
+OR6K3	Q8NGY3	VAR_064741	p.Val216Met	Polymorphism	rs151330882	-
+OR7G2	Q8NG99	VAR_024113	p.Phe281Val	Polymorphism	rs4804401	-
+ORAI1	Q96D31	VAR_026226	p.Arg91Trp	Disease	rs118203993	Immunodeficiency 9 (IMD9) [MIM:612782]
+ORAI1	Q96D31	VAR_038608	p.Ser218Gly	Polymorphism	rs3741596	-
+ORAI1	Q96D31	VAR_071473	p.Pro245Leu	Disease	rs587777528	Myopathy, tubular aggregate, 2 (TAM2) [MIM:615883]
+ORAI1	Q96D31	VAR_078083	p.Gly98Ser	Disease	rs786204796	Myopathy, tubular aggregate, 2 (TAM2) [MIM:615883]
+ORAI1	Q96D31	VAR_078084	p.Val107Met	Disease	-	Myopathy, tubular aggregate, 2 (TAM2) [MIM:615883]
+ORAI1	Q96D31	VAR_078085	p.Thr184Met	Disease	-	Myopathy, tubular aggregate, 2 (TAM2) [MIM:615883]
+ORM1	P02763	VAR_013840	p.Gln38Arg	Polymorphism	-	-
+OSCAR	Q8IYS5	VAR_037108	p.Ile97Ser	Polymorphism	rs1657535	-
+OTUD6B	Q8N6M0	VAR_034144	p.Arg283Gln	Polymorphism	rs3210518	-
+OTUD6B	Q8N6M0	VAR_080404	p.Tyr186Cys	Unclassified	rs1064797103	Intellectual developmental disorder with dysmorphic facies, seizures, and distal limb anomalies (IDDFSDA) [MIM:617452]
+OVCH1	Q7RTY7	VAR_029092	p.Ile444Thr	Polymorphism	rs7975356	-
+OVCH1	Q7RTY7	VAR_029093	p.Ser672Phe	Polymorphism	rs11050243	-
+OVCH1	Q7RTY7	VAR_029094	p.Gly754Arg	Polymorphism	rs12305672	-
+OVCH1	Q7RTY7	VAR_029095	p.Pro881Ala	Polymorphism	rs1347570	-
+OVCH1	Q7RTY7	VAR_029096	p.Pro934Ser	Polymorphism	rs7967676	-
+OVCH1	Q7RTY7	VAR_057159	p.Leu557Val	Polymorphism	rs35183403	-
+OVCH2	Q7RTZ1	VAR_029101	p.Arg413Gly	Polymorphism	rs3925027	-
+OVCH2	Q7RTZ1	VAR_029102	p.His526Gln	Polymorphism	rs4519083	-
+OVOS2	Q6IE36	VAR_055459	p.Thr211Met	Polymorphism	rs7971718	-
+OVOS2	Q6IE36	VAR_055460	p.Leu587Val	Polymorphism	rs12309295	-
+OVOS2	Q6IE36	VAR_055461	p.Ser789Leu	Polymorphism	rs11051266	-
+OVOS2	Q6IE36	VAR_055462	p.Val1328Ala	Polymorphism	rs17418189	-
+OXA1L	Q15070	VAR_014932	p.Val44Ala	Polymorphism	rs8572	-
+OXA1L	Q15070	VAR_014933	p.Val91Ile	Polymorphism	rs17619	-
+PABPC4L	P0CB38	VAR_060185	p.Val192Ile	Polymorphism	rs10009368	-
+PABPC4L	P0CB38	VAR_060186	p.Ser331Asn	Polymorphism	rs6830036	-
+PABPC4L	P0CB38	VAR_060187	p.His370Pro	Polymorphism	rs11099273	-
+PACC1	Q9H813	VAR_035847	p.Lys336Asn	Unclassified	rs1034429230	A breast cancer sample
+PANK4	Q9NVE7	VAR_015170	p.Gln684Arg	Polymorphism	rs2494620	-
+PANK4	Q9NVE7	VAR_027409	p.Ala547Val	Polymorphism	rs7535528	-
+PANK4	Q9NVE7	VAR_035470	p.Glu475Lys	Unclassified	rs966358882	A colorectal cancer sample
+PCARE	A6NGG8	VAR_042646	p.Ser13Cys	Polymorphism	rs10084168	-
+PCARE	A6NGG8	VAR_042647	p.Lys421Arg	Polymorphism	rs17007544	-
+PCARE	A6NGG8	VAR_042648	p.Thr580Met	Polymorphism	rs10166913	-
+PCARE	A6NGG8	VAR_042649	p.Leu792Val	Polymorphism	rs17744093	-
+PCARE	A6NGG8	VAR_042650	p.Pro1254Leu	Polymorphism	rs1975713	-
+PCARE	A6NGG8	VAR_063395	p.Ile201Phe	Disease	rs267606690	Retinitis pigmentosa 54 (RP54) [MIM:613428]
+PCARE	A6NGG8	VAR_063396	p.Pro867Leu	Polymorphism	rs182248363	-
+PCARE	A6NGG8	VAR_065267	p.Glu227Lys	Polymorphism	rs114057537	-
+PCARE	A6NGG8	VAR_065268	p.Val247Ala	Polymorphism	rs77828062	-
+PCARE	A6NGG8	VAR_065269	p.Ala252Asp	Polymorphism	rs77003681	-
+PCARE	A6NGG8	VAR_065270	p.Arg258Ile	Polymorphism	rs116156338	-
+PCARE	A6NGG8	VAR_065271	p.Ser312Asn	Polymorphism	-	-
+PCARE	A6NGG8	VAR_065272	p.Arg320Cys	Polymorphism	rs374283240	-
+PCARE	A6NGG8	VAR_065273	p.Asp372Asn	Disease	rs201284350	Retinitis pigmentosa 54 (RP54) [MIM:613428]
+PCARE	A6NGG8	VAR_065274	p.Glu378Lys	Polymorphism	rs201900716	-
+PCARE	A6NGG8	VAR_065275	p.Leu612Pro	Disease	rs200758183	Retinitis pigmentosa 54 (RP54) [MIM:613428]
+PCARE	A6NGG8	VAR_065276	p.Val615Asp	Disease	rs140776870	Retinitis pigmentosa 54 (RP54) [MIM:613428]
+PCARE	A6NGG8	VAR_065277	p.Ala628Thr	Polymorphism	rs571059484	-
+PCARE	A6NGG8	VAR_065278	p.Ala648Pro	Polymorphism	-	-
+PCARE	A6NGG8	VAR_065279	p.Cys688Tyr	Polymorphism	rs149601594	-
+PCARE	A6NGG8	VAR_065280	p.Pro954Ser	Polymorphism	rs758883789	-
+PCARE	A6NGG8	VAR_065281	p.Arg955Gln	Polymorphism	rs184249075	-
+PCARE	A6NGG8	VAR_065282	p.Ala959Thr	Polymorphism	rs192350796	-
+PCARE	A6NGG8	VAR_065283	p.Gln1020Arg	Polymorphism	rs200367963	-
+PCARE	A6NGG8	VAR_065285	p.Ala1160Thr	Polymorphism	rs766723736	-
+PCARE	A6NGG8	VAR_065286	p.Arg1177Gln	Polymorphism	rs375826049	-
+PCARE	A6NGG8	VAR_065288	p.Gly1247Ser	Polymorphism	rs187333111	-
+PCARE	A6NGG8	VAR_079609	p.Gln1176Arg	Unclassified	rs182812191	-
+PCDHB16	Q9NRJ7	VAR_026478	p.Arg525Gln	Polymorphism	rs17844651	-
+PCDHB16	Q9NRJ7	VAR_026479	p.Ser532Gly	Polymorphism	rs2697532	-
+PCDHB5	Q9Y5E4	VAR_048552	p.Ser720Pro	Polymorphism	rs400562	-
+PCDHB6	Q9Y5E3	VAR_070665	p.Val446Ala	Polymorphism	rs246707	-
+PCDHB8	Q9UN66	VAR_024393	p.Phe767Leu	Polymorphism	rs2740583	-
+PCDHB8	Q9UN66	VAR_055584	p.Leu661Val	Polymorphism	rs2697541	-
+PCDHB9	Q9Y5E1	VAR_059187	p.Ala239Val	Polymorphism	rs11167743	-
+PDPN	Q86YL7	VAR_028016	p.Ala147Gly	Polymorphism	rs2486188	-
+PDXDC2P	Q6P474	VAR_037159	p.Met209Val	Polymorphism	rs3169319	-
+PDXDC2P	Q6P474	VAR_037160	p.Leu429Phe	Polymorphism	rs11648231	-
+PDXDC2P	Q6P474	VAR_037161	p.Leu429Arg	Polymorphism	rs929843	-
+PELP1	Q8IZL8	VAR_027766	p.Thr1126Ser	Polymorphism	rs9436	-
+PI4KAP2	A4QPH2	VAR_039391	p.Glu223Gln	Polymorphism	rs2930770	-
+PKD1L2	Q7Z442	VAR_059551	p.Leu2119Ile	Polymorphism	rs8050204	-
+PKD1L2	Q7Z442	VAR_059552	p.Ser2139Phe	Polymorphism	rs4889241	-
+PKD1L2	Q7Z442	VAR_059553	p.Met2315Ile	Polymorphism	rs8054182	-
+PKD1L2	Q7Z442	VAR_061530	p.Ser2209Arg	Polymorphism	rs4889238	-
+PLA2G2C	Q5R387	VAR_039057	p.Gln139Arg	Polymorphism	rs6426616	-
+PLAAT4	Q9UL19	VAR_049480	p.Val69Leu	Polymorphism	rs35502888	-
+PLAAT4	Q9UL19	VAR_049481	p.Ala162Val	Polymorphism	rs35845275	-
+PLAAT5	Q96KN8	VAR_024486	p.Ala93Pro	Polymorphism	rs940611	-
+PLAAT5	Q96KN8	VAR_049477	p.Ser31Gly	Polymorphism	rs10897424	-
+PLAAT5	Q96KN8	VAR_049478	p.Gln214Arg	Polymorphism	rs35735923	-
+PLAAT5	Q96KN8	VAR_049479	p.Ala258Val	Polymorphism	rs35375575	-
+PLAU	P00749	VAR_006722	p.Pro141Leu	Polymorphism	rs2227564	-
+PLEKHG4B	Q96PX9	VAR_056673	p.Gly149Ser	Polymorphism	rs11949577	-
+PLEKHG4B	Q96PX9	VAR_056674	p.Arg220His	Polymorphism	rs13436090	-
+PLEKHG4B	Q96PX9	VAR_056675	p.Ala660Val	Polymorphism	rs3810869	-
+PLEKHG4B	Q96PX9	VAR_059547	p.Val37Ala	Polymorphism	rs12516846	-
+PLEKHG4B	Q96PX9	VAR_060453	p.Thr669Pro	Polymorphism	rs29674	-
+PLEKHG4B	Q96PX9	VAR_060454	p.Arg1076Gln	Polymorphism	rs4956987	-
+PLEKHG4B	Q96PX9	VAR_060455	p.Arg1146Gly	Polymorphism	rs12519352	-
+PLEKHS1	Q5SXH7	VAR_039275	p.Val337Ile	Polymorphism	rs34024791	-
+PLEKHS1	Q5SXH7	VAR_080192	p.Ser254Tyr	Polymorphism	-	-
+PLXNA3	P51805	VAR_050597	p.Asp863Glu	Polymorphism	rs5945430	-
+PNLIPRP2	P54317	VAR_080185	p.Ile361Val	Polymorphism	rs4751996	-
+POGLUT2	Q6UW63	VAR_027080	p.Ile114Val	Polymorphism	rs1047740	-
+POGLUT3	Q7Z4H8	VAR_027086	p.Arg319Leu	Polymorphism	rs17853654	-
+POLR2M	Q6EEV4	VAR_054029	p.Ala127Pro	Polymorphism	rs11858659	-
+POLR3K	Q9Y2Y1	VAR_027918	p.Ser24Ala	Polymorphism	rs183360	-
+POM121C	A8CG34	VAR_045906	p.Thr379Ala	Polymorphism	rs427206	-
+POM121C	A8CG34	VAR_045907	p.Gln1165Leu	Polymorphism	rs365436	-
+POR	P16435	VAR_004617	p.Ala500Val	Polymorphism	rs1057868	-
+POR	P16435	VAR_004618	p.Arg551Gln	Polymorphism	-	-
+POR	P16435	VAR_021154	p.Tyr178Asp	Disease	-	Disordered steroidogenesis due to cytochrome P450 oxidoreductase deficiency (DISPORD) [MIM:613571]
+POR	P16435	VAR_021155	p.Ala284Pro	Disease	-	Antley-Bixler syndrome, with genital anomalies and disordered steroidogenesis (ABS1) [MIM:201750]
+POR	P16435	VAR_021155	p.Ala284Pro	Disease	-	Disordered steroidogenesis due to cytochrome P450 oxidoreductase deficiency (DISPORD) [MIM:613571]
+POR	P16435	VAR_021156	p.Arg454His	Disease	-	Antley-Bixler syndrome, with genital anomalies and disordered steroidogenesis (ABS1) [MIM:201750]
+POR	P16435	VAR_021156	p.Arg454His	Disease	-	Disordered steroidogenesis due to cytochrome P450 oxidoreductase deficiency (DISPORD) [MIM:613571]
+POR	P16435	VAR_021157	p.Val489Glu	Disease	-	Antley-Bixler syndrome, with genital anomalies and disordered steroidogenesis (ABS1) [MIM:201750]
+POR	P16435	VAR_021158	p.Cys566Tyr	Disease	rs72552772	Disordered steroidogenesis due to cytochrome P450 oxidoreductase deficiency (DISPORD) [MIM:613571]
+POR	P16435	VAR_021159	p.Tyr575Cys	Disease	-	Antley-Bixler syndrome, with genital anomalies and disordered steroidogenesis (ABS1) [MIM:201750]
+POR	P16435	VAR_021160	p.Val605Phe	Disease	-	Disordered steroidogenesis due to cytochrome P450 oxidoreductase deficiency (DISPORD) [MIM:613571]
+POR	P16435	VAR_047885	p.Pro225Leu	Polymorphism	rs782427303	-
+POR	P16435	VAR_047886	p.Asp252Asn	Polymorphism	-	-
+POU3F4	P49335	VAR_067431	p.Gly237Ala	Polymorphism	rs5921979	-
+PPP1R15B	Q5SWA1	VAR_039198	p.Asn308Ser	Polymorphism	rs3014626	-
+PPP1R1A	Q13522	VAR_053898	p.Glu109Gly	Polymorphism	rs1249958	-
+PRB1	P04280	VAR_080188	p.Ser337Ala	Polymorphism	-	-
+PRB2	P02812	VAR_019695	p.Ser274Pro	Polymorphism	rs10845349	-
+PRB4	P10163	VAR_031548	p.Arg185Gly	Polymorphism	rs11054244	-
+PRB4	P10163	VAR_031551	p.Ala272Pro	Polymorphism	rs1052808	-
+PRH1	P02810	VAR_005563	p.Asp20Asn	Polymorphism	rs1130404	-
+PRH1	P02810	VAR_005565	p.Gln163Lys	Polymorphism	rs74062407	-
+PRH1	P02810	VAR_023240	p.Ile42Leu	Polymorphism	rs2923234	-
+PRH1	P02810	VAR_023242	p.Arg119Cys	Polymorphism	rs200488155	-
+PRICKLE4	Q2TBC4	VAR_056165	p.Ser266Arg	Polymorphism	rs28403585	-
+PRM3	Q9NNZ6	VAR_034414	p.Gln100Arg	Polymorphism	rs429744	-
+PRNT	Q86SH4	VAR_039151	p.Thr50Ser	Polymorphism	rs7270737	-
+PRODH	O43272	VAR_029564	p.Arg185Gln	Polymorphism	rs11913840	-
+PRODH	O43272	VAR_029565	p.Arg185Trp	Polymorphism	rs4819756	-
+PRODH	O43272	VAR_029576	p.Gln521Glu	Polymorphism	rs193919334	-
+PRODH	O43272	VAR_029577	p.Gln521Arg	Disease	rs450046	Hyperprolinemia 1 (HYRPRO1) [MIM:239500]
+PRODH	O43272	VAR_029577	p.Gln521Arg	Disease	rs450046	Schizophrenia 4 (SCZD4) [MIM:600850]
+PRORP	O15091	VAR_054212	p.Asn437Ser	Polymorphism	rs11156878	-
+PRPH2	P23942	VAR_006891	p.Glu304Gln	Polymorphism	rs390659	-
+PRPH2	P23942	VAR_006893	p.Lys310Arg	Polymorphism	rs425876	-
+PRPH2	P23942	VAR_006895	p.Gly338Asp	Polymorphism	rs434102	-
+PRSS41	Q7RTY9	VAR_064369	p.Ser286Gly	Polymorphism	rs746540699	-
+PRXL2C	Q7RTV5	VAR_052598	p.Arg83Lys	Polymorphism	rs9886834	-
+PTPN22	Q9Y2R2	VAR_022605	p.Arg620Trp	Disease	rs2476601	Diabetes mellitus, insulin-dependent (IDDM) [MIM:222100]
+PTPN22	Q9Y2R2	VAR_022605	p.Arg620Trp	Disease	rs2476601	Rheumatoid arthritis (RA) [MIM:180300]
+PTPN22	Q9Y2R2	VAR_022605	p.Arg620Trp	Disease	rs2476601	Systemic lupus erythematosus (SLE) [MIM:152700]
+PTPN22	Q9Y2R2	VAR_022605	p.Arg620Trp	Disease	rs2476601	Vitiligo (VTLG) [MIM:193200]
+PTPRQ	Q9UMZ3	VAR_034970	p.Thr1040Ile	Polymorphism	rs12316867	-
+PTPRQ	Q9UMZ3	VAR_034971	p.Phe1098Leu	Polymorphism	rs6539524	-
+PTPRQ	Q9UMZ3	VAR_034972	p.Ala1120Pro	Polymorphism	rs7975340	-
+PTPRQ	Q9UMZ3	VAR_034973	p.Asn1244Asp	Polymorphism	rs17713202	-
+PTPRQ	Q9UMZ3	VAR_034974	p.Ile1734Thr	Polymorphism	rs7963963	-
+PTPRQ	Q9UMZ3	VAR_034975	p.Arg2121Lys	Polymorphism	rs1163042	-
+PTPRQ	Q9UMZ3	VAR_063526	p.Arg281Gly	Disease	-	Deafness, autosomal recessive, 84A (DFNB84A) [MIM:613391]
+PTPRQ	Q9UMZ3	VAR_069041	p.Gln471Glu	Polymorphism	rs61729287	-
+PVR	P15151	VAR_011736	p.Ile340Met	Polymorphism	rs203710	-
+PWWP3A	Q2TAK8	VAR_033195	p.Gly219Arg	Polymorphism	rs3826942	-
+PWWP3A	Q2TAK8	VAR_033196	p.Gly551Ala	Polymorphism	rs34502536	-
+PWWP3B	Q5H9M0	VAR_057776	p.Gly95Asp	Polymorphism	rs12392298	-
+PYCR3	Q53H96	VAR_039828	p.Arg57Gln	Polymorphism	rs11549789	-
+PYCR3	Q53H96	VAR_039829	p.Val105Met	Polymorphism	rs2242089	-
+PYCR3	Q53H96	VAR_039830	p.Lys150Asn	Polymorphism	rs2242090	-
+PYY3	Q5JQD4	VAR_044033	p.Thr28Ile	Polymorphism	rs5953365	-
+RADX	Q6NSI4	VAR_028816	p.Ile593Met	Polymorphism	rs5962707	-
+RBM20	Q5T481	VAR_042533	p.Trp768Ser	Polymorphism	rs1417635	-
+RCC1L	Q96I51	VAR_027972	p.Arg30Gly	Polymorphism	rs6955671	-
+RDH8	Q9NYR8	VAR_035232	p.His136Gln	Polymorphism	rs1122206	-
+RDH8	Q9NYR8	VAR_035233	p.Met202Thr	Polymorphism	rs1644731	-
+RELCH	Q9P260	VAR_037660	p.Gly929Glu	Unclassified	rs770815767	A colorectal cancer sample
+RESF1	Q9HCM1	VAR_033268	p.Ile59Val	Polymorphism	rs7298803	-
+RESF1	Q9HCM1	VAR_033269	p.His106Gln	Polymorphism	rs2388981	-
+RESF1	Q9HCM1	VAR_033270	p.Ile202Val	Polymorphism	rs12320740	-
+RESF1	Q9HCM1	VAR_033271	p.Leu250Pro	Polymorphism	rs2166807	-
+RESF1	Q9HCM1	VAR_033272	p.Arg309Gln	Polymorphism	rs16919122	-
+RESF1	Q9HCM1	VAR_033273	p.Ser346Asn	Polymorphism	rs3207618	-
+RESF1	Q9HCM1	VAR_033274	p.Ser352Gly	Polymorphism	rs10771894	-
+RESF1	Q9HCM1	VAR_033275	p.Ser433Thr	Polymorphism	rs3759302	-
+RESF1	Q9HCM1	VAR_033276	p.Ser518Pro	Polymorphism	rs3759301	-
+RESF1	Q9HCM1	VAR_033277	p.Phe954Ser	Polymorphism	rs3809228	-
+RESF1	Q9HCM1	VAR_033278	p.Thr1010Lys	Polymorphism	rs16919127	-
+RESF1	Q9HCM1	VAR_033279	p.Ser1208Cys	Polymorphism	rs3759299	-
+RESF1	Q9HCM1	VAR_033280	p.Val1226Ile	Polymorphism	rs1057994	-
+RESF1	Q9HCM1	VAR_033281	p.Thr1338Ala	Polymorphism	rs3759296	-
+RESF1	Q9HCM1	VAR_061608	p.Pro147Ser	Polymorphism	rs61353224	-
+RESF1	Q9HCM1	VAR_061609	p.Met1479Thr	Polymorphism	rs56682866	-
+RGL3	Q3MIN7	VAR_035298	p.Pro162His	Polymorphism	rs167479	-
+RGMA	Q96B86	VAR_062144	p.Asp415Glu	Polymorphism	rs4238485	-
+RHCE	P18577	VAR_006911	p.Trp16Cys	Polymorphism	-	-
+RHCE	P18577	VAR_006917	p.Pro226Ala	Polymorphism	rs609320	-
+RHOD	O00212	VAR_058408	p.Cys134Arg	Polymorphism	rs4930409	-
+RIPK4	P57078	VAR_041050	p.Ile462Asn	Polymorphism	rs55809511	-
+RIPK4	P57078	VAR_041051	p.Val463Met	Polymorphism	rs55645753	-
+RIPK4	P57078	VAR_041052	p.Asn562Tyr	Polymorphism	rs55829311	-
+RIPK4	P57078	VAR_041053	p.Arg669His	Polymorphism	rs56056485	-
+RIPK4	P57078	VAR_041054	p.Pro749Ser	Polymorphism	rs35537517	-
+RORB	Q92753	VAR_082062	p.Leu84Pro	Disease	rs869312971	Epilepsy, idiopathic generalized 15 (EIG15) [MIM:618357]
+RPL10	P27635	VAR_006922	p.Asn202Ser	Polymorphism	rs4909	-
+RRBP1	Q9P2E9	VAR_056982	p.Arg1324Leu	Polymorphism	rs1132274	-
+RTL8C	O15255	VAR_037283	p.Ser152Trp	Polymorphism	rs5930670	-
+RUSC1-AS1	Q66K80	VAR_050704	p.Arg231Ser	Polymorphism	rs16836822	-
+SAA1	P0DJI8	VAR_006926	p.Val70Ala	Polymorphism	-	-
+SAA1	P0DJI8	VAR_006927	p.Ala75Val	Polymorphism	-	-
+SAC3D1	A6NKF1	VAR_036755	p.Thr8Pro	Polymorphism	rs10160811	-
+SAC3D1	A6NKF1	VAR_036756	p.Leu186Pro	Polymorphism	rs3741390	-
+SAC3D1	A6NKF1	VAR_062213	p.Leu155Arg	Polymorphism	rs12271134	-
+SALL2	Q9Y467	VAR_014130	p.Pro122Ser	Polymorphism	rs1263811	-
+SAMD1	Q6SPF0	VAR_061701	p.Glu340Asp	Polymorphism	rs8062	-
+SARG	Q9BW04	VAR_038775	p.Pro87Ser	Polymorphism	rs706846	-
+SARG	Q9BW04	VAR_038776	p.Thr107Ala	Polymorphism	rs35299018	-
+SARG	Q9BW04	VAR_038777	p.Asn157Thr	Polymorphism	rs34660159	-
+SARG	Q9BW04	VAR_038778	p.Arg258Gly	Polymorphism	rs12062114	-
+SARG	Q9BW04	VAR_038779	p.Asn434Ser	Polymorphism	rs35267170	-
+SARG	Q9BW04	VAR_038780	p.Ser444Pro	Polymorphism	rs2842726	-
+SARG	Q9BW04	VAR_038781	p.Phe514Ser	Polymorphism	rs11799966	-
+SBF1	O95248	VAR_070046	p.Met418Val	Disease	rs587776986	Charcot-Marie-Tooth disease 4B3 (CMT4B3) [MIM:615284]
+SBF1	O95248	VAR_070047	p.Thr1565Ala	Disease	rs200488568	Charcot-Marie-Tooth disease 4B3 (CMT4B3) [MIM:615284]
+SCAND2P	Q9GZW5	VAR_021961	p.Ala185Thr	Polymorphism	rs698620	-
+SCAND2P	Q9GZW5	VAR_034421	p.Pro110Thr	Polymorphism	rs16974462	-
+SCARB1	Q8WTV0	VAR_017101	p.Cys511Arg	Polymorphism	rs2293440	-
+SCLY	Q96I15	VAR_038464	p.Lys52Glu	Polymorphism	rs7597367	-
+SCLY	Q96I15	VAR_038465	p.Ala175Thr	Polymorphism	rs3210400	-
+SCLY	Q96I15	VAR_038466	p.Phe276Ser	Polymorphism	rs35637307	-
+SCRT1	Q9BWW7	VAR_045990	p.Ser133Ala	Polymorphism	rs7013127	-
+SEC22B	O75396	VAR_060311	p.Asp71Tyr	Polymorphism	rs2596331	-
+SEC22B	O75396	VAR_060312	p.Thr82Lys	Polymorphism	rs2794053	-
+SEC22B	O75396	VAR_060313	p.Cys130Arg	Polymorphism	rs2590131	-
+SEC22B	O75396	VAR_060314	p.His190Arg	Polymorphism	rs2655557	-
+SELENON	Q9NZV5	VAR_019640	p.Sec462Gly	Disease	rs121908187	Rigid spine muscular dystrophy 1 (RSMD1) [MIM:602771]
+SELL	P14151	VAR_019134	p.Phe193Leu	Polymorphism	rs1131498	-
+SELL	P14151	VAR_019135	p.Glu201Gln	Polymorphism	rs2229568	-
+SELL	P14151	VAR_019136	p.Pro213Ser	Polymorphism	rs2229569	-
+SELL	P14151	VAR_019137	p.Asn369Asp	Polymorphism	rs4987382	-
+SELP	P16109	VAR_004194	p.Leu640Val	Polymorphism	rs6133	-
+SEMA6A	Q9H2E6	VAR_030296	p.Tyr518His	Polymorphism	rs34966	-
+SEPTIN1	Q8WYJ6	VAR_051934	p.Gly80Val	Polymorphism	rs34518080	-
+SEPTIN10	Q9P0V9	VAR_051936	p.Leu189Pro	Polymorphism	rs3829701	-
+SEPTIN12	Q8IYM1	VAR_057176	p.Gln213Arg	Polymorphism	rs6500633	-
+SEPTIN12	Q8IYM1	VAR_068097	p.Thr89Met	Disease	rs199696526	Spermatogenic failure 10 (SPGF10) [MIM:614822]
+SEPTIN12	Q8IYM1	VAR_068098	p.Asp197Asn	Disease	rs371195126	Spermatogenic failure 10 (SPGF10) [MIM:614822]
+SEPTIN4	O43236	VAR_051935	p.Glu311Val	Polymorphism	rs17741424	-
+SEPTIN9	Q9UHD8	VAR_020667	p.Arg76Cys	Polymorphism	rs202079794	-
+SEPTIN9	Q9UHD8	VAR_020668	p.Pro145Leu	Polymorphism	rs34587622	-
+SEPTIN9	Q9UHD8	VAR_020669	p.Met576Val	Polymorphism	rs2627223	-
+SEPTIN9	Q9UHD8	VAR_033101	p.Arg106Trp	Disease	rs80338761	Hereditary neuralgic amyotrophy (HNA) [MIM:162100]
+SEPTIN9	Q9UHD8	VAR_033102	p.Ser111Phe	Disease	rs80338762	Hereditary neuralgic amyotrophy (HNA) [MIM:162100]
+SERHL	Q9NQF3	VAR_056985	p.Glu3Lys	Polymorphism	rs3213549	-
+SERPINA2	P20848	VAR_070190	p.Pro329Leu	Unclassified	-	-
+SERPINA2	P20848	VAR_070191	p.Glu341Lys	Unclassified	-	-
+SERPINB11	Q96P15	VAR_012472	p.Met148Thr	Polymorphism	rs17071550	-
+SERPINB11	Q96P15	VAR_012473	p.Ile181Thr	Polymorphism	-	-
+SERPINB11	Q96P15	VAR_060331	p.Ala51Glu	Polymorphism	rs1395268	-
+SERPINB11	Q96P15	VAR_060332	p.Arg188Trp	Polymorphism	rs1506419	-
+SERPINB11	Q96P15	VAR_060333	p.Ile293Thr	Polymorphism	rs1395266	-
+SERPINB11	Q96P15	VAR_060334	p.Pro303Ser	Polymorphism	rs1395267	-
+SERPINB11	Q96P15	VAR_064572	p.Ile181Ala	Polymorphism	-	-
+SERTAD4	ASQ5TG53	VAR_046125	p.Arg91Gln	Polymorphism	rs624270	-
+SFTPA2	Q8IWL1	VAR_021293	p.Asn9Thr	Polymorphism	rs1059046	-
+SFTPC	P11686	VAR_007453	p.Asn138Thr	Polymorphism	rs4715	-
+SFTPC	P11686	VAR_016175	p.Asn186Ser	Polymorphism	rs1124	-
+SH2D4B	Q5SQS7	VAR_056987	p.His237Arg	Polymorphism	rs7075840	-
+SH2D4B	Q5SQS7	VAR_056988	p.Ser239Leu	Polymorphism	rs11817391	-
+SH3D21	A4FU49	VAR_043619	p.Ser217Ala	Polymorphism	rs12121759	-
+SH3D21	A4FU49	VAR_056763	p.Ala455Ser	Polymorphism	rs12121759	-
+SH3PXD2A	Q5TCZ1	VAR_030781	p.Lys659Gln	Polymorphism	rs11818820	-
+SH3PXD2A	Q5TCZ1	VAR_030782	p.Arg1035Gln	Polymorphism	rs3781365	-
+SHANK3	Q9BYB0	VAR_065799	p.His493Gln	Polymorphism	-	-
+SHANK3	Q9BYB0	VAR_065802	p.Ser952Thr	Polymorphism	rs1340094921	-
+SHANK3	Q9BYB0	VAR_065803	p.Gly1010Val	Polymorphism	-	-
+SHANK3	Q9BYB0	VAR_065804	p.Pro1134His	Polymorphism	rs769454362	-
+SHANK3	Q9BYB0	VAR_065805	p.Arg1298Lys	Polymorphism	rs201483867	-
+SHANK3	Q9BYB0	VAR_065806	p.Val1333Gly	Polymorphism	rs200087210	-
+SHANK3	Q9BYB0	VAR_065807	p.Ile1546Val	Polymorphism	rs1389307970	-
+SHANK3	Q9BYB0	VAR_065808	p.Pro1645Thr	Polymorphism	-	-
+SHANK3	Q9BYB0	VAR_070262	p.Ala963Gly	Polymorphism	-	-
+SHANK3	Q9BYB0	VAR_070263	p.Ala970Ser	Unclassified	rs530255181	-
+SHANK3	Q9BYB0	VAR_070264	p.Gly1011Val	Polymorphism	rs767058690	-
+SHANK3	Q9BYB0	VAR_070265	p.Ala1173Thr	Unclassified	rs139686326	-
+SHANK3	Q9BYB0	VAR_070266	p.Arg1231His	Polymorphism	rs750186589	-
+SHANK3	Q9BYB0	VAR_070267	p.Pro1263Leu	Unclassified	rs757572910	-
+SHANK3	Q9BYB0	VAR_070268	p.Leu1406Val	Unclassified	rs201973139	-
+SHANK3	Q9BYB0	VAR_070269	p.Met1443Thr	Unclassified	rs773395828	-
+SHANK3	Q9BYB0	VAR_070270	p.Ala1452Ser	Disease	-	Phelan-McDermid syndrome (PHMDS) [MIM:606232]
+SHANK3	Q9BYB0	VAR_070271	p.Gly1557Ser	Unclassified	rs1224063430	-
+SHANK3	Q9BYB0	VAR_070272	p.Ser1566Gly	Polymorphism	rs1481014682	-
+SHANK3	Q9BYB0	VAR_070273	p.Pro1654Thr	Unclassified	rs749130556	-
+SHLD1	Q8IYI0	VAR_032144	p.Ala23Val	Polymorphism	rs237422	-
+SHLD2	Q86V20	VAR_053997	p.Phe132Leu	Polymorphism	rs3129520	-
+SHLD2	Q86V20	VAR_053998	p.Ser550Cys	Polymorphism	rs11202365	-
+SHLD2	Q86V20	VAR_053999	p.Arg747His	Polymorphism	rs11816168	-
+SHOC1	Q5VXU9	VAR_050829	p.Thr226Ser	Polymorphism	rs10981047	-
+SHOC1	Q5VXU9	VAR_050830	p.His416Arg	Polymorphism	rs7470491	-
+SHOC1	Q5VXU9	VAR_050831	p.Ile649Thr	Polymorphism	rs1322257	-
+SHOC1	Q5VXU9	VAR_050832	p.Met734Leu	Polymorphism	rs11791445	-
+SHOC1	Q5VXU9	VAR_050833	p.Arg788Lys	Polymorphism	rs7868266	-
+SHOC1	Q5VXU9	VAR_050834	p.Asn809Lys	Polymorphism	rs7036568	-
+SHOC1	Q5VXU9	VAR_050835	p.Tyr932Cys	Polymorphism	rs1407390	-
+SHOC1	Q5VXU9	VAR_050836	p.Leu968Pro	Polymorphism	rs6477845	-
+SHOC1	Q5VXU9	VAR_050837	p.Ile1162Thr	Polymorphism	rs1475110	-
+SHOC1	Q5VXU9	VAR_050838	p.Glu1174Gly	Polymorphism	rs7869279	-
+SHOC1	Q5VXU9	VAR_050839	p.Asn1380Lys	Polymorphism	rs1322254	-
+SHOC1	Q5VXU9	VAR_050840	p.Arg1425Cys	Polymorphism	rs10981009	-
+SHPK	Q9UHJ6	VAR_048591	p.Asp421Glu	Polymorphism	rs224496	-
+SIX6OS1	Q8N1H7	VAR_056983	p.Tyr125Cys	Polymorphism	rs1956551	-
+SIX6OS1	Q8N1H7	VAR_056984	p.Ser309Leu	Polymorphism	rs1033734	-
+SIX6OS1	Q8N1H7	VAR_059715	p.Val404Ile	Polymorphism	rs11625921	-
+SLC22A20P	A6NK97	VAR_040065	p.Ala58Asp	Polymorphism	rs11605576	-
+SLC22A20P	A6NK97	VAR_040066	p.Ala139Val	Polymorphism	rs12420456	-
+SLC25A52	Q3SY17	VAR_060299	p.Leu239Ile	Polymorphism	rs3859364	-
+SLC27A3	Q5K4L6	VAR_048241	p.Gly63Ala	Polymorphism	rs34527123	-
+SLC27A3	Q5K4L6	VAR_048242	p.Arg392His	Polymorphism	rs35102232	-
+SLC35B1	P78383	VAR_023778	p.Arg81His	Polymorphism	rs1135034	-
+SLC5A3	P53794	VAR_061875	p.Thr50Ala	Polymorphism	rs8129891	-
+SLC5A3	P53794	VAR_061876	p.Gln566Lys	Polymorphism	rs4817617	-
+SLC66A1	Q6ZP29	VAR_031409	p.Ser16Asn	Polymorphism	rs12140547	-
+SLC66A1L	A1A4F0	VAR_050723	p.Val4Leu	Polymorphism	rs7616293	-
+SLC66A2	Q8N2U9	VAR_035979	p.Gly175Ala	Unclassified	-	A colorectal cancer sample
+SLCO2B1	O94956	VAR_053677	p.Ile392Thr	Polymorphism	rs1621378	-
+SMAD5-AS1	Q9Y6J3	VAR_020103	p.Lys85Asn	Polymorphism	rs3764941	-
+SMC1B	Q8NDV3	VAR_045913	p.Phe473Val	Polymorphism	rs136603	-
+SMRP1	Q8NCR6	VAR_034626	p.Pro233Gln	Polymorphism	rs17852663	-
+SND1-IT1	Q9HBX3	VAR_050818	p.Thr24Ala	Polymorphism	rs17151639	-
+SOWAHA	Q2M3V2	VAR_060465	p.Phe545Leu	Polymorphism	rs40470	-
+SPANXN3	Q5MJ09	VAR_032026	p.Lys43Asn	Polymorphism	rs6654212	-
+SPECC1L	Q69YQ0	VAR_060448	p.Asp301Gly	Polymorphism	rs204710	-
+SPON2	Q9BUD6	VAR_019702	p.Glu122Ala	Polymorphism	rs11247975	-
+SPRYD4	Q8WW59	VAR_051381	p.Met50Thr	Polymorphism	rs2657881	-
+SRD5A2	P31213	VAR_013131	p.Val89Leu	Polymorphism	rs523349	-
+SSPO	A2VEC9	VAR_059873	p.Arg3274Trp	Polymorphism	rs740109	-
+SSPO	A2VEC9	VAR_059874	p.Asn3513Ser	Polymorphism	rs10952230	-
+SSPO	A2VEC9	VAR_059875	p.Cys3894Trp	Polymorphism	rs1557955	-
+SSPO	A2VEC9	VAR_059876	p.Arg3911Cys	Polymorphism	rs745044	-
+SSPO	A2VEC9	VAR_059877	p.Ser4030Ile	Polymorphism	rs1005603	-
+SSPO	A2VEC9	VAR_059878	p.His4166Arg	Polymorphism	rs10233245	-
+SSPO	A2VEC9	VAR_059879	p.Arg4332Cys	Polymorphism	rs1008336	-
+SSPO	A2VEC9	VAR_059880	p.His4790Arg	Polymorphism	rs1004200	-
+SSPO	A2VEC9	VAR_059881	p.Glu4944Lys	Polymorphism	rs12534509	-
+SSPO	A2VEC9	VAR_061917	p.Gln4109His	Polymorphism	rs12536873	-
+SSX6P	Q7RTT6	VAR_053692	p.Arg90Cys	Polymorphism	rs5952474	-
+SSX6P	Q7RTT6	VAR_053693	p.Lys138Gln	Polymorphism	rs17327911	-
+SSX9P	Q7RTT3	VAR_053695	p.Cys72Arg	Polymorphism	rs4598385	-
+SSX9P	Q7RTT3	VAR_060113	p.Ser97Pro	Polymorphism	rs6609702	-
+ST13P4	Q8IZP2	VAR_023644	p.Ser71Leu	Polymorphism	-	-
+ST20-AS1	Q8NBB2	VAR_050885	p.Val62Ala	Polymorphism	rs2733102	-
+STAG3L4	Q8TBR4	VAR_039255	p.Glu116Gln	Polymorphism	rs1045513	-
+SULT6B1	Q6IMI4	VAR_052522	p.Ala61Thr	Polymorphism	rs45552433	-
+SULT6B1	Q6IMI4	VAR_052523	p.Val75Asp	Polymorphism	rs45626240	-
+SULT6B1	Q6IMI4	VAR_052524	p.Lys88Glu	Polymorphism	rs45493492	-
+SULT6B1	Q6IMI4	VAR_052525	p.Glu167Val	Polymorphism	rs7425881	-
+SULT6B1	Q6IMI4	VAR_052526	p.Arg181Ser	Polymorphism	rs45439591	-
+SULT6B1	Q6IMI4	VAR_052527	p.Lys296Arg	Polymorphism	rs45495394	-
+SULT6B1	Q6IMI4	VAR_059853	p.Leu150Phe	Polymorphism	rs10205833	-
+SUMF2	Q8NBJ7	VAR_046951	p.Asp51Glu	Polymorphism	rs4245575	-
+SUMF2	Q8NBJ7	VAR_080774	p.Tyr228Cys	Unclassified	rs778487055	-
+SUMO4	Q6EEV6	VAR_023740	p.Met55Val	Polymorphism	rs237025	-
+SUN1	O94901	VAR_071066	p.Ala614Val	Polymorphism	-	-
+SURF2	Q15527	VAR_014785	p.Ser213Gly	Polymorphism	rs12763	-
+SYCE1	Q8N0S2	VAR_029387	p.Pro317Ala	Polymorphism	rs1313001903	-
+SYNJ1	O43426	VAR_047309	p.Val1366Ala	Polymorphism	rs9980589	-
+SYNM	O15061	VAR_012295	p.Ala272Val	Polymorphism	-	-
+SYNM	O15061	VAR_012306	p.Gly1386Glu	Polymorphism	rs2292288	-
+SYT14P1	Q58G82	VAR_038691	p.Thr97Met	Polymorphism	rs3819257	-
+TARM1	B6A8C7	VAR_063152	p.Arg111His	Polymorphism	rs80087697	-
+TARS1	P26639	VAR_034533	p.Gly21Asp	Polymorphism	rs34334786	-
+TAS2R42	Q7RTR8	VAR_053353	p.Tyr265Cys	Polymorphism	rs1451772	-
+TAS2R42	Q7RTR8	VAR_062087	p.Gly255Trp	Polymorphism	rs1669413	-
+TAS2R42	Q7RTR8	VAR_062088	p.Arg292Gln	Polymorphism	rs1669412	-
+TAS2R42	Q7RTR8	VAR_062089	p.Ala311Pro	Polymorphism	rs1650017	-
+TASOR	Q9UK61	VAR_033350	p.Ala831Gly	Polymorphism	rs17056999	-
+TASOR	Q9UK61	VAR_033351	p.Thr1046Arg	Polymorphism	rs9835332	-
+TASOR	Q9UK61	VAR_033352	p.Ile1435Val	Polymorphism	rs2291498	-
+TASOR	Q9UK61	VAR_055092	p.Val998Ile	Polymorphism	rs2291498	-
+TASOR	Q9UK61	VAR_059595	p.Gln38Pro	Polymorphism	rs958755	-
+TASOR2	Q5VWN6	VAR_034838	p.Arg1075Pro	Polymorphism	rs2797491	-
+TASOR2	Q5VWN6	VAR_034839	p.Val1679Ala	Polymorphism	rs2669142	-
+TASOR2	Q5VWN6	VAR_034840	p.Ser2404Asn	Polymorphism	rs2797501	-
+TASOR2	Q5VWN6	VAR_050848	p.Cys499Gly	Polymorphism	rs2254067	-
+TASOR2	Q5VWN6	VAR_050849	p.Ala630Asp	Polymorphism	rs4748636	-
+TASOR2	Q5VWN6	VAR_050850	p.Val1206Met	Polymorphism	rs3814196	-
+TASOR2	Q5VWN6	VAR_050851	p.Pro1578Ser	Polymorphism	rs17143175	-
+TASOR2	Q5VWN6	VAR_050852	p.Thr1782Ile	Polymorphism	rs11593253	-
+TASOR2	Q5VWN6	VAR_050853	p.Lys2288Arg	Polymorphism	rs2275774	-
+TASOR2	Q5VWN6	VAR_061601	p.Ser724Tyr	Polymorphism	rs56856085	-
+TASOR2	Q5VWN6	VAR_061602	p.Ile807Val	Polymorphism	rs45575338	-
+TBC1D17	Q9HA65	VAR_060276	p.Asp84Gly	Polymorphism	rs8109661	-
+TBXAS1	P24557	VAR_010919	p.Asp160Glu	Polymorphism	rs5768	-
+TBXAS1	P24557	VAR_010921	p.Leu356Val	Polymorphism	rs4529	-
+TBXAS1	P24557	VAR_010922	p.Gln416Glu	Polymorphism	rs4528	-
+TBXAS1	P24557	VAR_010924	p.Thr450Asn	Polymorphism	rs5763	-
+TBXAS1	P24557	VAR_010925	p.Arg465Gln	Polymorphism	rs41311778	-
+TBXAS1	P24557	VAR_014157	p.Arg60His	Polymorphism	rs6138	-
+TBXAS1	P24557	VAR_014159	p.Ile331Thr	Polymorphism	rs6140	-
+TBXAS1	P24557	VAR_014160	p.Arg424Cys	Polymorphism	rs5762	-
+TBXAS1	P24557	VAR_014161	p.Ala429Thr	Polymorphism	rs4526	-
+TBXAS1	P24557	VAR_014647	p.Lys257Glu	Polymorphism	rs5769	-
+TBXAS1	P24557	VAR_014648	p.Arg260Gly	Polymorphism	rs5770	-
+TBXAS1	P24557	VAR_018378	p.Val124Ile	Polymorphism	rs8192833	-
+TBXAS1	P24557	VAR_018380	p.Arg501Gln	Polymorphism	rs8192864	-
+TBXAS1	P24557	VAR_044386	p.Leu82Pro	Disease	rs140005285	Ghosal hematodiaphyseal dysplasia (GHDD) [MIM:231095]
+TBXAS1	P24557	VAR_044388	p.Arg412Gln	Disease	rs199422117	Ghosal hematodiaphyseal dysplasia (GHDD) [MIM:231095]
+TBXAS1	P24557	VAR_044389	p.Gly481Trp	Disease	rs199422116	Ghosal hematodiaphyseal dysplasia (GHDD) [MIM:231095]
+TBXAS1	P24557	VAR_044391	p.Leu512Pro	Polymorphism	rs13306050	-
+TBXAS1	P24557	VAR_055566	p.Pro511Leu	Polymorphism	rs13306050	-
+TBXAS1	P24557	VAR_058465	p.Leu70Pro	Polymorphism	rs13306050	-
+TBXAS1	P24557	VAR_058466	p.Leu70Val	Polymorphism	rs4529	-
+TCP11	Q8WWU5	VAR_039692	p.Gly253Ala	Polymorphism	rs2234045	-
+TCP11	Q8WWU5	VAR_039693	p.Arg429Gln	Polymorphism	rs2234051	-
+TENT4A	Q5XG87	VAR_021175	p.Asn556Ser	Polymorphism	rs28381415	-
+TENT4A	Q5XG87	VAR_021176	p.Gly626Ser	Polymorphism	rs28381418	-
+TENT5A	Q96IP4	VAR_028979	p.Thr313Ala	Polymorphism	-	-
+TENT5A	Q96IP4	VAR_080798	p.His127Arg	Unclassified	rs1187611948	Osteogenesis imperfecta 18 (OI18) [MIM:617952]
+TENT5A	Q96IP4	VAR_080799	p.Asp231Gly	Unclassified	rs1554200371	Osteogenesis imperfecta 18 (OI18) [MIM:617952]
+TENT5C	Q5VWP2	VAR_060132	p.His67Gln	Polymorphism	rs1630312	-
+TENT5D	Q8NEK8	VAR_028980	p.Asp185Glu	Polymorphism	rs1113265	-
+TEX15	Q9BXT5	VAR_060394	p.Cys104Arg	Polymorphism	rs323347	-
+TEX15	Q9BXT5	VAR_060395	p.Pro383Leu	Polymorphism	rs9297162	-
+TEX15	Q9BXT5	VAR_060397	p.Asn1311Ser	Polymorphism	rs323345	-
+TEX15	Q9BXT5	VAR_060398	p.Leu1337Val	Polymorphism	rs323344	-
+TEX15	Q9BXT5	VAR_061711	p.Asp2138Asn	Polymorphism	rs60474250	-
+TEX55	Q96M34	VAR_028841	p.Asn45Thr	Polymorphism	rs4687838	-
+TEX55	Q96M34	VAR_028842	p.Asp99Gly	Polymorphism	rs11550908	-
+TEX55	Q96M34	VAR_028843	p.Gln193His	Polymorphism	rs9859242	-
+TEX55	Q96M34	VAR_028844	p.Gly312Ser	Polymorphism	rs4077930	-
+TEX55	Q96M34	VAR_028845	p.Asp473Glu	Polymorphism	rs9289122	-
+TEX55	Q96M34	VAR_061574	p.Ser447Leu	Polymorphism	rs56317615	-
+TGFB1	P01137	VAR_016171	p.Leu10Pro	Polymorphism	rs1800470	-
+TIMM50	Q3ZCQ8	VAR_078568	p.Arg114Trp	Unclassified	rs1300848445	3-methylglutaconic aciduria 9 (MGCA9) [MIM:617698]
+TLE5	Q08117	VAR_011958	p.Ala168Glu	Polymorphism	rs1802578	-
+TLR5	O60602	VAR_047454	p.Phe822Leu	Polymorphism	rs7512943	-
+TMC4	Q7Z404	VAR_032621	p.Gly17Glu	Polymorphism	rs641738	-
+TMC4	Q7Z404	VAR_032622	p.Gln689Glu	Polymorphism	rs36657	-
+TMEM14DP	A8MWL7	VAR_045605	p.Arg108Cys	Polymorphism	rs5030881	-
+TMEM14EP	Q6UXP3	VAR_046161	p.Leu82Pro	Polymorphism	rs13077912	-
+TMEM185A	Q8NFB2	VAR_033923	p.Ser243Cys	Polymorphism	rs609828	-
+TMPRSS11A	Q6ZMR5	VAR_034797	p.Arg293Gln	Polymorphism	rs353163	-
+TNFRSF10D	Q9UBN6	VAR_011418	p.Ser310Leu	Polymorphism	rs1133782	-
+TNXB	P22105	VAR_046501	p.Leu3988Ile	Polymorphism	rs7742632	-
+TNXB	P22105	VAR_072581	p.Val3212Ile	Disease	rs1473257039	Vesicoureteral reflux 8 (VUR8) [MIM:615963]
+TNXB	P22105	VAR_072582	p.Arg4074Cys	Disease	rs587777682	Ehlers-Danlos syndrome, classic-like (EDSCLL) [MIM:606408]
+TOP6BL	Q8N6T0	VAR_082606	p.Ser401Pro	Unclassified	-	Hydatidiform mole, recurrent, 4 (HYDM4) [MIM:618432]
+TPSG1	Q9NRR2	VAR_012097	p.Met60Val	Polymorphism	rs760357	-
+TPSG1	Q9NRR2	VAR_012101	p.Leu288Phe	Polymorphism	rs1004041	-
+TRA	P0DSE1	VAR_081650	p.Gly110Ala	Polymorphism	-	-
+TRARG1	Q8IXB3	VAR_029589	p.His3Tyr	Polymorphism	rs75616699	-
+TRARG1	Q8IXB3	VAR_029590	p.Pro15Ser	Polymorphism	rs111587833	-
+TRARG1	Q8IXB3	VAR_029591	p.Ala18Thr	Polymorphism	rs111701043	-
+TRARG1	Q8IXB3	VAR_029592	p.Phe20Ser	Polymorphism	rs6502774	-
+TRARG1	Q8IXB3	VAR_029593	p.Glu34Asp	Polymorphism	rs75025906	-
+TRARG1	Q8IXB3	VAR_029594	p.Ser57Gly	Polymorphism	rs6502776	-
+TRB	P0DSE2	VAR_081651	p.Ile114Ser	Polymorphism	-	-
+TRBV7-9	P04435	VAR_080347	p.Lys30Asn	Polymorphism	-	-
+TRIM50	Q86XT4	VAR_020491	p.Leu8Pro	Polymorphism	rs6980124	-
+TRMT5	Q32P41	VAR_028898	p.Ser217Pro	Polymorphism	rs7142228	-
+TRPV5	Q9NQA5	VAR_022248	p.Arg154His	Polymorphism	rs4236480	-
+TRPV5	Q9NQA5	VAR_022249	p.Ala563Thr	Polymorphism	rs4252499	-
+TSBP1	Q5SRN2	VAR_022875	p.Cys30Arg	Polymorphism	rs3129941	-
+TSBP1	Q5SRN2	VAR_022876	p.Tyr36His	Polymorphism	rs9268384	-
+TSBP1	Q5SRN2	VAR_022877	p.Tyr69Cys	Polymorphism	rs9268368	-
+TSBP1	Q5SRN2	VAR_022878	p.Pro128Leu	Polymorphism	rs1033500	-
+TSBP1	Q5SRN2	VAR_022879	p.Ile150Phe	Polymorphism	rs1265754	-
+TSBP1	Q5SRN2	VAR_022880	p.Ser170Pro	Polymorphism	rs9405090	-
+TSBP1	Q5SRN2	VAR_022881	p.Ser227Pro	Polymorphism	rs560505	-
+TSBP1	Q5SRN2	VAR_022882	p.Ile315Val	Polymorphism	rs3749966	-
+TSBP1	Q5SRN2	VAR_022883	p.Lys400Gln	Polymorphism	rs7775397	-
+TSBP1	Q5SRN2	VAR_033068	p.Pro161Leu	Polymorphism	rs1003878	-
+TSBP1	Q5SRN2	VAR_056793	p.Leu266Trp	Polymorphism	rs4947338	-
+TSBP1	Q5SRN2	VAR_056794	p.Pro274Ser	Polymorphism	rs34498363	-
+TSBP1	Q5SRN2	VAR_056795	p.Ala433Thr	Polymorphism	rs16870005	-
+TSBP1	Q5SRN2	VAR_056796	p.Gly479Val	Polymorphism	rs7751028	-
+TSHR	P16473	VAR_003578	p.Asp727Glu	Polymorphism	rs1991517	-
+TSPO	B1AH88	VAR_059840	p.His53Arg	Polymorphism	rs6971	-
+TSPY26P	Q9H489	VAR_020256	p.Pro246His	Polymorphism	rs3813922	-
+TTC6	Q86TZ1	VAR_034132	p.Ile87Ser	Polymorphism	rs12896790	-
+TTC6	Q86TZ1	VAR_034133	p.Ala98Thr	Polymorphism	rs17768654	-
+TTLL13P	A6NNM8	VAR_057318	p.Ala126Thr	Polymorphism	rs12912620	-
+TTLL13P	A6NNM8	VAR_057319	p.Thr262Ile	Polymorphism	rs2063743	-
+TTLL3	Q9Y4R7	VAR_020207	p.Met502Arg	Polymorphism	rs2290305	-
+TTLL3	Q9Y4R7	VAR_036054	p.Gly454Ser	Unclassified	-	A colorectal cancer sample
+TTLL3	Q9Y4R7	VAR_036055	p.Met476Ile	Unclassified	-	A colorectal cancer sample
+TTLL3	Q9Y4R7	VAR_052410	p.Glu174Lys	Polymorphism	rs3806669	-
+TTLL3	Q9Y4R7	VAR_052411	p.Asn418His	Polymorphism	rs2290302	-
+TTLL3	Q9Y4R7	VAR_052412	p.Ala689Thr	Polymorphism	rs1057278	-
+TTLL6	Q8N841	VAR_039993	p.Glu664Asp	Polymorphism	rs2032844	-
+TTMP	Q5BVD1	VAR_027203	p.Ile111Val	Polymorphism	rs16859190	-
+TTMP	Q5BVD1	VAR_027204	p.Gly144Ser	Polymorphism	rs340167	-
+TTMP	Q5BVD1	VAR_059736	p.Leu66Pro	Polymorphism	rs16859172	-
+TUFM	P49411	VAR_031902	p.Arg336Gln	Disease	-	Combined oxidative phosphorylation deficiency 4 (COXPD4) [MIM:610678]
+TUT1	Q9H6E5	VAR_028833	p.Leu442Phe	Polymorphism	rs3197865	-
+TUT4	Q5TAX3	VAR_028402	p.Asp796Tyr	Polymorphism	rs12127732	-
+TUT7	Q5VYS8	VAR_053753	p.Ala40Val	Polymorphism	rs2378695	-
+UBXN8	O00124	VAR_052688	p.Ile51Thr	Polymorphism	rs2911690	-
+UGT2A1	Q9Y4X1	VAR_063113	p.Arg75Lys	Polymorphism	rs1347046	-
+UNC79	Q9P2D8	VAR_038260	p.Val1597Ala	Polymorphism	rs28670114	-
+UNC79	Q9P2D8	VAR_038261	p.Val1670Ile	Polymorphism	rs4905081	-
+UPK3B	Q9BT76	VAR_034561	p.Gln293Arg	Polymorphism	rs1636632	-
+UPK3B	Q9BT76	VAR_047805	p.Trp319Arg	Polymorphism	rs1799126	-
+USP40	Q9NVE5	VAR_017123	p.Val666Ala	Polymorphism	rs838543	-
+USP40	Q9NVE5	VAR_059753	p.Thr1025Met	Polymorphism	rs34026756	-
+USP41	Q3LFD5	VAR_042574	p.Tyr130Cys	Polymorphism	rs2542134	-
+USP41	Q3LFD5	VAR_042575	p.Asn325Ser	Polymorphism	rs2277833	-
+VGLL4	Q14135	VAR_024689	p.Met32Ile	Polymorphism	rs2276749	-
+VN1R4	Q7Z5H5	VAR_022801	p.Asp220Asn	Polymorphism	rs12977715	-
+VNN3	Q9NY84	VAR_025265	p.His33Arg	Polymorphism	rs764264	-
+VNN3	Q9NY84	VAR_025266	p.Thr89Ala	Polymorphism	rs36012859	-
+VNN3	Q9NY84	VAR_025267	p.Glu91Lys	Polymorphism	rs12174042	-
+VNN3	Q9NY84	VAR_025268	p.Val222Ala	Polymorphism	rs6569834	-
+VPS35L	Q7Z3J2	VAR_037230	p.Tyr32Cys	Polymorphism	rs17854969	-
+VPS35L	Q7Z3J2	VAR_037231	p.Asn186Ile	Polymorphism	rs7206637	-
+VPS35L	Q7Z3J2	VAR_037232	p.Ala506Val	Polymorphism	rs17854970	-
+WDR13	Q9H1Z4	VAR_060284	p.His325Arg	Polymorphism	rs235842	-
+WDR27	A2RRH5	VAR_035318	p.Val393Leu	Polymorphism	rs35895089	-
+WDR27	A2RRH5	VAR_035319	p.Arg437His	Polymorphism	rs3800544	-
+WDR27	A2RRH5	VAR_035320	p.Pro470Leu	Polymorphism	rs34313252	-
+WDR49	Q8IV35	VAR_027858	p.Leu651Pro	Polymorphism	rs13060964	-
+WDR49	Q8IV35	VAR_035889	p.Arg10His	Unclassified	rs74903439	A colorectal cancer sample
+WT1	P19544	VAR_007739	p.Pro181Ser	Disease	rs2234584	Wilms tumor 1 (WT1) [MIM:194070]
+WT1	P19544	VAR_007741	p.Gly253Ala	Disease	-	Wilms tumor 1 (WT1) [MIM:194070]
+WT1	P19544	VAR_007743	p.Cys330Tyr	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_007744	p.Cys360Gly	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_007745	p.Arg366Cys	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_007745	p.Arg366Cys	Disease	-	Meacham syndrome (MEACHS) [MIM:608978]
+WT1	P19544	VAR_007745	p.Arg366Cys	Disease	-	Wilms tumor 1 (WT1) [MIM:194070]
+WT1	P19544	VAR_007746	p.Arg366His	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_007746	p.Arg366His	Disease	-	Wilms tumor 1 (WT1) [MIM:194070]
+WT1	P19544	VAR_007747	p.His373Gln	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_007747	p.His373Gln	Disease	-	Wilms tumor 1 (WT1) [MIM:194070]
+WT1	P19544	VAR_007748	p.His377Tyr	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_007749	p.Phe383Leu	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_007751	p.Asp396Asn	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_007751	p.Asp396Asn	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_007752	p.Asp396Gly	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_015053	p.Arg312Gln	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_015054	p.Met342Arg	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_015056	p.His373Tyr	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_015057	p.His377Arg	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_015058	p.Cys385Arg	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_015059	p.Cys388Phe	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_015060	p.Phe392Leu	Disease	-	Frasier syndrome (FS) [MIM:136680]
+WT1	P19544	VAR_015062	p.Leu398Pro	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_043798	p.Ala131Thr	Unclassified	-	-
+WT1	P19544	VAR_043800	p.Cys360Tyr	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_043801	p.Phe364Leu	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_043802	p.Arg366Leu	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_043803	p.Gln369Pro	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_043804	p.Gly379Cys	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_043805	p.Cys388Arg	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_043806	p.Cys388Tyr	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_043809	p.Asp396Tyr	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_043810	p.His397Pro	Disease	-	Nephrotic syndrome 4 (NPHS4) [MIM:256370]
+WT1	P19544	VAR_043811	p.His401Tyr	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_043812	p.His405Arg	Disease	-	Denys-Drash syndrome (DDS) [MIM:194080]
+WT1	P19544	VAR_058021	p.Leu281Pro	Unclassified	-	-
+WT1-AS	Q06250	VAR_014631	p.Ala13Thr	Polymorphism	rs6508	-
+WT1-AS	Q06250	VAR_034563	p.Gly66Ala	Polymorphism	rs3087923	-
+XIRP2	A4UGR9	VAR_038449	p.Pro450Ala	Polymorphism	rs16853305	-
+XIRP2	A4UGR9	VAR_038450	p.Tyr457His	Polymorphism	rs16853306	-
+XIRP2	A4UGR9	VAR_038451	p.Ile1397Thr	Polymorphism	rs7588159	-
+XIRP2	A4UGR9	VAR_038453	p.Arg1626His	Polymorphism	rs16853309	-
+XIRP2	A4UGR9	VAR_038454	p.Asn1833Ser	Polymorphism	rs7607246	-
+XIRP2	A4UGR9	VAR_038455	p.Leu2423Arg	Polymorphism	rs16853326	-
+XIRP2	A4UGR9	VAR_038456	p.Ser2553Asn	Polymorphism	rs16853328	-
+XIRP2	A4UGR9	VAR_038457	p.His2595Tyr	Polymorphism	rs16853329	-
+XIRP2	A4UGR9	VAR_038459	p.Gly2728Asp	Polymorphism	rs3749002	-
+XIRP2	A4UGR9	VAR_038460	p.Ala2910Thr	Polymorphism	rs16853331	-
+XIRP2	A4UGR9	VAR_038461	p.Tyr2975Cys	Polymorphism	rs3749003	-
+XIRP2	A4UGR9	VAR_038463	p.Gly3202Glu	Polymorphism	rs16853333	-
+XIRP2	A4UGR9	VAR_076434	p.Ile2769Val	Polymorphism	rs781323589	-
+XP32	Q5T750	VAR_059739	p.Ser26Thr	Polymorphism	rs1332500	-
+XP32	Q5T750	VAR_059740	p.Thr159Pro	Polymorphism	rs873775	-
+XP32	Q5T750	VAR_061726	p.Leu173Val	Polymorphism	rs59194678	-
+XRCC1	P18887	VAR_011487	p.Arg399Gln	Polymorphism	rs25487	-
+XRCC1	P18887	VAR_014782	p.Asn576Ser	Polymorphism	rs2307177	-
+XRCC1	P18887	VAR_061727	p.Asn576Tyr	Polymorphism	rs2682557	-
+YAE1	Q9NRH1	VAR_024306	p.Lys68Glu	Polymorphism	rs6947660	-
+ZBTB8A	Q96BR9	VAR_058085	p.Gly418Ala	Polymorphism	rs704886	-
+ZFHX4	Q86UP3	VAR_057375	p.Ile2036Val	Polymorphism	rs16919452	-
+ZFHX4	Q86UP3	VAR_057376	p.Val3033Gly	Polymorphism	rs16939380	-
+ZFP36	P26651	VAR_021064	p.Pro37Ser	Polymorphism	rs17878633	-
+ZFP36	P26651	VAR_021065	p.Ile259Phe	Polymorphism	rs17886974	-
+ZFP36	P26651	VAR_021066	p.Val324Phe	Polymorphism	rs17884899	-
+ZFP36	P26651	VAR_052324	p.Pro55Ser	Polymorphism	rs2229272	-
+ZFP57	Q9NU63	VAR_032902	p.Asn114Ser	Polymorphism	rs9461544	-
+ZFP57	Q9NU63	VAR_032903	p.Asp284Val	Polymorphism	rs2535241	-
+ZFP57	Q9NU63	VAR_054771	p.Arg166His	Disease	rs199589695	Diabetes mellitus, transient neonatal, 1 (TNDM1) [MIM:601410]
+ZFYVE26	Q68DK2	VAR_037995	p.Ser1891Asn	Polymorphism	rs3742883	-
+ZG16	O60844	VAR_070695	p.Leu109Val	Polymorphism	-	-
+ZMAT1	Q5H9K5	VAR_062159	p.Gln536Arg	Polymorphism	rs5944882	-
+ZNF137P	P52743	VAR_012025	p.Gln181His	Polymorphism	rs1802617	-
+ZNF137P	P52743	VAR_033556	p.Arg112Gln	Polymorphism	rs7250969	-
+ZNF138	P52744	VAR_057398	p.Gly62Glu	Polymorphism	rs10949946	-
+ZNF180	Q9UJW8	VAR_030864	p.Ala41Val	Polymorphism	rs2571108	-
+ZNF180	Q9UJW8	VAR_030865	p.Trp89Cys	Polymorphism	rs2253563	-
+ZNF180	Q9UJW8	VAR_030866	p.Cys272Ser	Polymorphism	rs1897820	-
+ZNF252P	ASQ0IIN9	VAR_032035	p.Leu84Ile	Polymorphism	rs2294043	-
+ZNF280A	P59817	VAR_028218	p.Lys71Asn	Polymorphism	rs361959	-
+ZNF280A	P59817	VAR_028219	p.Asn136Ser	Polymorphism	rs362011	-
+ZNF280A	P59817	VAR_028220	p.Tyr137Ser	Polymorphism	rs361580	-
+ZNF280A	P59817	VAR_028221	p.Asn246Ser	Polymorphism	rs362132	-
+ZNF280A	P59817	VAR_028222	p.Gly249Ala	Polymorphism	rs362124	-
+ZNF280A	P59817	VAR_028224	p.Asn278Asp	Polymorphism	rs362003	-
+ZNF280A	P59817	VAR_028225	p.Phe486Leu	Polymorphism	rs361762	-
+ZNF280A	P59817	VAR_028226	p.Arg488Ser	Polymorphism	rs361666	-
+ZNF280B	Q86YH2	VAR_028013	p.Glu256Ala	Polymorphism	rs2236729	-
+ZNF285	Q96NJ3	VAR_057972	p.Asn208Ser	Polymorphism	rs2571089	-
+ZNF285	Q96NJ3	VAR_057973	p.Arg536Gly	Polymorphism	rs12610859	-
+ZNF385B	Q569K4	VAR_053765	p.Ser242Gly	Polymorphism	rs2271761	-
+ZNF385B	Q569K4	VAR_076447	p.Phe416Tyr	Polymorphism	-	-
+ZNF469	Q96JG9	VAR_033295	p.Thr3636Ala	Polymorphism	rs904783	-
+ZNF565	Q8N9K5	VAR_023938	p.Ile228Thr	Polymorphism	rs4805162	-
+ZNF598	Q86UK7	VAR_052147	p.Thr637Met	Polymorphism	rs2286469	-
+ZNF623	O75123	VAR_052881	p.Asn126Asp	Polymorphism	rs4874084	-
+ZNF625	Q96I27	VAR_052882	p.Val41Met	Polymorphism	rs7258368	-
+ZNF668	Q96K58	VAR_027689	p.Val25Leu	Polymorphism	rs2032917	-
+ZNF678	Q5SXM1	VAR_026154	p.Lys144Glu	Polymorphism	rs17854209	-
+ZNF678	Q5SXM1	VAR_057441	p.Thr197Ile	Polymorphism	rs12118505	-
+ZNF678	Q5SXM1	VAR_061962	p.Pro152Thr	Polymorphism	rs61283390	-
+ZNF714	Q96N38	VAR_042936	p.Lys331Arg	Polymorphism	rs2884554	-
+ZNF714	Q96N38	VAR_057448	p.Ile472Val	Polymorphism	rs10427116	-
+ZNF763	Q0D2J5	VAR_057450	p.Tyr324His	Polymorphism	rs7254529	-
+ZNF767P	Q75MW2	VAR_057034	p.His31Arg	Polymorphism	rs1723718	-
+ZNF767P	Q75MW2	VAR_057035	p.Gln38Arg	Polymorphism	rs1723719	-
+ZNF767P	Q75MW2	VAR_057036	p.Ala131Thr	Polymorphism	rs1808231	-
+ZNF767P	Q75MW2	VAR_057037	p.Thr134Ala	Polymorphism	rs354055	-
+ZNF818P	Q6ZRF7	VAR_033182	p.Glu14Lys	Polymorphism	rs10853858	-
+ZNF826P	Q6ZT77	VAR_059940	p.Cys148Tyr	Polymorphism	rs7247776	-
+ZNF840P	A6NDX5	VAR_048027	p.Tyr181Cys	Polymorphism	rs3752261	-
+ZNF875	P10072	VAR_047404	p.Arg448His	Polymorphism	rs2921563	-
+ZNF875	P10072	VAR_047405	p.Ser513Ile	Polymorphism	rs3745765	-
+ZNF875	P10072	VAR_047406	p.Thr628Ile	Polymorphism	rs3745764	-
+ZNRD2	O60232	VAR_051383	p.Thr21Met	Polymorphism	rs35971725	-
+-	A8MXQ7	VAR_044540	p.Thr509Arg	Polymorphism	rs4875053	-
+-	Q0VG73	VAR_044030	p.Ser19Arg	Polymorphism	rs12629299	-
+-	Q0VG73	VAR_044031	p.Ile63Met	Polymorphism	rs10936873	-
+-	Q6ZRM9	VAR_042676	p.Ala149Val	Polymorphism	rs12667117	-
+-	Q6ZRM9	VAR_042677	p.Val158Met	Polymorphism	rs12671601	-
+-	Q6ZRM9	VAR_042678	p.Phe205Leu	Polymorphism	rs10274643	-
+-	Q6ZRN7	VAR_043457	p.Ala108Gly	Polymorphism	rs7206805	-
+-	Q6ZRP5	VAR_043569	p.Arg2His	Polymorphism	rs11944677	-
+-	Q6ZTK2	VAR_039362	p.Gln100Arg	Polymorphism	rs8050530	-
+-	Q6ZTK2	VAR_039363	p.Gln183His	Polymorphism	rs7206698	-
+-	Q6ZTK2	VAR_039364	p.Val275Ala	Polymorphism	rs12932948	-
+-	Q6ZTK2	VAR_039365	p.Glu330Gln	Polymorphism	rs12933868	-
+-	Q6ZTK2	VAR_039366	p.Val345Ile	Polymorphism	rs13337464	-
+-	Q6ZTK2	VAR_039367	p.Thr368Ala	Polymorphism	rs4467099	-
+-	Q6ZTK2	VAR_039368	p.Trp419Arg	Polymorphism	rs4238608	-
+-	Q6ZVL8	VAR_043708	p.Thr30Ala	Polymorphism	rs8060538	-
+-	Q6ZVL8	VAR_043709	p.Gly75Arg	Polymorphism	rs8055082	-
+-	Q6ZVL8	VAR_043710	p.Lys82Arg	Polymorphism	rs9940490	-
+-	Q6ZVL8	VAR_043711	p.Pro105Ser	Polymorphism	rs8053661	-
+-	Q6ZVL8	VAR_043712	p.Cys136Ser	Polymorphism	rs8055382	-
+-	Q8IYB0	VAR_044325	p.Asp129Tyr	Unclassified	-	A colorectal cancer sample
+-	Q8N2B8	VAR_043938	p.Arg127Gln	Unclassified	-	A colorectal cancer sample
+-	Q8N402	VAR_042673	p.Pro97Leu	Polymorphism	rs12169718	-
+-	Q8N402	VAR_042674	p.Thr114Ser	Polymorphism	rs6519443	-
+-	Q8N402	VAR_042675	p.Thr131Pro	Polymorphism	rs6519442	-
+-	Q96M66	VAR_039178	p.Arg37His	Polymorphism	rs350229	-
+-	Q96M66	VAR_039179	p.Arg171Ser	Polymorphism	rs11648228	-
+-	Q9N2K0	VAR_017799	p.Val81Leu	Polymorphism	-	-
+-	Q9N2K0	VAR_017800	p.Phe150Leu	Polymorphism	-	-
