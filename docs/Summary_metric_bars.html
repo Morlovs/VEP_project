@@ -1,0 +1,105 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Summary_metric_bars</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://unpkg.com/tabulator-tables@4.9.3/dist/css/tabulator_simple.min.css" type="text/css" />
+        <link rel="stylesheet" href="https://unpkg.com/@holoviz/panel@0.11.3/dist/css/alerts.css" type="text/css" />
+        <link rel="stylesheet" href="https://unpkg.com/@holoviz/panel@0.11.3/dist/css/card.css" type="text/css" />
+        <link rel="stylesheet" href="https://unpkg.com/@holoviz/panel@0.11.3/dist/css/dataframe.css" type="text/css" />
+        <link rel="stylesheet" href="https://unpkg.com/@holoviz/panel@0.11.3/dist/css/json.css" type="text/css" />
+        <link rel="stylesheet" href="https://unpkg.com/@holoviz/panel@0.11.3/dist/css/loading.css" type="text/css" />
+        <link rel="stylesheet" href="https://unpkg.com/@holoviz/panel@0.11.3/dist/css/markdown.css" type="text/css" />
+        <link rel="stylesheet" href="https://unpkg.com/@holoviz/panel@0.11.3/dist/css/widgets.css" type="text/css" />
+        <style>
+            
+                    .bk.pn-loading.arcs:before {
+                      background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiBub25lOyBkaXNwbGF5OiBibG9jazsgc2hhcGUtcmVuZGVyaW5nOiBhdXRvOyIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4gIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjMyIiBzdHJva2Utd2lkdGg9IjgiIHN0cm9rZT0iI2MzYzNjMyIgc3Ryb2tlLWRhc2hhcnJheT0iNTAuMjY1NDgyNDU3NDM2NjkgNTAuMjY1NDgyNDU3NDM2NjkiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+ICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIga2V5VGltZXM9IjA7MSIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCI+PC9hbmltYXRlVHJhbnNmb3JtPiAgPC9jaXJjbGU+PC9zdmc+")
+                    }
+                    
+        </style>
+        
+        
+          
+        <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.9.3/dist/js/tabulator.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/moment@2.27.0/moment.js"></script>
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.3.1.min.js"></script>
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.3.1.min.js"></script>
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.3.1.min.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/@holoviz/panel@^0.11.3/dist/panel.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="77658f92-5990-44d2-aa3b-7bc27b1289ac" data-root-id="11810"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="11942">
+          {"2855de1a-224f-4bd9-984b-34b1f5cf42fa":{"defs":[],"roots":{"references":[{"attributes":{"margin":[5,5,5,5],"name":"HSpacer30746","sizing_mode":"stretch_width"},"id":"11880","type":"Spacer"},{"attributes":{"children":[{"id":"11811"},{"id":"11815"},{"id":"11880"}],"margin":[0,0,0,0],"name":"Row30741","tags":["embedded"]},"id":"11810","type":"Row"},{"attributes":{"bottom_units":"screen","fill_alpha":0.5,"fill_color":"lightgrey","left_units":"screen","level":"overlay","line_alpha":1.0,"line_color":"black","line_dash":[4,4],"line_width":2,"right_units":"screen","syncable":false,"top_units":"screen"},"id":"11836","type":"BoxAnnotation"},{"attributes":{"margin":[5,5,5,5],"name":"HSpacer30745","sizing_mode":"stretch_width"},"id":"11811","type":"Spacer"},{"attributes":{},"id":"11858","type":"AllLabels"},{"attributes":{"axis_label":"Score","formatter":{"id":"11859"},"major_label_policy":{"id":"11858"},"ticker":{"id":"11828"}},"id":"11827","type":"LinearAxis"},{"attributes":{"source":{"id":"11845"}},"id":"11852","type":"CDSView"},{"attributes":{"overlay":{"id":"11836"}},"id":"11834","type":"BoxZoomTool"},{"attributes":{"factors":["SIFT Accuracy","SIFT MCC","SIFT AUC","CADD Accuracy","CADD MCC","CADD AUC","PolyPhen Accuracy","PolyPhen MCC","PolyPhen AUC"],"palette":["#30a2da","#fc4f30","#e5ae38","#6d904f","#8b8b8b","#17becf","#9467bd","#d62728","#1f77b4"]},"id":"11844","type":"CategoricalColorMapper"},{"attributes":{"factors":[["Clinvar","PolyPhen AUC"],["Clinvar","PolyPhen MCC"],["Clinvar","PolyPhen Accuracy"],["Clinvar","CADD AUC"],["Clinvar","CADD MCC"],["Clinvar","CADD Accuracy"],["Clinvar","SIFT AUC"],["Clinvar","SIFT MCC"],["Clinvar","SIFT Accuracy"],["Clinvar expert","PolyPhen AUC"],["Clinvar expert","PolyPhen MCC"],["Clinvar expert","PolyPhen Accuracy"],["Clinvar expert","CADD AUC"],["Clinvar expert","CADD MCC"],["Clinvar expert","CADD Accuracy"],["Clinvar expert","SIFT AUC"],["Clinvar expert","SIFT MCC"],["Clinvar expert","SIFT Accuracy"],["Humsavar","PolyPhen AUC"],["Humsavar","PolyPhen MCC"],["Humsavar","PolyPhen Accuracy"],["Humsavar","CADD AUC"],["Humsavar","CADD MCC"],["Humsavar","CADD Accuracy"],["Humsavar","SIFT AUC"],["Humsavar","SIFT MCC"],["Humsavar","SIFT Accuracy"],["HumDiv","PolyPhen AUC"],["HumDiv","PolyPhen MCC"],["HumDiv","PolyPhen Accuracy"],["HumDiv","CADD AUC"],["HumDiv","CADD MCC"],["HumDiv","CADD Accuracy"],["HumDiv","SIFT AUC"],["HumDiv","SIFT MCC"],["HumDiv","SIFT Accuracy"],["HumVar","PolyPhen AUC"],["HumVar","PolyPhen MCC"],["HumVar","PolyPhen Accuracy"],["HumVar","CADD AUC"],["HumVar","CADD MCC"],["HumVar","CADD Accuracy"],["HumVar","SIFT AUC"],["HumVar","SIFT MCC"],["HumVar","SIFT Accuracy"]],"tags":[[["Dataset","Dataset",null],["Metric","Metric",null]]]},"id":"11812","type":"FactorRange"},{"attributes":{"data":{"Dataset":["Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar","Clinvar","Clinvar expert","Humsavar","HumDiv","HumVar"],"Metric":["SIFT Accuracy","SIFT Accuracy","SIFT Accuracy","SIFT Accuracy","SIFT Accuracy","SIFT MCC","SIFT MCC","SIFT MCC","SIFT MCC","SIFT MCC","SIFT AUC","SIFT AUC","SIFT AUC","SIFT AUC","SIFT AUC","CADD Accuracy","CADD Accuracy","CADD Accuracy","CADD Accuracy","CADD Accuracy","CADD MCC","CADD MCC","CADD MCC","CADD MCC","CADD MCC","CADD AUC","CADD AUC","CADD AUC","CADD AUC","CADD AUC","PolyPhen Accuracy","PolyPhen Accuracy","PolyPhen Accuracy","PolyPhen Accuracy","PolyPhen Accuracy","PolyPhen MCC","PolyPhen MCC","PolyPhen MCC","PolyPhen MCC","PolyPhen MCC","PolyPhen AUC","PolyPhen AUC","PolyPhen AUC","PolyPhen AUC","PolyPhen AUC"],"Score":{"__ndarray__":"Vz7L8+Du5z9yMQbWcXzpP5VE9kGWBeg/DCB8KNGS6z81XyUfu4vpP++pnPaUHOE/r8+c9SnH4z+DoQ4r3PLgP1G8ytqm+OY/+FCiJY8n4z8pXI/C9SjsP3sUrkfheuw/j8L1KFyP6j9xPQrXo3DtP9ejcD0K1+s/SfYINUMq4j9MiLmkarvkP/uWOV0Wk+U/G0ZB8Pj25j8axAd2/BfoP3XlszwP7tg/QYNNnUfF3T8MdO0L6IXdP5fl6zL8p+A/jQqcbAN34T/D9Shcj8LtP8P1KFyPwu0/16NwPQrX6z9xPQrXo3DtPx+F61G4Hu0/3szoR8Mp6T8YeVkTC/zpP/ePhegQuOg/38Mlx53S6z/Fyf0ORQHqP1xy3CkdLOI/qAAYz6Ah5D9uFi8WhsjhP68nui78YOc/B5s6j4r/4z/NzMzMzMzsP83MzMzMzOw/MzMzMzMz6z/D9Shcj8LtP3sUrkfheuw/","dtype":"float64","order":"little","shape":[45]},"xoffsets":[["Clinvar","SIFT Accuracy"],["Clinvar expert","SIFT Accuracy"],["Humsavar","SIFT Accuracy"],["HumDiv","SIFT Accuracy"],["HumVar","SIFT Accuracy"],["Clinvar","SIFT MCC"],["Clinvar expert","SIFT MCC"],["Humsavar","SIFT MCC"],["HumDiv","SIFT MCC"],["HumVar","SIFT MCC"],["Clinvar","SIFT AUC"],["Clinvar expert","SIFT AUC"],["Humsavar","SIFT AUC"],["HumDiv","SIFT AUC"],["HumVar","SIFT AUC"],["Clinvar","CADD Accuracy"],["Clinvar expert","CADD Accuracy"],["Humsavar","CADD Accuracy"],["HumDiv","CADD Accuracy"],["HumVar","CADD Accuracy"],["Clinvar","CADD MCC"],["Clinvar expert","CADD MCC"],["Humsavar","CADD MCC"],["HumDiv","CADD MCC"],["HumVar","CADD MCC"],["Clinvar","CADD AUC"],["Clinvar expert","CADD AUC"],["Humsavar","CADD AUC"],["HumDiv","CADD AUC"],["HumVar","CADD AUC"],["Clinvar","PolyPhen Accuracy"],["Clinvar expert","PolyPhen Accuracy"],["Humsavar","PolyPhen Accuracy"],["HumDiv","PolyPhen Accuracy"],["HumVar","PolyPhen Accuracy"],["Clinvar","PolyPhen MCC"],["Clinvar expert","PolyPhen MCC"],["Humsavar","PolyPhen MCC"],["HumDiv","PolyPhen MCC"],["HumVar","PolyPhen MCC"],["Clinvar","PolyPhen AUC"],["Clinvar expert","PolyPhen AUC"],["Humsavar","PolyPhen AUC"],["HumDiv","PolyPhen AUC"],["HumVar","PolyPhen AUC"]]},"selected":{"id":"11846"},"selection_policy":{"id":"11869"}},"id":"11845","type":"ColumnDataSource"},{"attributes":{"callback":null,"renderers":[{"id":"11851"}],"tags":["hv_created"],"tooltips":[["Dataset","@{Dataset}"],["Metric","@{Metric}"],["Score","@{Score}"]]},"id":"11814","type":"HoverTool"},{"attributes":{"text_color":"black","text_font_size":"12pt"},"id":"11816","type":"Title"},{"attributes":{"bottom":{"value":0},"fill_alpha":{"value":1.0},"fill_color":{"field":"Metric","transform":{"id":"11844"}},"hatch_alpha":{"value":1.0},"hatch_color":{"value":"black"},"hatch_scale":{"value":12.0},"hatch_weight":{"value":1.0},"line_alpha":{"value":1.0},"line_cap":{"value":"butt"},"line_color":{"value":"black"},"line_dash":{"value":[]},"line_dash_offset":{"value":0},"line_join":{"value":"bevel"},"line_width":{"value":1},"top":{"field":"Score"},"width":{"value":0.8},"x":{"field":"xoffsets"}},"id":"11853","type":"VBar"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"field":"Metric","transform":{"id":"11844"}},"line_alpha":{"value":0.1},"top":{"field":"Score"},"width":{"value":0.8},"x":{"field":"xoffsets"}},"id":"11849","type":"VBar"},{"attributes":{},"id":"11856","type":"AllLabels"},{"attributes":{"reset_end":1,"reset_start":0,"tags":[[["Score","Score",null]]]},"id":"11813","type":"Range1d"},{"attributes":{"fill_color":{"field":"Metric","transform":{"id":"11844"}},"top":{"field":"Score"},"width":{"value":0.8},"x":{"field":"xoffsets"}},"id":"11848","type":"VBar"},{"attributes":{},"id":"11822","type":"LinearScale"},{"attributes":{},"id":"11846","type":"Selection"},{"attributes":{"data_source":{"id":"11845"},"glyph":{"id":"11848"},"hover_glyph":null,"muted_glyph":{"id":"11850"},"nonselection_glyph":{"id":"11849"},"selection_glyph":{"id":"11853"},"view":{"id":"11852"}},"id":"11851","type":"GlyphRenderer"},{"attributes":{},"id":"11825","type":"CategoricalTicker"},{"attributes":{"below":[{"id":"11824"}],"center":[{"id":"11826"},{"id":"11830"}],"height":400,"left":[{"id":"11827"}],"margin":[5,5,5,5],"min_border_bottom":10,"min_border_left":10,"min_border_right":10,"min_border_top":10,"renderers":[{"id":"11851"}],"sizing_mode":"fixed","title":{"id":"11816"},"toolbar":{"id":"11837"},"width":800,"x_range":{"id":"11812"},"x_scale":{"id":"11820"},"y_range":{"id":"11813"},"y_scale":{"id":"11822"}},"id":"11815","subtype":"Figure","type":"Plot"},{"attributes":{"active_multi":null,"tools":[{"id":"11814"},{"id":"11831"},{"id":"11832"},{"id":"11833"},{"id":"11834"},{"id":"11835"}]},"id":"11837","type":"Toolbar"},{"attributes":{},"id":"11820","type":"CategoricalScale"},{"attributes":{},"id":"11828","type":"BasicTicker"},{"attributes":{},"id":"11869","type":"UnionRenderers"},{"attributes":{"axis":{"id":"11827"},"dimension":1,"grid_line_color":null,"ticker":null},"id":"11830","type":"Grid"},{"attributes":{"axis_label":"Dataset, Metric","formatter":{"id":"11855"},"major_label_orientation":0.7853981633974483,"major_label_policy":{"id":"11856"},"ticker":{"id":"11825"}},"id":"11824","type":"CategoricalAxis"},{"attributes":{},"id":"11833","type":"WheelZoomTool"},{"attributes":{},"id":"11859","type":"BasicTickFormatter"},{"attributes":{},"id":"11832","type":"PanTool"},{"attributes":{"axis":{"id":"11824"},"grid_line_color":null,"ticker":null},"id":"11826","type":"Grid"},{"attributes":{},"id":"11855","type":"CategoricalTickFormatter"},{"attributes":{},"id":"11835","type":"ResetTool"},{"attributes":{"fill_alpha":{"value":0.2},"fill_color":{"field":"Metric","transform":{"id":"11844"}},"line_alpha":{"value":0.2},"top":{"field":"Score"},"width":{"value":0.8},"x":{"field":"xoffsets"}},"id":"11850","type":"VBar"},{"attributes":{},"id":"11831","type":"SaveTool"}],"root_ids":["11810"]},"title":"Bokeh Application","version":"2.3.1"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('11942').textContent;
+                  var render_items = [{"docid":"2855de1a-224f-4bd9-984b-34b1f5cf42fa","root_ids":["11810"],"roots":{"11810":"77658f92-5990-44d2-aa3b-7bc27b1289ac"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
